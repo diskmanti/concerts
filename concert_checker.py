@@ -8,17 +8,32 @@ TICKETMASTER_API_KEY = os.environ.get("TICKETMASTER_API_KEY")
 # The file path provided by the GitHub Actions runner
 OUTPUT_FILE = os.environ.get("GITHUB_OUTPUT")
 
+# --- NEW: Set of European Country Codes ---
+# A set of European country codes (ISO 3166-1 alpha-2).
+# This includes EU and non-EU countries for comprehensive coverage of the continent.
+EUROPEAN_COUNTRY_CODES = {
+    "AL", "AD", "AM", "AT", "BY", "BE", "BA", "BG", "CH", "CY", "CZ", "DE",
+    "DK", "EE", "ES", "FO", "FI", "FR", "GB", "GE", "GI", "GR", "HR", "HU",
+    "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT",
+    "NL", "NO", "PL", "PT", "RO", "RS", "RU", "SE", "SI", "SK", "SM", "TR",
+    "UA", "VA"
+}
+
+
 def get_concert_info(artist_name):
-    """Fetches concert data for a single artist from the Ticketmaster API."""
+    """Fetches concert data for a single artist from the Ticketmaster API, filtered for Europe."""
     url = "https://app.ticketmaster.com/discovery/v2/events.json"
     params = {
         'apikey': TICKETMASTER_API_KEY,
         'keyword': artist_name,
         'classificationName': 'Music', # IMPORTANT: Filters results to only music events
-        'sort': 'date,asc'             # Gets the soonest events first
+        'sort': 'date,asc',             # Gets the soonest events first
+        # --- MODIFIED: Added countryCode filter ---
+        # The API accepts a comma-separated list of country codes.
+        'countryCode': ",".join(EUROPEAN_COUNTRY_CODES)
     }
     
-    print(f"Checking for {artist_name} using Ticketmaster API...")
+    print(f"Checking for {artist_name} in Europe using Ticketmaster API...")
     try:
         response = requests.get(url, params=params)
         response.raise_for_status() # Raise an error for bad responses (4xx or 5xx)
@@ -32,9 +47,9 @@ def get_concert_info(artist_name):
 def format_issue_body(all_concerts):
     """Formats the concert data into a nice Markdown string for the issue body."""
     if not any(all_concerts.values()):
-        return "No upcoming concerts found for your followed artists this week."
+        return "No upcoming European concerts found for your followed artists this week."
 
-    md_body = "Here are the upcoming shows for your followed bands:\n\n"
+    md_body = "Here are the upcoming shows in Europe for your followed bands:\n\n"
     for artist, events in all_concerts.items():
         if events:
             md_body += f"## {artist}\n"
@@ -71,7 +86,7 @@ if __name__ == "__main__":
         if concerts is not None:
             all_upcoming_concerts[band] = concerts
 
-    issue_title = f"Weekly Concert Alert: {date.today().isoformat()}"
+    issue_title = f"Weekly Concert Alert (Europe): {date.today().isoformat()}"
     issue_body = format_issue_body(all_upcoming_concerts)
     
     if OUTPUT_FILE:
