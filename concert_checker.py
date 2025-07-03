@@ -1,16 +1,20 @@
 import os
 import requests
-from datetime import date
+from datetime import date, datetime, time
+
+# --- NEW: Import the feed generator library ---
+from feedgen.feed import FeedGenerator
 
 # --- Configuration ---
-# This will be loaded from the GitHub Secret you create
 TICKETMASTER_API_KEY = os.environ.get("TICKETMASTER_API_KEY")
-# The file path provided by the GitHub Actions runner
 OUTPUT_FILE = os.environ.get("GITHUB_OUTPUT")
 
-# --- NEW: Set of European Country Codes ---
-# A set of European country codes (ISO 3166-1 alpha-2).
-# This includes EU and non-EU countries for comprehensive coverage of the continent.
+# --- NEW: Set a base URL for your feed. Important for links. ---
+# Replace with your actual GitHub Pages URL or where you'll host the feed.
+# For example: "https://your-username.github.io/your-repo-name/"
+FEED_BASE_URL = os.environ.get("FEED_BASE_URL", "https://github.com/YOUR_USERNAME/YOUR_REPO")
+
+
 EUROPEAN_COUNTRY_CODES = {
     "AL", "AD", "AM", "AT", "BY", "BE", "BA", "BG", "CH", "CY", "CZ", "DE",
     "DK", "EE", "ES", "FO", "FI", "FR", "GB", "GE", "GI", "GR", "HR", "HU",
@@ -26,19 +30,16 @@ def get_concert_info(artist_name):
     params = {
         'apikey': TICKETMASTER_API_KEY,
         'keyword': artist_name,
-        'classificationName': 'Music', # IMPORTANT: Filters results to only music events
-        'sort': 'date,asc',             # Gets the soonest events first
-        # --- MODIFIED: Added countryCode filter ---
-        # The API accepts a comma-separated list of country codes.
+        'classificationName': 'Music',
+        'sort': 'date,asc',
         'countryCode': ",".join(EUROPEAN_COUNTRY_CODES)
     }
     
     print(f"Checking for {artist_name} in Europe using Ticketmaster API...")
     try:
         response = requests.get(url, params=params)
-        response.raise_for_status() # Raise an error for bad responses (4xx or 5xx)
+        response.raise_for_status()
         data = response.json()
-        # Events are nested inside the '_embedded' key. If it doesn't exist, return an empty list.
         return data.get('_embedded', {}).get('events', [])
     except requests.exceptions.RequestException as e:
         print(f"  -> Failed to get data for {artist_name}: {e}")
@@ -54,12 +55,11 @@ def format_issue_body(all_concerts):
         if events:
             md_body += f"## {artist}\n"
             for event in events:
-                # The data structure is different, so we parse it accordingly
                 event_date = event['dates']['start'].get('localDate', 'N/A')
                 venue_info = event.get('_embedded', {}).get('venues', [{}])[0]
                 venue_name = venue_info.get('name', 'N/A')
                 city = venue_info.get('city', {}).get('name', 'N/A')
-                country = venue_info.get('country', {}).get('countryCode', 'N/A')
+                country = venue_info.get('country', {}).get('name', 'N/A')
                 ticket_url = event.get('url', '#')
                 
                 md_body += f"- **{event_date}** - {venue_name} in {city}, {country} ([See Tickets]({ticket_url}))\n"
@@ -67,7 +67,67 @@ def format_issue_body(all_concerts):
             
     return md_body
 
-# --- Main Execution (No changes needed below this line) ---
+# --- NEW: Function to generate the RSS feed ---
+def generate_rss_feed(all_concerts):
+    """Generates an RSS feed from the concert data and returns it as a string."""
+    fg = FeedGenerator()
+
+    # Set up the feed's channel information
+    fg.title('European Concerts for Followed Artists')
+    fg.link(href=FEED_BASE_URL, rel='alternate')
+    fg.description('Upcoming European concerts for artists followed in my list.')
+    fg.language('en')
+
+    # Flatten the list of all events and add the artist name to each event
+    flat_event_list = []
+    for artist, events in all_concerts.items():
+        if events:
+            for event in events:
+                event['artist_name'] = artist # Add artist context to the event
+                flat_event_list.append(event)
+    
+    # Sort all events by date, regardless of artist
+    # This makes for a much better, chronologically-ordered feed
+    flat_event_list.sort(key=lambda x: x['dates']['start'].get('localDate', '9999-12-31'))
+    
+    # Add each event as an item to the feed
+    for event in flat_event_list:
+        artist = event['artist_name']
+        event_date_str = event['dates']['start'].get('localDate', 'N/A')
+        venue_info = event.get('_embedded', {}).get('venues', [{}])[0]
+        venue_name = venue_info.get('name', 'N/A')
+        city = venue_info.get('city', {}).get('name', 'N/A')
+        country = venue_info.get('country', {}).get('name', 'N/A')
+        ticket_url = event.get('url', '#')
+
+        # Create a nice title and description for the feed item
+        item_title = f"{artist} @ {venue_name} in {city}, {country} on {event_date_str}"
+        item_description = f"A concert by {artist} is scheduled for {event_date_str} at {venue_name}."
+
+        fe = fg.add_entry()
+        fe.id(ticket_url)  # The ticket URL is a perfect unique identifier
+        fe.title(item_title)
+        fe.link(href=ticket_url)
+        fe.description(item_description)
+
+        # Handle the publication date. RSS requires a full datetime.
+        # We parse the date and combine it with a default time (e.g., noon)
+        # as the API's time field can be inconsistent.
+        try:
+            parsed_date = datetime.strptime(event_date_str, '%Y-%m-%d').date()
+            # We use a fixed time like noon. This is a reasonable default.
+            event_datetime = datetime.combine(parsed_date, time(12, 0))
+            fe.pubDate(event_datetime)
+        except (ValueError, TypeError):
+            # If date parsing fails, use the current time as a fallback
+            fe.pubDate(datetime.now())
+
+    # Return the feed as an XML string
+    # We set encoding to UTF-8 to handle special characters in band/venue names
+    return fg.rss_str(pretty=True)
+
+
+# --- Main Execution ---
 if __name__ == "__main__":
     if not TICKETMASTER_API_KEY:
         print("Error: TICKETMASTER_API_KEY secret not found.")
@@ -86,6 +146,7 @@ if __name__ == "__main__":
         if concerts is not None:
             all_upcoming_concerts[band] = concerts
 
+    # --- GitHub Issue Generation (Unchanged) ---
     issue_title = f"Weekly Concert Alert (Europe): {date.today().isoformat()}"
     issue_body = format_issue_body(all_upcoming_concerts)
     
@@ -101,4 +162,16 @@ if __name__ == "__main__":
         print("Title:", issue_title)
         print("Body:\n", issue_body)
 
-    print("Script finished.")
+    # --- NEW: RSS Feed Generation ---
+    print("\nGenerating RSS feed...")
+    rss_content = generate_rss_feed(all_upcoming_concerts)
+    
+    # Save the RSS feed to a file
+    try:
+        with open('concerts.rss', 'w', encoding='utf-8') as f:
+            f.write(rss_content)
+        print(" -> Successfully generated and saved to concerts.rss")
+    except Exception as e:
+        print(f" -> Error saving RSS file: {e}")
+
+    print("\nScript finished.")
