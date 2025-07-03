@@ -30,6 +30,15 @@ jobs:
           TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
         run: python concert_checker.py
 
+      # --- NEW STEP: Commit the generated RSS file back to the repository ---
+      - name: Commit RSS feed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated: Update concert RSS feed"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          file_pattern: concerts.rss # Only commit this specific file if it changes
+
       - name: Close previous concert alert issues
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
