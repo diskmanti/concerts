@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       issues: write       # Permission to create/close issues
-      contents: read      # <-- ADD THIS LINE: Permission for actions/checkout to read the repository contents
+      contents: write      # <-- ADD THIS LINE: Permission for actions/checkout to read the repository contents
 
     steps:
       - name: Checkout repo
