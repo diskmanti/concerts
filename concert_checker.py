@@ -78,6 +78,10 @@ def generate_rss_feed(all_concerts):
                 event['artist_name'] = artist
                 flat_event_list.append(event)
     
+    # If no events were found at all, we can still generate a valid, empty feed
+    if not flat_event_list:
+        print("  -> No concerts found to add to the RSS feed.")
+    
     flat_event_list.sort(key=lambda x: x['dates']['start'].get('localDate', '9999-12-31'))
     
     utc = pytz.UTC
@@ -108,6 +112,8 @@ def generate_rss_feed(all_concerts):
         except (ValueError, TypeError):
             fe.pubDate(datetime.now(utc))
 
+    # --- FIX WAS HERE ---
+    # This 'return' is now correctly un-indented to be outside the 'for' loop.
     return fg.rss_str(pretty=True)
 
 # --- Main Execution ---
@@ -126,7 +132,7 @@ if __name__ == "__main__":
     all_upcoming_concerts = {}
     for band in bands_to_track:
         concerts = get_concert_info(band)
-        if concerts is not None:
+        if concerts: # Only add artists that have upcoming concerts
             all_upcoming_concerts[band] = concerts
 
     # --- GitHub Issue Generation ---
@@ -135,6 +141,7 @@ if __name__ == "__main__":
     
     if OUTPUT_FILE:
         with open(OUTPUT_FILE, "a") as f:
+            # A more robust way to handle multiline output for GitHub Actions
             f.write(f"issue_title={issue_title}\n")
             f.write("issue_body<<EOF\n")
             f.write(f"{issue_body}\n")
@@ -149,11 +156,17 @@ if __name__ == "__main__":
     print("\nGenerating RSS feed...")
     rss_content = generate_rss_feed(all_upcoming_concerts)
     
-    try:
-        with open('concerts.rss', 'w', encoding='utf-8') as f:
-            f.write(rss_content)
-        print(" -> Successfully generated and saved to concerts.rss")
-    except Exception as e:
-        print(f" -> Error saving RSS file: {e}")
+    # It's good practice to check if the content is valid before writing
+    if rss_content:
+        try:
+            # 'w' mode will create the file if it doesn't exist or overwrite it if it does
+            with open('concerts.rss', 'w', encoding='utf-8') as f:
+                f.write(rss_content.decode('utf-8')) # feedgen returns bytes, so decode it
+            print(" -> Successfully generated and saved to concerts.rss")
+        except Exception as e:
+            print(f" -> Error saving RSS file: {e}")
+    else:
+        print(" -> RSS content was not generated (likely no events found). File not written.")
+
 
     print("\nScript finished.")
