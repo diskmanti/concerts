@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Jul 2025 18:53:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 09:15:54 +0000</lastBuildDate>
     <item>
       <title>Nouvelle Vague @ Tramshed in Cardiff, Great Britain on 2025-11-29</title>
       <link>https://www.ticketweb.uk/event/nouvelle-vague-tramshed-tickets/13691434?REFERRAL_ID=tmfeed</link>
@@ -105,13 +105,6 @@
       <description>A concert by Fidlar is scheduled for 2025-07-07 at Manchester Gorilla.</description>
       <guid isPermaLink="false">https://www.ticketweb.uk/event/fidlar-gorilla-tickets/14301133?REFERRAL_ID=tmfeed</guid>
       <pubDate>Mon, 07 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Attack @ N/A in Beuningen Gld, Netherlands on 2025-07-04</title>
-      <link>https://www.ticketmaster.nl/event/down-the-rabbit-hole-2025-%7C-festivalticket-tickets/829269001?language=en-us</link>
-      <description>A concert by Massive Attack is scheduled for 2025-07-04 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/down-the-rabbit-hole-2025-%7C-festivalticket-tickets/829269001?language=en-us</guid>
-      <pubDate>Fri, 04 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
