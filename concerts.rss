@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Jul 2025 09:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 09:32:49 +0000</lastBuildDate>
     <item>
       <title>1000mods @ Roundhouse in London, Great Britain on 2025-12-20</title>
       <link>https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-london-20-12-2025/event/1F00616FBC4325C0</link>
@@ -37,11 +37,25 @@
       <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Hives @ Alexandra Palace in London, Great Britain on 2025-11-29</title>
+      <link>https://www.ticketmaster.co.uk/the-hives-forever-forever-the-hives-london-29-11-2025/event/1F00627CB3573F6A</link>
+      <description>A concert by The Hives is scheduled for 2025-11-29 at Alexandra Palace.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-hives-forever-forever-the-hives-london-29-11-2025/event/1F00627CB3573F6A</guid>
+      <pubDate>Sat, 29 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nouvelle Vague @ Tramshed in Cardiff, Great Britain on 2025-11-29</title>
       <link>https://www.ticketweb.uk/event/nouvelle-vague-tramshed-tickets/13691434?REFERRAL_ID=tmfeed</link>
       <description>A concert by Nouvelle Vague is scheduled for 2025-11-29 at Tramshed.</description>
       <guid isPermaLink="false">https://www.ticketweb.uk/event/nouvelle-vague-tramshed-tickets/13691434?REFERRAL_ID=tmfeed</guid>
       <pubDate>Sat, 29 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ Aviva Studios - Warehouse in Manchester, Great Britain on 2025-11-28</title>
+      <link>https://www.ticketmaster.co.uk/the-hives-forever-forever-the-hives-manchester-28-11-2025/event/3500627CE882AA6B</link>
+      <description>A concert by The Hives is scheduled for 2025-11-28 at Aviva Studios - Warehouse.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-hives-forever-forever-the-hives-manchester-28-11-2025/event/3500627CE882AA6B</guid>
+      <pubDate>Fri, 28 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nouvelle Vague @ KOKO in London, Great Britain on 2025-11-27</title>
@@ -58,11 +72,25 @@
       <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Hives @ OVO Hydro in Glasgow, Great Britain on 2025-11-26</title>
+      <link>https://www.ticketmaster.co.uk/the-hives-forever-forever-the-hives-glasgow-26-11-2025/event/3600627B9D661656</link>
+      <description>A concert by The Hives is scheduled for 2025-11-26 at OVO Hydro.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-hives-forever-forever-the-hives-glasgow-26-11-2025/event/3600627B9D661656</guid>
+      <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nouvelle Vague @ Chalk, Brighton in Brighton, Great Britain on 2025-11-26</title>
       <link>https://www.ticketweb.uk/event/nouvelle-vague-chalk-tickets/13695464?REFERRAL_ID=tmfeed</link>
       <description>A concert by Nouvelle Vague is scheduled for 2025-11-26 at Chalk, Brighton.</description>
       <guid isPermaLink="false">https://www.ticketweb.uk/event/nouvelle-vague-chalk-tickets/13695464?REFERRAL_ID=tmfeed</guid>
       <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ Utilita Arena Cardiff in Cardiff, Great Britain on 2025-11-24</title>
+      <link>https://www.ticketmaster.co.uk/the-hives-forever-forever-the-hives-cardiff-24-11-2025/event/36006279A3A410AA</link>
+      <description>A concert by The Hives is scheduled for 2025-11-24 at Utilita Arena Cardiff.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-hives-forever-forever-the-hives-cardiff-24-11-2025/event/36006279A3A410AA</guid>
+      <pubDate>Mon, 24 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nouvelle Vague @ Queen Margaret Union in Glasgow, Great Britain on 2025-11-23</title>
@@ -72,11 +100,25 @@
       <pubDate>Sun, 23 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Hives @ N/A in Amsterdam, Netherlands on 2025-11-22</title>
+      <link>https://www.ticketmaster.nl/event/the-hives-world-tour-2025-tickets/691415860?language=en-us</link>
+      <description>A concert by The Hives is scheduled for 2025-11-22 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/the-hives-world-tour-2025-tickets/691415860?language=en-us</guid>
+      <pubDate>Sat, 22 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nouvelle Vague @ Trinity Arts Centre in Bristol, Great Britain on 2025-11-20</title>
       <link>https://www.ticketweb.uk/event/nouvelle-vague-trinity-centre-tickets/13685784?REFERRAL_ID=tmfeed</link>
       <description>A concert by Nouvelle Vague is scheduled for 2025-11-20 at Trinity Arts Centre.</description>
       <guid isPermaLink="false">https://www.ticketweb.uk/event/nouvelle-vague-trinity-centre-tickets/13685784?REFERRAL_ID=tmfeed</guid>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ Vorst Nationaal/Forest National in Forest (Brussels), Belgium on 2025-11-19</title>
+      <link>https://www.ticketmaster.be/event/the-hives-forever-forever-the-hives-world-tour-2025-tickets/933628122</link>
+      <description>A concert by The Hives is scheduled for 2025-11-19 at Vorst Nationaal/Forest National.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.be/event/the-hives-forever-forever-the-hives-world-tour-2025-tickets/933628122</guid>
+      <pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nouvelle Vague @ The Drill in Lincoln, Great Britain on 2025-11-16</title>
@@ -100,6 +142,41 @@
       <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Hives @ Movistar Arena in Madrid, Spain on 2025-11-02</title>
+      <link>https://www.ticketmaster.es/event/the-hives-forever-forever-the-hives-world-tour-2025-tickets/809387327?language=en-us</link>
+      <description>A concert by The Hives is scheduled for 2025-11-02 at Movistar Arena.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.es/event/the-hives-forever-forever-the-hives-world-tour-2025-tickets/809387327?language=en-us</guid>
+      <pubDate>Sun, 02 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ Sant Jordi Club in Barcelona, Spain on 2025-11-01</title>
+      <link>https://www.ticketmaster.es/event/the-hives-forever-forever-the-hives-world-tour-2025-tickets/1053097491?language=en-us</link>
+      <description>A concert by The Hives is scheduled for 2025-11-01 at Sant Jordi Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.es/event/the-hives-forever-forever-the-hives-world-tour-2025-tickets/1053097491?language=en-us</guid>
+      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ N/A in Zürich, Switzerland on 2025-10-28</title>
+      <link>https://www.ticketmaster.ch/event/the-hives-tickets/1691771926?language=en-us</link>
+      <description>A concert by The Hives is scheduled for 2025-10-28 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ch/event/the-hives-tickets/1691771926?language=en-us</guid>
+      <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ The Hive Nightclub &amp; Venue in Edinburgh, Great Britain on 2025-10-15</title>
+      <link>https://www.ticketweb.uk/event/dirty-sound-magnet-the-hive-nightclub-venue-tickets/14435013?REFERRAL_ID=tmfeed</link>
+      <description>A concert by The Hives is scheduled for 2025-10-15 at The Hive Nightclub &amp; Venue.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/dirty-sound-magnet-the-hive-nightclub-venue-tickets/14435013?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ The Hive Nightclub &amp; Venue in Edinburgh, Great Britain on 2025-10-04</title>
+      <link>https://www.ticketweb.uk/event/xander-and-the-peace-pirates-the-hive-nightclub-venue-tickets/13840714?REFERRAL_ID=tmfeed</link>
+      <description>A concert by The Hives is scheduled for 2025-10-04 at The Hive Nightclub &amp; Venue.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/xander-and-the-peace-pirates-the-hive-nightclub-venue-tickets/13840714?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Sat, 04 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nouvelle Vague @ JJ Arena in İstanbul, Turkey on 2025-09-27</title>
       <link>https://www.biletix.com/performance/4TX38/001/TURKIYE/tr</link>
       <description>A concert by Nouvelle Vague is scheduled for 2025-09-27 at JJ Arena.</description>
@@ -112,6 +189,48 @@
       <description>A concert by Nouvelle Vague is scheduled for 2025-09-26 at Jolly Joker Ankara.</description>
       <guid isPermaLink="false">https://www.biletix.com/performance/4VV66/001/TURKIYE/tr</guid>
       <pubDate>Fri, 26 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ The Hive Nightclub &amp; Venue in Edinburgh, Great Britain on 2025-09-16</title>
+      <link>https://www.ticketweb.uk/event/a-burial-at-sea-the-hive-nightclub-venue-tickets/14434993?REFERRAL_ID=tmfeed</link>
+      <description>A concert by The Hives is scheduled for 2025-09-16 at The Hive Nightclub &amp; Venue.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/a-burial-at-sea-the-hive-nightclub-venue-tickets/14434993?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dinosaur Pile Up @ Electric Ballroom in London, Great Britain on 2025-09-13</title>
+      <link>https://www.ticketweb.uk/event/dinosaur-pile-up-electric-ballroom-tickets/14328633?REFERRAL_ID=tmfeed</link>
+      <description>A concert by Dinosaur Pile Up is scheduled for 2025-09-13 at Electric Ballroom.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/dinosaur-pile-up-electric-ballroom-tickets/14328633?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Sat, 13 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dinosaur Pile Up @ Manchester New Century Hall in Manchester, Great Britain on 2025-09-11</title>
+      <link>https://www.ticketweb.uk/event/dinosaur-pile-up-new-century-hall-tickets/14328593?REFERRAL_ID=tmfeed</link>
+      <description>A concert by Dinosaur Pile Up is scheduled for 2025-09-11 at Manchester New Century Hall.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/dinosaur-pile-up-new-century-hall-tickets/14328593?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dinosaur Pile Up @ Glasgow Garage in Glasgow, Great Britain on 2025-09-09</title>
+      <link>https://www.ticketweb.uk/event/dinosaur-pile-up-the-garage-tickets/14300503?REFERRAL_ID=tmfeed</link>
+      <description>A concert by Dinosaur Pile Up is scheduled for 2025-09-09 at Glasgow Garage.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/dinosaur-pile-up-the-garage-tickets/14300503?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dinosaur Pile Up @ Electric Bristol in Bristol, Great Britain on 2025-09-06</title>
+      <link>https://www.ticketweb.uk/event/dinosaur-pile-up-electric-bristol-tickets/14293323?REFERRAL_ID=tmfeed</link>
+      <description>A concert by Dinosaur Pile Up is scheduled for 2025-09-06 at Electric Bristol.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/dinosaur-pile-up-electric-bristol-tickets/14293323?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Sat, 06 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dinosaur Pile Up @ The Mill in Birmingham, Great Britain on 2025-09-05</title>
+      <link>https://www.ticketweb.uk/event/dinosaur-pile-up-xoyo-birmingham-tickets/14363583?REFERRAL_ID=tmfeed</link>
+      <description>A concert by Dinosaur Pile Up is scheduled for 2025-09-05 at The Mill.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/dinosaur-pile-up-xoyo-birmingham-tickets/14363583?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Fri, 05 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Gorillaz @ Copper Box Arena in London, Great Britain on 2025-09-03</title>
@@ -142,11 +261,172 @@
       <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Hype Park in Krakow, Poland on 2025-08-11</title>
+      <link>https://www.ticketmaster.pl/event/canceled-warmduscher-tickets/31231586?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-11 at Hype Park.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/canceled-warmduscher-tickets/31231586?language=en-us</guid>
+      <pubDate>Mon, 11 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2025-08-11</title>
+      <link>https://www.ticketmaster.pl/event/attila--angelmaker-tickets/1056478403?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-11 at Hydrozagadka.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/attila--angelmaker-tickets/1056478403?language=en-us</guid>
+      <pubDate>Mon, 11 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Dorock Heavy Metal Club in İstanbul, Turkey on 2025-08-10</title>
+      <link>https://www.biletix.com/performance/3EBT4/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-10 at Dorock Heavy Metal Club.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/3EBT4/001/TURKIYE/tr</guid>
+      <pubDate>Sun, 10 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Letnia Scena Progresji in Warsaw, Poland on 2025-08-10</title>
+      <link>https://www.ticketmaster.pl/event/mayhem-%7C-special-guest-owls-woods-graves-tickets/1055102265?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-10 at Letnia Scena Progresji.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/mayhem-%7C-special-guest-owls-woods-graves-tickets/1055102265?language=en-us</guid>
+      <pubDate>Sun, 10 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kasabian @ Oran Mor in Glasgow, Great Britain on 2025-08-08</title>
+      <link>https://www.ticketweb.uk/event/oasis-96-kasabiant-oran-mor-tickets/14300813?REFERRAL_ID=tmfeed</link>
+      <description>A concert by Kasabian is scheduled for 2025-08-08 at Oran Mor.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/oasis-96-kasabiant-oran-mor-tickets/14300813?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Fri, 08 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Proxima in Warsaw, Poland on 2025-08-05</title>
+      <link>https://www.ticketmaster.pl/event/dark-angel-tickets/1576466803?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-05 at Proxima.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/dark-angel-tickets/1576466803?language=en-us</guid>
+      <pubDate>Tue, 05 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Zaklęte Rewiry in Wroclaw, Poland on 2025-08-04</title>
+      <link>https://www.ticketmaster.pl/event/dark-angel-tickets/1127713729?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-04 at Zaklęte Rewiry.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/dark-angel-tickets/1127713729?language=en-us</guid>
+      <pubDate>Mon, 04 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2025-08-03</title>
+      <link>https://www.ticketmaster.pl/event/deez-nuts-tickets/1694190462?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-03 at Hydrozagadka.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/deez-nuts-tickets/1694190462?language=en-us</guid>
+      <pubDate>Sun, 03 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ VooDoo Club - Stage 2 in Warsaw, Poland on 2025-08-03</title>
+      <link>https://www.ticketmaster.pl/event/rezn-%7C-support-khan-tickets/1453335879?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-03 at VooDoo Club - Stage 2.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/rezn-%7C-support-khan-tickets/1453335879?language=en-us</guid>
+      <pubDate>Sun, 03 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ New Cross Inn in London, Great Britain on 2025-08-01</title>
+      <link>https://www.universe.com/events/midnight-tickets-F5W9PN?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-01 at New Cross Inn.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/midnight-tickets-F5W9PN?ref=ticketmaster</guid>
+      <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ KüçükÇiftlik Park in İstanbul, Turkey on 2025-08-01</title>
+      <link>https://www.biletix.com/performance/4EP14/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-01 at KüçükÇiftlik Park.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4EP14/001/TURKIYE/tr</guid>
+      <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ KüçükÇiftlik Park in İstanbul, Turkey on 2025-08-01</title>
+      <link>https://www.biletix.com/performance/4EP13/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-08-01 at KüçükÇiftlik Park.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4EP13/001/TURKIYE/tr</guid>
+      <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Massive Attack @ Kunst!Rasen Bonn/Gronau in Bonn, Germany on 2025-08-01</title>
       <link>https://www.ticketmaster.de/event/massive-attack-tickets/2063852073?language=en-us</link>
       <description>A concert by Massive Attack is scheduled for 2025-08-01 at Kunst!Rasen Bonn/Gronau.</description>
       <guid isPermaLink="false">https://www.ticketmaster.de/event/massive-attack-tickets/2063852073?language=en-us</guid>
       <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Grieghallen, Griegsalen in Bergen, Norway on 2025-07-31</title>
+      <link>https://www.ticketmaster.no/event/beyond-the-gates-2025-thursday-tickets/593581521?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-31 at Grieghallen, Griegsalen.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.no/event/beyond-the-gates-2025-thursday-tickets/593581521?language=en-us</guid>
+      <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Pod Minogą in Poznan, Poland on 2025-07-30</title>
+      <link>https://www.ticketmaster.pl/event/yoth-iria--sarcator-tickets/334977214?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-30 at Pod Minogą.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/yoth-iria--sarcator-tickets/334977214?language=en-us</guid>
+      <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ VooDoo Club - Stage 1 in Warsaw, Poland on 2025-07-29</title>
+      <link>https://www.ticketmaster.pl/event/yoth-iria--sarcator-tickets/1985721769?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-29 at VooDoo Club - Stage 1.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/yoth-iria--sarcator-tickets/1985721769?language=en-us</guid>
+      <pubDate>Tue, 29 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Letnia Scena Progresji in Warsaw, Poland on 2025-07-23</title>
+      <link>https://www.ticketmaster.pl/event/dave-stewart-eurythmics-feat-vanessa-amorosi-tickets/1720047447?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-23 at Letnia Scena Progresji.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/dave-stewart-eurythmics-feat-vanessa-amorosi-tickets/1720047447?language=en-us</guid>
+      <pubDate>Wed, 23 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Centrum Kultury Wiatrak in Zabrze, Poland on 2025-07-23</title>
+      <link>https://www.ticketmaster.pl/event/dri-support-faul-techniczny-tickets/2021302217?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-23 at Centrum Kultury Wiatrak.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/dri-support-faul-techniczny-tickets/2021302217?language=en-us</guid>
+      <pubDate>Wed, 23 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kasabian @ Edinburgh Corn Exchange in Edinburgh, Great Britain on 2025-07-23</title>
+      <link>https://www.ticketmaster.co.uk/kasabian-edinburgh-23-07-2025/event/3E0062C2AC3C12A2</link>
+      <description>A concert by Kasabian is scheduled for 2025-07-23 at Edinburgh Corn Exchange.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/kasabian-edinburgh-23-07-2025/event/3E0062C2AC3C12A2</guid>
+      <pubDate>Wed, 23 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2025-07-22</title>
+      <link>https://www.ticketmaster.pl/event/dri-support-faul-techniczny-tickets/1930516930?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-22 at Hydrozagadka.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/dri-support-faul-techniczny-tickets/1930516930?language=en-us</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ P23 in Katowice, Poland on 2025-07-21</title>
+      <link>https://www.ticketmaster.pl/event/the-dandy-warhols-%7C-support-sisters-of-your-sunshine-vapour-tickets/868295414?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-21 at P23.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/the-dandy-warhols-%7C-support-sisters-of-your-sunshine-vapour-tickets/868295414?language=en-us</guid>
+      <pubDate>Mon, 21 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kasabian @ O2 City Hall Newcastle in Newcastle Upon Tyne, Great Britain on 2025-07-21</title>
+      <link>https://www.ticketmaster.co.uk/kasabian-newcastle-upon-tyne-21-07-2025/event/3E0062C2A5D211C1</link>
+      <description>A concert by Kasabian is scheduled for 2025-07-21 at O2 City Hall Newcastle.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/kasabian-newcastle-upon-tyne-21-07-2025/event/3E0062C2A5D211C1</guid>
+      <pubDate>Mon, 21 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ KüçükÇiftlik Park in İstanbul, Turkey on 2025-07-16</title>
+      <link>https://www.biletix.com/performance/4EP02/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-16 at KüçükÇiftlik Park.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4EP02/001/TURKIYE/tr</guid>
+      <pubDate>Wed, 16 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2025-07-16</title>
+      <link>https://www.ticketmaster.pl/event/change-of-date-kishi-bashi-tickets/1615148062?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-16 at Hydrozagadka.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/change-of-date-kishi-bashi-tickets/1615148062?language=en-us</guid>
+      <pubDate>Wed, 16 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
