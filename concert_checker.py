@@ -1,6 +1,7 @@
 import os
 import requests
 from datetime import date, datetime, time
+import json # Added for GitHub API request
 
 # Import the required libraries
 from feedgen.feed import FeedGenerator
@@ -8,6 +9,8 @@ import pytz
 
 # --- Configuration ---
 TICKETMASTER_API_KEY = os.environ.get("TICKETMASTER_API_KEY")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") # Added for creating a new issue
+GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY") # Added for creating a new issue
 OUTPUT_FILE = os.environ.get("GITHUB_OUTPUT")
 FEED_BASE_URL = os.environ.get("FEED_BASE_URL", "https://github.com/YOUR_USERNAME/YOUR_REPO")
 
@@ -40,6 +43,27 @@ def get_concert_info(artist_name):
         print(f"  -> Failed to get data for {artist_name}: {e}")
         return None
 
+def get_albania_concerts():
+    """Fetches all upcoming music concerts in Albania."""
+    url = "https://app.ticketmaster.com/discovery/v2/events.json"
+    params = {
+        'apikey': TICKETMASTER_API_KEY,
+        'classificationName': 'Music',
+        'sort': 'date,asc',
+        'countryCode': 'AL' # Country code for Albania
+    }
+    print("\nFetching all upcoming concerts in Albania...")
+    try:
+        response = requests.get(url, params=params)
+        response.raise_for_status()
+        data = response.json()
+        events = data.get('_embedded', {}).get('events', [])
+        print(f" -> Found {len(events)} concert(s) in Albania.")
+        return events
+    except requests.exceptions.RequestException as e:
+        print(f" -> Failed to get concert data for Albania: {e}")
+        return None
+
 def format_issue_body(all_concerts):
     """Formats the concert data into a nice Markdown string for the issue body."""
     if not any(all_concerts.values()):
@@ -62,6 +86,52 @@ def format_issue_body(all_concerts):
             
     return md_body
 
+def format_albania_issue_body(events):
+    """Formats the Albania concert data into a Markdown string for the issue body."""
+    if not events:
+        return "No upcoming concerts found in Albania this week."
+
+    md_body = "Here are all the upcoming concerts in Albania:\n\n"
+    for event in events:
+        # For general country-wide searches, the artist name is in the 'attractions'
+        artist_name = event.get('_embedded', {}).get('attractions', [{}])[0].get('name', 'N/A')
+        event_date = event['dates']['start'].get('localDate', 'N/A')
+        venue_info = event.get('_embedded', {}).get('venues', [{}])[0]
+        venue_name = venue_info.get('name', 'N/A')
+        city = venue_info.get('city', {}).get('name', 'N/A')
+        ticket_url = event.get('url', '#')
+        
+        md_body += f"- **{artist_name}** - {event_date} at {venue_name} in {city} ([See Tickets]({ticket_url}))\n"
+    md_body += "\n"
+    
+    return md_body
+
+def create_github_issue(title, body):
+    """Creates a new GitHub issue."""
+    if not GITHUB_TOKEN or not GITHUB_REPOSITORY:
+        print(" -> GITHUB_TOKEN or GITHUB_REPOSITORY secrets not found. Cannot create issue.")
+        return
+
+    url = f"https://api.github.com/repos/{GITHUB_REPOSITORY}/issues"
+    headers = {
+        "Authorization": f"token {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github.v3+json",
+    }
+    data = {
+        "title": title,
+        "body": body,
+    }
+
+    print(f"Creating new GitHub issue titled: '{title}'")
+    try:
+        response = requests.post(url, headers=headers, data=json.dumps(data))
+        response.raise_for_status()
+        print(" -> Successfully created GitHub issue.")
+    except requests.exceptions.RequestException as e:
+        print(f" -> Failed to create GitHub issue: {e}")
+        print(f"    Response: {e.response.text}")
+
+
 def generate_rss_feed(all_concerts):
     """Generates an RSS feed from the concert data and returns it as a string."""
     fg = FeedGenerator()
@@ -78,7 +148,6 @@ def generate_rss_feed(all_concerts):
                 event['artist_name'] = artist
                 flat_event_list.append(event)
     
-    # If no events were found at all, we can still generate a valid, empty feed
     if not flat_event_list:
         print("  -> No concerts found to add to the RSS feed.")
     
@@ -112,8 +181,6 @@ def generate_rss_feed(all_concerts):
         except (ValueError, TypeError):
             fe.pubDate(datetime.now(utc))
 
-    # --- FIX WAS HERE ---
-    # This 'return' is now correctly un-indented to be outside the 'for' loop.
     return fg.rss_str(pretty=True)
 
 # --- Main Execution ---
@@ -132,16 +199,15 @@ if __name__ == "__main__":
     all_upcoming_concerts = {}
     for band in bands_to_track:
         concerts = get_concert_info(band)
-        if concerts: # Only add artists that have upcoming concerts
+        if concerts:
             all_upcoming_concerts[band] = concerts
 
-    # --- GitHub Issue Generation ---
+    # --- GitHub Issue Generation (Followed Artists) ---
     issue_title = f"Weekly Concert Alert (Europe): {date.today().isoformat()}"
     issue_body = format_issue_body(all_upcoming_concerts)
     
     if OUTPUT_FILE:
         with open(OUTPUT_FILE, "a") as f:
-            # A more robust way to handle multiline output for GitHub Actions
             f.write(f"issue_title={issue_title}\n")
             f.write("issue_body<<EOF\n")
             f.write(f"{issue_body}\n")
@@ -156,17 +222,24 @@ if __name__ == "__main__":
     print("\nGenerating RSS feed...")
     rss_content = generate_rss_feed(all_upcoming_concerts)
     
-    # It's good practice to check if the content is valid before writing
     if rss_content:
         try:
-            # 'w' mode will create the file if it doesn't exist or overwrite it if it does
             with open('concerts.rss', 'w', encoding='utf-8') as f:
-                f.write(rss_content.decode('utf-8')) # feedgen returns bytes, so decode it
+                f.write(rss_content.decode('utf-8'))
             print(" -> Successfully generated and saved to concerts.rss")
         except Exception as e:
             print(f" -> Error saving RSS file: {e}")
     else:
         print(" -> RSS content was not generated (likely no events found). File not written.")
+    
+    # --- NEW FEATURE: Create GitHub Issue for Albanian Concerts ---
+    albania_concerts = get_albania_concerts()
+    if albania_concerts:
+        albania_issue_title = f"Upcoming Concerts in Albania: {date.today().isoformat()}"
+        albania_issue_body = format_albania_issue_body(albania_concerts)
+        create_github_issue(albania_issue_title, albania_issue_body)
+    else:
+        print("\nNo upcoming concerts found in Albania. Skipping issue creation.")
 
 
     print("\nScript finished.")
