@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Jul 2025 09:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 07:55:49 +0000</lastBuildDate>
     <item>
       <title>1000mods @ Roundhouse in London, Great Britain on 2025-12-20</title>
       <link>https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-london-20-12-2025/event/1F00616FBC4325C0</link>
@@ -104,6 +104,13 @@
       <link>https://www.ticketmaster.nl/event/the-hives-world-tour-2025-tickets/691415860?language=en-us</link>
       <description>A concert by The Hives is scheduled for 2025-11-22 at N/A.</description>
       <guid isPermaLink="false">https://www.ticketmaster.nl/event/the-hives-world-tour-2025-tickets/691415860?language=en-us</guid>
+      <pubDate>Sat, 22 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ N/A in Amsterdam, Netherlands on 2025-11-22</title>
+      <link>https://www.ticketmaster.nl/event/parking-permit-the-hives-tickets/404927506?language=en-us</link>
+      <description>A concert by The Hives is scheduled for 2025-11-22 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/parking-permit-the-hives-tickets/404927506?language=en-us</guid>
       <pubDate>Sat, 22 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -261,13 +268,6 @@
       <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ Hype Park in Krakow, Poland on 2025-08-11</title>
-      <link>https://www.ticketmaster.pl/event/canceled-warmduscher-tickets/31231586?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-11 at Hype Park.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/canceled-warmduscher-tickets/31231586?language=en-us</guid>
-      <pubDate>Mon, 11 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2025-08-11</title>
       <link>https://www.ticketmaster.pl/event/attila--angelmaker-tickets/1056478403?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2025-08-11 at Hydrozagadka.</description>
@@ -366,6 +366,13 @@
       <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Chalk, Brighton in Brighton, Great Britain on 2025-07-30</title>
+      <link>https://www.universe.com/events/wednesday-13-tickets-4H0T89?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-30 at Chalk, Brighton.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/wednesday-13-tickets-4H0T89?ref=ticketmaster</guid>
+      <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Heavy @ VooDoo Club - Stage 1 in Warsaw, Poland on 2025-07-29</title>
       <link>https://www.ticketmaster.pl/event/yoth-iria--sarcator-tickets/1985721769?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2025-07-29 at VooDoo Club - Stage 1.</description>
@@ -373,17 +380,24 @@
       <pubDate>Tue, 29 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ Letnia Scena Progresji in Warsaw, Poland on 2025-07-23</title>
-      <link>https://www.ticketmaster.pl/event/dave-stewart-eurythmics-feat-vanessa-amorosi-tickets/1720047447?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-07-23 at Letnia Scena Progresji.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/dave-stewart-eurythmics-feat-vanessa-amorosi-tickets/1720047447?language=en-us</guid>
-      <pubDate>Wed, 23 Jul 2025 12:00:00 +0000</pubDate>
+      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2025-07-26</title>
+      <link>https://www.universe.com/events/alice-in-chains-uk-bloody-grungers-tickets-CNZBV5?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-26 at Southampton 1865.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/alice-in-chains-uk-bloody-grungers-tickets-CNZBV5?ref=ticketmaster</guid>
+      <pubDate>Sat, 26 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Heavy @ Centrum Kultury Wiatrak in Zabrze, Poland on 2025-07-23</title>
       <link>https://www.ticketmaster.pl/event/dri-support-faul-techniczny-tickets/2021302217?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2025-07-23 at Centrum Kultury Wiatrak.</description>
       <guid isPermaLink="false">https://www.ticketmaster.pl/event/dri-support-faul-techniczny-tickets/2021302217?language=en-us</guid>
+      <pubDate>Wed, 23 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Letnia Scena Progresji in Warsaw, Poland on 2025-07-23</title>
+      <link>https://www.ticketmaster.pl/event/dave-stewart-eurythmics-feat-vanessa-amorosi-tickets/1720047447?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-23 at Letnia Scena Progresji.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/dave-stewart-eurythmics-feat-vanessa-amorosi-tickets/1720047447?language=en-us</guid>
       <pubDate>Wed, 23 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -415,18 +429,11 @@
       <pubDate>Mon, 21 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ KüçükÇiftlik Park in İstanbul, Turkey on 2025-07-16</title>
-      <link>https://www.biletix.com/performance/4EP02/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-07-16 at KüçükÇiftlik Park.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/4EP02/001/TURKIYE/tr</guid>
-      <pubDate>Wed, 16 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2025-07-16</title>
-      <link>https://www.ticketmaster.pl/event/change-of-date-kishi-bashi-tickets/1615148062?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-07-16 at Hydrozagadka.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/change-of-date-kishi-bashi-tickets/1615148062?language=en-us</guid>
-      <pubDate>Wed, 16 Jul 2025 12:00:00 +0000</pubDate>
+      <title>The Heavy @ The Foundry in Torquay, Great Britain on 2025-07-18</title>
+      <link>https://www.universe.com/events/drowning-pool-spineshank-hed-pe-tickets-9P3G0D?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-07-18 at The Foundry.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/drowning-pool-spineshank-hed-pe-tickets-9P3G0D?ref=ticketmaster</guid>
+      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
