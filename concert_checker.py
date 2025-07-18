@@ -1,16 +1,14 @@
 import os
 import requests
-from datetime import date, datetime, time
-import json # Added for GitHub API request
-
-# Import the required libraries
+from datetime import date, datetime, time, timedelta # Added timedelta
+import json
 from feedgen.feed import FeedGenerator
 import pytz
 
 # --- Configuration ---
 TICKETMASTER_API_KEY = os.environ.get("TICKETMASTER_API_KEY")
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") # Added for creating a new issue
-GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY") # Added for creating a new issue
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY")
 OUTPUT_FILE = os.environ.get("GITHUB_OUTPUT")
 FEED_BASE_URL = os.environ.get("FEED_BASE_URL", "https://github.com/YOUR_USERNAME/YOUR_REPO")
 
@@ -44,15 +42,28 @@ def get_concert_info(artist_name):
         return None
 
 def get_albania_concerts():
-    """Fetches all upcoming music concerts in Albania."""
+    """Fetches all upcoming music concerts in Albania within the next 3 months."""
+    # --- MODIFICATION START ---
+    # Calculate the start and end dates for the search window
+    start_datetime = datetime.utcnow()
+    end_datetime = start_datetime + timedelta(days=90)
+
+    # Format dates for the Ticketmaster API (YYYY-MM-DDTHH:mm:ssZ)
+    start_date_str = start_datetime.strftime('%Y-%m-%dT%H:%M:%SZ')
+    end_date_str = end_datetime.strftime('%Y-%m-%dT%H:%M:%SZ')
+    
     url = "https://app.ticketmaster.com/discovery/v2/events.json"
     params = {
         'apikey': TICKETMASTER_API_KEY,
         'classificationName': 'Music',
         'sort': 'date,asc',
-        'countryCode': 'AL' # Country code for Albania
+        'countryCode': 'AL', # Country code for Albania
+        'startDateTime': start_date_str, # Add start date
+        'endDateTime': end_date_str      # Add end date (3 months from now)
     }
-    print("\nFetching all upcoming concerts in Albania...")
+    
+    print(f"\nFetching all upcoming concerts in Albania for the next 3 months (until {end_datetime.date()})...")
+    # --- MODIFICATION END ---
     try:
         response = requests.get(url, params=params)
         response.raise_for_status()
@@ -89,11 +100,10 @@ def format_issue_body(all_concerts):
 def format_albania_issue_body(events):
     """Formats the Albania concert data into a Markdown string for the issue body."""
     if not events:
-        return "No upcoming concerts found in Albania this week."
+        return "No upcoming concerts found in Albania in the next 3 months."
 
-    md_body = "Here are all the upcoming concerts in Albania:\n\n"
+    md_body = "Here are all the upcoming concerts in Albania for the next 3 months:\n\n"
     for event in events:
-        # For general country-wide searches, the artist name is in the 'attractions'
         artist_name = event.get('_embedded', {}).get('attractions', [{}])[0].get('name', 'N/A')
         event_date = event['dates']['start'].get('localDate', 'N/A')
         venue_info = event.get('_embedded', {}).get('venues', [{}])[0]
@@ -130,7 +140,6 @@ def create_github_issue(title, body):
     except requests.exceptions.RequestException as e:
         print(f" -> Failed to create GitHub issue: {e}")
         print(f"    Response: {e.response.text}")
-
 
 def generate_rss_feed(all_concerts):
     """Generates an RSS feed from the concert data and returns it as a string."""
@@ -235,11 +244,12 @@ if __name__ == "__main__":
     # --- NEW FEATURE: Create GitHub Issue for Albanian Concerts ---
     albania_concerts = get_albania_concerts()
     if albania_concerts:
-        albania_issue_title = f"Upcoming Concerts in Albania: {date.today().isoformat()}"
+        # Update the issue title to reflect the new time window
+        albania_issue_title = f"Concerts in Albania (Next 3 Months): {date.today().isoformat()}"
         albania_issue_body = format_albania_issue_body(albania_concerts)
         create_github_issue(albania_issue_title, albania_issue_body)
     else:
-        print("\nNo upcoming concerts found in Albania. Skipping issue creation.")
-
+        # The print statement is already updated in the get_albania_concerts function
+        print("\nSkipping issue creation for Albania as no concerts were found in the next 3 months.")
 
     print("\nScript finished.")
