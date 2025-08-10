@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Aug 2025 14:12:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 09:16:54 +0000</lastBuildDate>
     <item>
       <title>1000mods @ Roundhouse in London, Great Britain on 2025-12-20</title>
       <link>https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-london-20-12-2025/event/1F00616FBC4325C0</link>
@@ -240,6 +240,13 @@
       <pubDate>Fri, 05 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Parkorman in İstanbul, Turkey on 2025-09-03</title>
+      <link>https://www.biletix.com/performance/4ST09/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-09-03 at Parkorman.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4ST09/001/TURKIYE/tr</guid>
+      <pubDate>Wed, 03 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Gorillaz @ Copper Box Arena in London, Great Britain on 2025-09-03</title>
       <link>https://www.ticketmaster.co.uk/gorillaz-mystery-show-london-03-09-2025/event/350062B7E5F06D61</link>
       <description>A concert by Gorillaz is scheduled for 2025-09-03 at Copper Box Arena.</description>
@@ -399,20 +406,6 @@
       <description>A concert by The Heavy is scheduled for 2025-08-10 at Letnia Scena Progresji.</description>
       <guid isPermaLink="false">https://www.ticketmaster.pl/event/mayhem-%7C-special-guest-owls-woods-graves-tickets/1055102265?language=en-us</guid>
       <pubDate>Sun, 10 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ N/A in Frankfurt am Main, Germany on 2025-08-08</title>
-      <link>https://www.ticketmaster.de/event/obituary-european-cod-summer-bash-25-tickets/982543431?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-08 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.de/event/obituary-european-cod-summer-bash-25-tickets/982543431?language=en-us</guid>
-      <pubDate>Fri, 08 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Oran Mor in Glasgow, Great Britain on 2025-08-08</title>
-      <link>https://www.ticketweb.uk/event/oasis-96-kasabiant-oran-mor-tickets/14300813?REFERRAL_ID=tmfeed</link>
-      <description>A concert by Kasabian is scheduled for 2025-08-08 at Oran Mor.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/oasis-96-kasabiant-oran-mor-tickets/14300813?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Fri, 08 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
