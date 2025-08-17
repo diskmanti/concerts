@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Aug 2025 09:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 09:15:56 +0000</lastBuildDate>
     <item>
       <title>1000mods @ Roundhouse in London, Great Britain on 2025-12-20</title>
       <link>https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-london-20-12-2025/event/1F00616FBC4325C0</link>
@@ -240,13 +240,6 @@
       <pubDate>Fri, 05 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ Parkorman in İstanbul, Turkey on 2025-09-03</title>
-      <link>https://www.biletix.com/performance/4ST09/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-09-03 at Parkorman.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/4ST09/001/TURKIYE/tr</guid>
-      <pubDate>Wed, 03 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Gorillaz @ Copper Box Arena in London, Great Britain on 2025-09-03</title>
       <link>https://www.ticketmaster.co.uk/gorillaz-mystery-show-london-03-09-2025/event/350062B7E5F06D61</link>
       <description>A concert by Gorillaz is scheduled for 2025-09-03 at Copper Box Arena.</description>
@@ -261,13 +254,6 @@
       <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ Wieża Bismarcka in Szczecinek, Poland on 2025-08-30</title>
-      <link>https://www.ticketmaster.pl/event/materiafest-xiii-29-30-sierpnia-2025-tickets/233182626?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-30 at Wieża Bismarcka.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/materiafest-xiii-29-30-sierpnia-2025-tickets/233182626?language=en-us</guid>
-      <pubDate>Sat, 30 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Gorillaz @ Copper Box Arena in London, Great Britain on 2025-08-30</title>
       <link>https://www.ticketmaster.co.uk/gorillaz-demon-days-london-30-08-2025/event/350062B7E5EE6CBF</link>
       <description>A concert by Gorillaz is scheduled for 2025-08-30 at Copper Box Arena.</description>
@@ -275,137 +261,11 @@
       <pubDate>Sat, 30 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ King Tuts Wah Wah Hut in Glasgow, Great Britain on 2025-08-29</title>
-      <link>https://www.ticketweb.uk/event/heavy-weather-heavyskint-king-tuts-wah-wah-hut-tickets/14473593?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-29 at King Tuts Wah Wah Hut.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/heavy-weather-heavyskint-king-tuts-wah-wah-hut-tickets/14473593?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Piece Hall in Halifax, Great Britain on 2025-08-29</title>
-      <link>https://www.ticketmaster.co.uk/nile-rodgers-chic-special-guests-the-halifax-29-08-2025/event/35006255AB7E4CCE</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-29 at The Piece Hall.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/nile-rodgers-chic-special-guests-the-halifax-29-08-2025/event/35006255AB7E4CCE</guid>
-      <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Gorillaz @ Copper Box Arena in London, Great Britain on 2025-08-29</title>
       <link>https://www.ticketmaster.co.uk/gorillaz-gorillaz-live-london-29-08-2025/event/350062B7E5EE6CB6</link>
       <description>A concert by Gorillaz is scheduled for 2025-08-29 at Copper Box Arena.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-gorillaz-live-london-29-08-2025/event/350062B7E5EE6CB6</guid>
       <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ H15 in København V, Denmark on 2025-08-21</title>
-      <link>https://www.ticketmaster.dk/event/downset-tickets/335684903?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-21 at H15.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.dk/event/downset-tickets/335684903?language=en-us</guid>
-      <pubDate>Thu, 21 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Pod Minogą in Poznan, Poland on 2025-08-19</title>
-      <link>https://www.ticketmaster.pl/event/panzerfaust--afsky-%7C-support-zmarym-tickets/1105862532?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-19 at Pod Minogą.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/panzerfaust--afsky-%7C-support-zmarym-tickets/1105862532?language=en-us</guid>
-      <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Gwarek in Krakow, Poland on 2025-08-18</title>
-      <link>https://www.ticketmaster.pl/event/panzerfaust--afsky-%7C-support-zmarym-tickets/486263721?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-18 at Klub Gwarek.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/panzerfaust--afsky-%7C-support-zmarym-tickets/486263721?language=en-us</guid>
-      <pubDate>Mon, 18 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Voodoo Club in Warsaw, Poland on 2025-08-17</title>
-      <link>https://www.ticketmaster.pl/event/panzerfaust--afsky-%7C-support-zmarym-tickets/1169409702?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-17 at Voodoo Club.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/panzerfaust--afsky-%7C-support-zmarym-tickets/1169409702?language=en-us</guid>
-      <pubDate>Sun, 17 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2025-08-16</title>
-      <link>https://www.universe.com/events/nozfest-2025-tickets-L5TZW0?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-16 at Southampton 1865.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/nozfest-2025-tickets-L5TZW0?ref=ticketmaster</guid>
-      <pubDate>Sat, 16 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Midgard-Borreparken, Horten in Horten, Norway on 2025-08-16</title>
-      <link>https://www.ticketmaster.no/event/midgardsblot-weekend-pass-tickets/1119155362?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-16 at Midgard-Borreparken, Horten.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.no/event/midgardsblot-weekend-pass-tickets/1119155362?language=en-us</guid>
-      <pubDate>Sat, 16 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Parc Communal de Baudour in Baudour, Belgium on 2025-08-15</title>
-      <link>https://www.universe.com/events/park-rock-festival-15-08-25-tickets-RL4P9K?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-15 at Parc Communal de Baudour.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/park-rock-festival-15-08-25-tickets-RL4P9K?ref=ticketmaster</guid>
-      <pubDate>Fri, 15 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Proxima in Warsaw, Poland on 2025-08-14</title>
-      <link>https://www.ticketmaster.pl/event/canceled-warmduscher-tickets/563018589?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-14 at Proxima.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/canceled-warmduscher-tickets/563018589?language=en-us</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ N/A in Düsseldorf, Germany on 2025-08-13</title>
-      <link>https://www.ticketmaster.de/event/obituary-european-cod-summer-bash-25-tickets/1258169449?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-13 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.de/event/obituary-european-cod-summer-bash-25-tickets/1258169449?language=en-us</guid>
-      <pubDate>Wed, 13 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Effenaar in Eindhoven, Netherlands on 2025-08-13</title>
-      <link>https://www.universe.com/events/prong-escuela-grind-tickets-QSNKDY?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-13 at Effenaar.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/prong-escuela-grind-tickets-QSNKDY?ref=ticketmaster</guid>
-      <pubDate>Wed, 13 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Midgard-Borreparken, Horten in Horten, Norway on 2025-08-13</title>
-      <link>https://www.ticketmaster.no/event/4-day-festival-pass-midgardsblot-metalfestival-2025-tickets/750605?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-13 at Midgard-Borreparken, Horten.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.no/event/4-day-festival-pass-midgardsblot-metalfestival-2025-tickets/750605?language=en-us</guid>
-      <pubDate>Wed, 13 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub 2progi in Poznan, Poland on 2025-08-12</title>
-      <link>https://www.ticketmaster.pl/event/angelmaker-support-violent-answer-tickets/1075912363?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-12 at Klub 2progi.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/angelmaker-support-violent-answer-tickets/1075912363?language=en-us</guid>
-      <pubDate>Tue, 12 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2025-08-11</title>
-      <link>https://www.ticketmaster.pl/event/angelmaker-support-violent-answer-tickets/1056478403?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-11 at Hydrozagadka.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/angelmaker-support-violent-answer-tickets/1056478403?language=en-us</guid>
-      <pubDate>Mon, 11 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Hype Park in Krakow, Poland on 2025-08-11</title>
-      <link>https://www.ticketmaster.pl/event/canceled-warmduscher-tickets/31231586?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-11 at Hype Park.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/canceled-warmduscher-tickets/31231586?language=en-us</guid>
-      <pubDate>Mon, 11 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Dorock Heavy Metal Club in İstanbul, Turkey on 2025-08-10</title>
-      <link>https://www.biletix.com/performance/3EBT4/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-10 at Dorock Heavy Metal Club.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/3EBT4/001/TURKIYE/tr</guid>
-      <pubDate>Sun, 10 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Letnia Scena Progresji in Warsaw, Poland on 2025-08-10</title>
-      <link>https://www.ticketmaster.pl/event/mayhem-%7C-special-guest-owls-woods-graves-tickets/1055102265?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-10 at Letnia Scena Progresji.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/mayhem-%7C-special-guest-owls-woods-graves-tickets/1055102265?language=en-us</guid>
-      <pubDate>Sun, 10 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
