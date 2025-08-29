@@ -42,11 +42,11 @@ def get_concert_info(artist_name):
         return None
 
 def get_albania_concerts():
-    """Fetches all upcoming music concerts in Albania within the next 7 months."""
+    """Fetches all upcoming music concerts in Albania within the next 12 months."""
     # --- MODIFICATION START ---
     # Calculate the start and end dates for the search window
     start_datetime = datetime.utcnow()
-    end_datetime = start_datetime + timedelta(days=220)
+    end_datetime = start_datetime + timedelta(days=365)
 
     # Format dates for the Ticketmaster API (YYYY-MM-DDTHH:mm:ssZ)
     start_date_str = start_datetime.strftime('%Y-%m-%dT%H:%M:%SZ')
@@ -59,10 +59,10 @@ def get_albania_concerts():
         'sort': 'date,asc',
         'countryCode': 'AL', # Country code for Albania
         'startDateTime': start_date_str, # Add start date
-        'endDateTime': end_date_str      # Add end date (7 months from now)
+        'endDateTime': end_date_str      # Add end date (12 months from now)
     }
     
-    print(f"\nFetching all upcoming concerts in Albania for the next 7 months (until {end_datetime.date()})...")
+    print(f"\nFetching all upcoming concerts in Albania for the next 12 months (until {end_datetime.date()})...")
     # --- MODIFICATION END ---
     try:
         response = requests.get(url, params=params)
@@ -100,9 +100,9 @@ def format_issue_body(all_concerts):
 def format_albania_issue_body(events):
     """Formats the Albania concert data into a Markdown string for the issue body."""
     if not events:
-        return "No upcoming concerts found in Albania in the next 7 months."
+        return "No upcoming concerts found in Albania in the next 12 months."
 
-    md_body = "Here are all the upcoming concerts in Albania for the next 7 months:\n\n"
+    md_body = "Here are all the upcoming concerts in Albania for the next 12 months:\n\n"
     for event in events:
         artist_name = event.get('_embedded', {}).get('attractions', [{}])[0].get('name', 'N/A')
         event_date = event['dates']['start'].get('localDate', 'N/A')
@@ -245,7 +245,7 @@ if __name__ == "__main__":
     albania_concerts = get_albania_concerts()
     if albania_concerts:
         # Update the issue title to reflect the new time window
-        albania_issue_title = f"Concerts in Albania (Next 7 Months): {date.today().isoformat()}"
+        albania_issue_title = f"Concerts in Albania (Next 12 months): {date.today().isoformat()}"
         albania_issue_body = format_albania_issue_body(albania_concerts)
         create_github_issue(albania_issue_title, albania_issue_body)
     else:
