@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Aug 2025 13:45:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 09:14:14 +0000</lastBuildDate>
     <item>
       <title>Kasabian @ Manchester New Century Hall in Manchester, Great Britain on 2026-05-30</title>
       <link>https://www.universe.com/events/trib-festival-killers-v-fender-v-monkeys-v-oasis-v-stone-roses-v-kasabian-tickets-L91B4Y?ref=ticketmaster</link>
@@ -310,6 +310,13 @@
       <pubDate>Sat, 04 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Zorlu PSM - Turkcell Sahnesi in İstanbul, Turkey on 2025-09-27</title>
+      <link>https://www.biletix.com/performance/40XAP/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-09-27 at Zorlu PSM - Turkcell Sahnesi.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/40XAP/001/TURKIYE/tr</guid>
+      <pubDate>Sat, 27 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nouvelle Vague @ JJ Arena Ataşehir in İstanbul, Turkey on 2025-09-27</title>
       <link>https://www.biletix.com/performance/4TX38/001/TURKIYE/tr</link>
       <description>A concert by Nouvelle Vague is scheduled for 2025-09-27 at JJ Arena Ataşehir.</description>
@@ -317,11 +324,25 @@
       <pubDate>Sat, 27 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Milyon Performance Hall Ankara in Ankara, Turkey on 2025-09-26</title>
+      <link>https://www.biletix.com/performance/40XAR/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-09-26 at Milyon Performance Hall Ankara.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/40XAR/001/TURKIYE/tr</guid>
+      <pubDate>Fri, 26 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nouvelle Vague @ Jolly Joker Ankara in Ankara, Turkey on 2025-09-26</title>
       <link>https://www.biletix.com/performance/4VV66/001/TURKIYE/tr</link>
       <description>A concert by Nouvelle Vague is scheduled for 2025-09-26 at Jolly Joker Ankara.</description>
       <guid isPermaLink="false">https://www.biletix.com/performance/4VV66/001/TURKIYE/tr</guid>
       <pubDate>Fri, 26 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Brighton Concorde 2 in Brighton, Great Britain on 2025-09-25</title>
+      <link>https://www.universe.com/events/florence-black-tickets-4TPH2W?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-09-25 at Brighton Concorde 2.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/florence-black-tickets-4TPH2W?ref=ticketmaster</guid>
+      <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Heavy @ AFAS Dome in Merksem (Antwerpen), Belgium on 2025-09-24</title>
@@ -504,41 +525,6 @@
       <description>A concert by The Hives is scheduled for 2025-08-31 at Stylus.</description>
       <guid isPermaLink="false">https://www.universe.com/events/the-hives-tickets-MTR634?ref=ticketmaster</guid>
       <pubDate>Sun, 31 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Wieża Bismarcka in Szczecinek, Poland on 2025-08-30</title>
-      <link>https://www.ticketmaster.pl/event/materiafest-xiii-29-30-sierpnia-2025-tickets/233182626?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-30 at Wieża Bismarcka.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/materiafest-xiii-29-30-sierpnia-2025-tickets/233182626?language=en-us</guid>
-      <pubDate>Sat, 30 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Copper Box Arena in London, Great Britain on 2025-08-30</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-demon-days-london-30-08-2025/event/350062B7E5EE6CBF</link>
-      <description>A concert by Gorillaz is scheduled for 2025-08-30 at Copper Box Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-demon-days-london-30-08-2025/event/350062B7E5EE6CBF</guid>
-      <pubDate>Sat, 30 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ King Tuts Wah Wah Hut in Glasgow, Great Britain on 2025-08-29</title>
-      <link>https://www.ticketweb.uk/event/heavy-weather-heavyskint-king-tuts-wah-wah-hut-tickets/14473593?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-29 at King Tuts Wah Wah Hut.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/heavy-weather-heavyskint-king-tuts-wah-wah-hut-tickets/14473593?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Piece Hall in Halifax, Great Britain on 2025-08-29</title>
-      <link>https://www.ticketmaster.co.uk/nile-rodgers-chic-special-guests-the-halifax-29-08-2025/event/35006255AB7E4CCE</link>
-      <description>A concert by The Heavy is scheduled for 2025-08-29 at The Piece Hall.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/nile-rodgers-chic-special-guests-the-halifax-29-08-2025/event/35006255AB7E4CCE</guid>
-      <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Copper Box Arena in London, Great Britain on 2025-08-29</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-gorillaz-live-london-29-08-2025/event/350062B7E5EE6CB6</link>
-      <description>A concert by Gorillaz is scheduled for 2025-08-29 at Copper Box Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-gorillaz-live-london-29-08-2025/event/350062B7E5EE6CB6</guid>
-      <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
