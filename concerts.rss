@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2025 09:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 09:13:59 +0000</lastBuildDate>
     <item>
       <title>Kasabian @ Finsbury Park in London, Great Britain on 2026-07-04</title>
       <link>https://www.ticketmaster.co.uk/kasabian-london-04-07-2026/event/37006333AF09A706</link>
@@ -91,6 +91,13 @@
       <description>A concert by Tame Impala is scheduled for 2026-04-27 at Unity Arena.</description>
       <guid isPermaLink="false">https://www.ticketmaster.no/event/tame-impala-deadbeat-tour-tickets/237838952?language=en-us</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tame Impala @ N/A in Stockholm, Sweden on 2026-04-26</title>
+      <link>https://www.ticketmaster.se/event/tame-impala-platinum-tickets-tickets/95494207?language=en-us</link>
+      <description>A concert by Tame Impala is scheduled for 2026-04-26 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.se/event/tame-impala-platinum-tickets-tickets/95494207?language=en-us</guid>
+      <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ O2 Arena in Praha 9, Czech Republic on 2026-04-20</title>
@@ -513,6 +520,48 @@
       <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Olympiahalle in Munich, Germany on 2025-10-17</title>
+      <link>https://www.ticketmaster.de/event/disturbed-the-sickness-25th-anniversary-tour-tickets/410911180?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-10-17 at Olympiahalle.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.de/event/disturbed-the-sickness-25th-anniversary-tour-tickets/410911180?language=en-us</guid>
+      <pubDate>Fri, 17 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Brabanthallen in Den Bosch, Netherlands on 2025-10-17</title>
+      <link>https://www.ticketmaster.nl/event/the-rock-circus-2025-weekendticket-tickets/9172375?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-10-17 at Brabanthallen.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/the-rock-circus-2025-weekendticket-tickets/9172375?language=en-us</guid>
+      <pubDate>Fri, 17 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2025-10-16</title>
+      <link>https://www.ticketmaster.pl/event/cancelled-goldlink-tickets/1377728710?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-10-16 at Klub Progresja.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/cancelled-goldlink-tickets/1377728710?language=en-us</guid>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2025-10-16</title>
+      <link>https://www.universe.com/events/paradise-lost-tickets-S68R07?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-10-16 at Southampton 1865.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/paradise-lost-tickets-S68R07?ref=ticketmaster</guid>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Attic in Leeds, Great Britain on 2025-10-15</title>
+      <link>https://www.universe.com/events/heavy-lungs-tickets-687C3Q?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-10-15 at The Attic.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/heavy-lungs-tickets-687C3Q?ref=ticketmaster</guid>
+      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Vorst Nationaal/Forest National in Forest (Brussels), Belgium on 2025-10-15</title>
+      <link>https://www.ticketmaster.be/event/disturbed-the-sickness-25th-anniversary-tour-%7C-enhanced-experiences-tickets/954810022</link>
+      <description>A concert by The Heavy is scheduled for 2025-10-15 at Vorst Nationaal/Forest National.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.be/event/disturbed-the-sickness-25th-anniversary-tour-%7C-enhanced-experiences-tickets/954810022</guid>
+      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Heavy @ Vorst Nationaal/Forest National in Forest (Brussels), Belgium on 2025-10-15</title>
       <link>https://www.ticketmaster.be/event/disturbed-the-sickness-25th-anniversary-tour-tickets/1298323841</link>
       <description>A concert by The Heavy is scheduled for 2025-10-15 at Vorst Nationaal/Forest National.</description>
@@ -528,9 +577,9 @@
     </item>
     <item>
       <title>The Heavy @ Horn @ St Albans in St Albans, Great Britain on 2025-10-14</title>
-      <link>https://www.ticketweb.uk/event/heavy-lungs-the-horn-tickets/14449663?REFERRAL_ID=tmfeed</link>
+      <link>https://www.ticketweb.uk/event/heavy-lungs-joe-the-the-horn-tickets/14449663?REFERRAL_ID=tmfeed</link>
       <description>A concert by The Heavy is scheduled for 2025-10-14 at Horn @ St Albans.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/heavy-lungs-the-horn-tickets/14449663?REFERRAL_ID=tmfeed</guid>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/heavy-lungs-joe-the-the-horn-tickets/14449663?REFERRAL_ID=tmfeed</guid>
       <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -616,55 +665,6 @@
       <description>A concert by The Heavy is scheduled for 2025-10-05 at OCZKI.</description>
       <guid isPermaLink="false">https://www.ticketmaster.pl/event/dadi-freyr-the-sensual-seductive--sexy-tour-%7C-support-montaigne-tickets/56175258?language=en-us</guid>
       <pubDate>Sun, 05 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ New Cross Inn in London, Great Britain on 2025-10-04</title>
-      <link>https://www.universe.com/events/extinction-of-mankind-tickets-XD5H2V?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-04 at New Cross Inn.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/extinction-of-mankind-tickets-XD5H2V?ref=ticketmaster</guid>
-      <pubDate>Sat, 04 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hives @ The Hive Nightclub &amp; Venue in Edinburgh, Great Britain on 2025-10-04</title>
-      <link>https://www.ticketweb.uk/event/xander-and-the-peace-pirates-the-hive-nightclub-venue-tickets/13840714?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Hives is scheduled for 2025-10-04 at The Hive Nightclub &amp; Venue.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/xander-and-the-peace-pirates-the-hive-nightclub-venue-tickets/13840714?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Sat, 04 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Zorlu PSM - Turkcell Sahnesi in İstanbul, Turkey on 2025-10-03</title>
-      <link>https://www.biletix.com/performance/40XB2/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-03 at Zorlu PSM - Turkcell Sahnesi.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/40XB2/001/TURKIYE/tr</guid>
-      <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2025-10-01</title>
-      <link>https://www.ticketmaster.pl/event/maggie-reilly-moonlight-shadow-2025-tickets/1693743733?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-01 at Klub Progresja.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/maggie-reilly-moonlight-shadow-2025-tickets/1693743733?language=en-us</guid>
-      <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ N/A in Düsseldorf, Germany on 2025-10-01</title>
-      <link>https://www.ticketmaster.de/event/disturbed-the-sickness-25th-anniversary-tour-tickets/1502777608?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-01 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.de/event/disturbed-the-sickness-25th-anniversary-tour-tickets/1502777608?language=en-us</guid>
-      <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2025-09-30</title>
-      <link>https://www.ticketmaster.pl/event/nena-support-issa-bloch-tickets/692232418?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-09-30 at Klub Progresja.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/nena-support-issa-bloch-tickets/692232418?language=en-us</guid>
-      <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2025-09-28</title>
-      <link>https://www.ticketmaster.pl/event/hunter-metts-tickets/330239567?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-09-28 at Hydrozagadka.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/hunter-metts-tickets/330239567?language=en-us</guid>
-      <pubDate>Sun, 28 Sep 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
