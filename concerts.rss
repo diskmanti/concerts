@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Oct 2025 09:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 09:14:16 +0000</lastBuildDate>
     <item>
       <title>Kasabian @ Finsbury Park in London, Great Britain on 2026-07-04</title>
       <link>https://www.ticketmaster.co.uk/kasabian-london-04-07-2026/event/37006333AF09A706</link>
       <description>A concert by Kasabian is scheduled for 2026-07-04 at Finsbury Park.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/kasabian-london-04-07-2026/event/37006333AF09A706</guid>
       <pubDate>Sat, 04 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Tottenham Hotspur Stadium in London, Great Britain on 2026-06-20</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-london-20-06-2026/event/35006329CB103BDE</link>
-      <description>A concert by Gorillaz is scheduled for 2026-06-20 at Tottenham Hotspur Stadium.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-london-20-06-2026/event/35006329CB103BDE</guid>
-      <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ Manchester New Century Hall in Manchester, Great Britain on 2026-05-30</title>
@@ -79,11 +72,25 @@
       <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Tame Impala @ N/A in Amsterdam, Netherlands on 2026-05-04</title>
+      <link>https://www.ticketmaster.nl/event/parking-permit-tame-impala-tickets/1782714722?language=en-us</link>
+      <description>A concert by Tame Impala is scheduled for 2026-05-04 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/parking-permit-tame-impala-tickets/1782714722?language=en-us</guid>
+      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kasabian @ Depot Cardiff in Cardiff, Great Britain on 2026-05-02</title>
       <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-ZBT0L7?ref=ticketmaster</link>
       <description>A concert by Kasabian is scheduled for 2026-05-02 at Depot Cardiff.</description>
       <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-ZBT0L7?ref=ticketmaster</guid>
       <pubDate>Sat, 02 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tame Impala @ Uber Arena in Berlin, Germany on 2026-04-29</title>
+      <link>https://www.ticketmaster.de/event/tame-impala-%7C-box-seat-in-the-ticketmaster-suite-tickets/548473333?language=en-us</link>
+      <description>A concert by Tame Impala is scheduled for 2026-04-29 at Uber Arena.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.de/event/tame-impala-%7C-box-seat-in-the-ticketmaster-suite-tickets/548473333?language=en-us</guid>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ Unity Arena in Fornebu, Norway on 2026-04-27</title>
@@ -114,95 +121,11 @@
       <pubDate>Sat, 04 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gorillaz @ 3Arena in Dublin, Ireland on 2026-04-02</title>
-      <link>https://www.ticketmaster.ie/gorillaz-the-mountain-tour-dublin-02-04-2026/event/18006329CAB03291</link>
-      <description>A concert by Gorillaz is scheduled for 2026-04-02 at 3Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/gorillaz-the-mountain-tour-dublin-02-04-2026/event/18006329CAB03291</guid>
-      <pubDate>Thu, 02 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ 3Arena in Dublin, Ireland on 2026-04-01</title>
-      <link>https://www.ticketmaster.ie/gorillaz-the-mountain-tour-dublin-01-04-2026/event/18006329CAAF3239</link>
-      <description>A concert by Gorillaz is scheduled for 2026-04-01 at 3Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/gorillaz-the-mountain-tour-dublin-01-04-2026/event/18006329CAAF3239</guid>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ The SSE Arena, Belfast in Belfast, Great Britain on 2026-03-31</title>
-      <link>https://www.ticketmaster.ie/share-a-suite-gorillaz-belfast-31-03-2026/event/38006328F5890AAA</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-31 at The SSE Arena, Belfast.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/share-a-suite-gorillaz-belfast-31-03-2026/event/38006328F5890AAA</guid>
+      <title>Tame Impala @ N/A in København S, Denmark on 2026-03-31</title>
+      <link>https://www.ticketmaster.dk/event/vinyl-room-access--tame-impala-concert-ticket-not-included--tickets/907128919?language=en-us</link>
+      <description>A concert by Tame Impala is scheduled for 2026-03-31 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.dk/event/vinyl-room-access--tame-impala-concert-ticket-not-included--tickets/907128919?language=en-us</guid>
       <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ The SSE Arena, Belfast in Belfast, Great Britain on 2026-03-31</title>
-      <link>https://www.ticketmaster.ie/gorillaz-the-mountain-tour-belfast-31-03-2026/event/380063259E3E12DD</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-31 at The SSE Arena, Belfast.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/gorillaz-the-mountain-tour-belfast-31-03-2026/event/380063259E3E12DD</guid>
-      <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ M&amp;S Bank Arena Liverpool in Liverpool, Great Britain on 2026-03-29</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-liverpool-29-03-2026/event/37006329D8761F52</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-29 at M&amp;S Bank Arena Liverpool.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-liverpool-29-03-2026/event/37006329D8761F52</guid>
-      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Motorpoint Arena Nottingham in Nottingham, Great Britain on 2026-03-28</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-nottingham-28-03-2026/event/35006328B2058FD6</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-28 at Motorpoint Arena Nottingham.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-nottingham-28-03-2026/event/35006328B2058FD6</guid>
-      <pubDate>Sat, 28 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Utilita Arena Cardiff in Cardiff, Great Britain on 2026-03-27</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-cardiff-27-03-2026/event/36006325C74153DB</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-27 at Utilita Arena Cardiff.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-cardiff-27-03-2026/event/36006325C74153DB</guid>
-      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Leeds First Direct Bank Arena in Leeds, Great Britain on 2026-03-25</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-venue-premium-tickets-leeds-25-03-2026/event/1F00632C9C012284</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-25 at Leeds First Direct Bank Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-venue-premium-tickets-leeds-25-03-2026/event/1F00632C9C012284</guid>
-      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Leeds First Direct Bank Arena in Leeds, Great Britain on 2026-03-25</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-leeds-25-03-2026/event/1F006328F40F256C</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-25 at Leeds First Direct Bank Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-leeds-25-03-2026/event/1F006328F40F256C</guid>
-      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ OVO Hydro in Glasgow, Great Britain on 2026-03-24</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-glasgow-24-03-2026/event/36006329B84C22F2</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-24 at OVO Hydro.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-glasgow-24-03-2026/event/36006329B84C22F2</guid>
-      <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ bp pulse LIVE in Birmingham, Great Britain on 2026-03-22</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-birmingham-22-03-2026/event/230063299942099B</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-22 at bp pulse LIVE.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-birmingham-22-03-2026/event/230063299942099B</guid>
-      <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Co-op Live in Manchester, Great Britain on 2026-03-21</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-manchester-21-03-2026/event/37006329C7291AD2</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-21 at Co-op Live.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-manchester-21-03-2026/event/37006329C7291AD2</guid>
-      <pubDate>Sat, 21 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Co-op Live in Manchester, Great Britain on 2026-03-20</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-manchester-20-03-2026/event/370063300103AB1B</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-20 at Co-op Live.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-manchester-20-03-2026/event/370063300103AB1B</guid>
-      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Florence and the machine @ Uber Arena in Berlin, Germany on 2026-03-09</title>
@@ -457,6 +380,13 @@
       <pubDate>Sat, 22 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Hives @ AFAS Live Loge in Amsterdam, Netherlands on 2025-11-22</title>
+      <link>https://www.ticketmaster.nl/event/the-hives-%7C-comfort-seats-tickets/1450139312?language=en-us</link>
+      <description>A concert by The Hives is scheduled for 2025-11-22 at AFAS Live Loge.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/the-hives-%7C-comfort-seats-tickets/1450139312?language=en-us</guid>
+      <pubDate>Sat, 22 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Hives @ N/A in Amsterdam, Netherlands on 2025-11-22</title>
       <link>https://www.ticketmaster.nl/event/parking-permit-the-hives-tickets/404927506?language=en-us</link>
       <description>A concert by The Hives is scheduled for 2025-11-22 at N/A.</description>
@@ -520,151 +450,11 @@
       <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ Olympiahalle in Munich, Germany on 2025-10-17</title>
-      <link>https://www.ticketmaster.de/event/disturbed-the-sickness-25th-anniversary-tour-tickets/410911180?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-17 at Olympiahalle.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.de/event/disturbed-the-sickness-25th-anniversary-tour-tickets/410911180?language=en-us</guid>
-      <pubDate>Fri, 17 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Brabanthallen in Den Bosch, Netherlands on 2025-10-17</title>
-      <link>https://www.ticketmaster.nl/event/the-rock-circus-2025-weekendticket-tickets/9172375?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-17 at Brabanthallen.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/the-rock-circus-2025-weekendticket-tickets/9172375?language=en-us</guid>
-      <pubDate>Fri, 17 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2025-10-16</title>
-      <link>https://www.ticketmaster.pl/event/cancelled-goldlink-tickets/1377728710?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-16 at Klub Progresja.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/cancelled-goldlink-tickets/1377728710?language=en-us</guid>
-      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2025-10-16</title>
-      <link>https://www.universe.com/events/paradise-lost-tickets-S68R07?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-16 at Southampton 1865.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/paradise-lost-tickets-S68R07?ref=ticketmaster</guid>
-      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Attic in Leeds, Great Britain on 2025-10-15</title>
-      <link>https://www.universe.com/events/heavy-lungs-tickets-687C3Q?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-15 at The Attic.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/heavy-lungs-tickets-687C3Q?ref=ticketmaster</guid>
-      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Vorst Nationaal/Forest National in Forest (Brussels), Belgium on 2025-10-15</title>
-      <link>https://www.ticketmaster.be/event/disturbed-the-sickness-25th-anniversary-tour-%7C-enhanced-experiences-tickets/954810022</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-15 at Vorst Nationaal/Forest National.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.be/event/disturbed-the-sickness-25th-anniversary-tour-%7C-enhanced-experiences-tickets/954810022</guid>
-      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Vorst Nationaal/Forest National in Forest (Brussels), Belgium on 2025-10-15</title>
-      <link>https://www.ticketmaster.be/event/disturbed-the-sickness-25th-anniversary-tour-tickets/1298323841</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-15 at Vorst Nationaal/Forest National.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.be/event/disturbed-the-sickness-25th-anniversary-tour-tickets/1298323841</guid>
-      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Hives @ The Hive Nightclub &amp; Venue in Edinburgh, Great Britain on 2025-10-15</title>
       <link>https://www.ticketweb.uk/event/dirty-sound-magnet-the-hive-nightclub-venue-tickets/14435013?REFERRAL_ID=tmfeed</link>
       <description>A concert by The Hives is scheduled for 2025-10-15 at The Hive Nightclub &amp; Venue.</description>
       <guid isPermaLink="false">https://www.ticketweb.uk/event/dirty-sound-magnet-the-hive-nightclub-venue-tickets/14435013?REFERRAL_ID=tmfeed</guid>
       <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Horn @ St Albans in St Albans, Great Britain on 2025-10-14</title>
-      <link>https://www.ticketweb.uk/event/heavy-lungs-joe-the-the-horn-tickets/14449663?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-14 at Horn @ St Albans.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/heavy-lungs-joe-the-the-horn-tickets/14449663?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Voodoo Club in Warsaw, Poland on 2025-10-14</title>
-      <link>https://www.ticketmaster.pl/event/michael-cera-palin-tickets/66078835?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-14 at Voodoo Club.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/michael-cera-palin-tickets/66078835?language=en-us</guid>
-      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ KOLA in Portsmouth, Great Britain on 2025-10-13</title>
-      <link>https://www.universe.com/events/sinsaenum-tickets-C5G3BX?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-13 at KOLA.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/sinsaenum-tickets-C5G3BX?ref=ticketmaster</guid>
-      <pubDate>Mon, 13 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Zaklęte Rewiry in Wroclaw, Poland on 2025-10-11</title>
-      <link>https://www.ticketmaster.pl/event/ark-kiasmos-dj-set-by-janus-rasmussen-tickets/841300550?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-11 at Zaklęte Rewiry.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-kiasmos-dj-set-by-janus-rasmussen-tickets/841300550?language=en-us</guid>
-      <pubDate>Sat, 11 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Sin City in Swansea, Great Britain on 2025-10-11</title>
-      <link>https://www.universe.com/events/earthtone9-tickets-ZL9BC8?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-11 at Sin City.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/earthtone9-tickets-ZL9BC8?ref=ticketmaster</guid>
-      <pubDate>Sat, 11 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Tama in Poznan, Poland on 2025-10-10</title>
-      <link>https://www.ticketmaster.pl/event/ark-kiasmos-dj-set-by-janus-rasmussen-tickets/1150223957?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-10 at Tama.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-kiasmos-dj-set-by-janus-rasmussen-tickets/1150223957?language=en-us</guid>
-      <pubDate>Fri, 10 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Arts Club in Liverpool, Great Britain on 2025-10-08</title>
-      <link>https://www.ticketweb.uk/event/heavy-lungs-arts-club-tickets/14487713?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-08 at Arts Club.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/heavy-lungs-arts-club-tickets/14487713?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Wed, 08 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Zorlu PSM - Turkcell Sahnesi in İstanbul, Turkey on 2025-10-06</title>
-      <link>https://www.biletix.com/performance/40XB1/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-06 at Zorlu PSM - Turkcell Sahnesi.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/40XB1/001/TURKIYE/tr</guid>
-      <pubDate>Mon, 06 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Jassmine in Warsaw, Poland on 2025-10-06</title>
-      <link>https://www.ticketmaster.pl/event/kelly-moran-tickets/1090071809?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-06 at Jassmine.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/kelly-moran-tickets/1090071809?language=en-us</guid>
-      <pubDate>Mon, 06 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Parlament in Gdansk, Poland on 2025-10-06</title>
-      <link>https://www.ticketmaster.pl/event/dadi-freyr-the-sensual-seductive--sexy-tour-%7C-support-montaigne-tickets/2050583646?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-06 at Klub Parlament.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/dadi-freyr-the-sensual-seductive--sexy-tour-%7C-support-montaigne-tickets/2050583646?language=en-us</guid>
-      <pubDate>Mon, 06 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ New Cross Inn in London, Great Britain on 2025-10-06</title>
-      <link>https://www.universe.com/events/warden-tickets-NX6Z9T?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-06 at New Cross Inn.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/warden-tickets-NX6Z9T?ref=ticketmaster</guid>
-      <pubDate>Mon, 06 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ IF Performance Hall Beşiktaş in İstanbul, Turkey on 2025-10-05</title>
-      <link>https://www.biletix.com/performance/4TOZ9/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-05 at IF Performance Hall Beşiktaş.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/4TOZ9/001/TURKIYE/tr</guid>
-      <pubDate>Sun, 05 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ OCZKI in Warsaw, Poland on 2025-10-05</title>
-      <link>https://www.ticketmaster.pl/event/dadi-freyr-the-sensual-seductive--sexy-tour-%7C-support-montaigne-tickets/56175258?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-10-05 at OCZKI.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/dadi-freyr-the-sensual-seductive--sexy-tour-%7C-support-montaigne-tickets/56175258?language=en-us</guid>
-      <pubDate>Sun, 05 Oct 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
