@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Nov 2025 09:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 09:15:46 +0000</lastBuildDate>
     <item>
       <title>Kasabian @ Keele Students Union in Newcastle Under Lyme, Great Britain on 2026-10-03</title>
       <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-Y5318T?ref=ticketmaster</link>
@@ -324,9 +324,9 @@
       <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Florence and the machine @ Ziggo Dome in Amsterdam, Netherlands on 2026-02-26</title>
+      <title>Florence and the machine @ Ziggo Dome Club in Amsterdam, Netherlands on 2026-02-26</title>
       <link>https://www.ticketmaster.nl/event/florence--the-machine-everybody-scream-tour-%7C-vinyl-room-package-tickets/458461720?language=en-us</link>
-      <description>A concert by Florence and the machine is scheduled for 2026-02-26 at Ziggo Dome.</description>
+      <description>A concert by Florence and the machine is scheduled for 2026-02-26 at Ziggo Dome Club.</description>
       <guid isPermaLink="false">https://www.ticketmaster.nl/event/florence--the-machine-everybody-scream-tour-%7C-vinyl-room-package-tickets/458461720?language=en-us</guid>
       <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
     </item>
@@ -520,6 +520,13 @@
       <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Hives @ O2 Academy Glasgow in Glasgow, Great Britain on 2025-11-26</title>
+      <link>https://www.ticketmaster.co.uk/the-hives-glasgow-26-11-2025/event/3E0063673AA5FD38</link>
+      <description>A concert by The Hives is scheduled for 2025-11-26 at O2 Academy Glasgow.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-hives-glasgow-26-11-2025/event/3E0063673AA5FD38</guid>
+      <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Hives @ OVO Hydro in Glasgow, Great Britain on 2025-11-26</title>
       <link>https://www.ticketmaster.co.uk/the-hives-forever-forever-the-hives-glasgow-26-11-2025/event/3600627B9D661656</link>
       <description>A concert by The Hives is scheduled for 2025-11-26 at OVO Hydro.</description>
@@ -541,11 +548,39 @@
       <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ New Cross Inn in London, Great Britain on 2025-11-25</title>
+      <link>https://www.universe.com/events/doomsday-tickets-0HBYVQ?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-25 at New Cross Inn.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/doomsday-tickets-0HBYVQ?ref=ticketmaster</guid>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ Saint Luke's in Glasgow, Great Britain on 2025-11-25</title>
+      <link>https://www.ticketweb.uk/event/the-hives-saint-lukes-tickets/14668943?REFERRAL_ID=tmfeed</link>
+      <description>A concert by The Hives is scheduled for 2025-11-25 at Saint Luke's.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/the-hives-saint-lukes-tickets/14668943?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kasabian @ Opium in Dublin, Ireland on 2025-11-25</title>
       <link>https://www.ticketmaster.ie/tom-meighan-the-voice-of-kasabian-dublin-25-11-2025/event/1800632FA3C922A9</link>
       <description>A concert by Kasabian is scheduled for 2025-11-25 at Opium.</description>
       <guid isPermaLink="false">https://www.ticketmaster.ie/tom-meighan-the-voice-of-kasabian-dublin-25-11-2025/event/1800632FA3C922A9</guid>
       <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Brighton Concorde 2 in Brighton, Great Britain on 2025-11-24</title>
+      <link>https://www.universe.com/events/conan-tickets-FYL2B6?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-24 at Brighton Concorde 2.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/conan-tickets-FYL2B6?ref=ticketmaster</guid>
+      <pubDate>Mon, 24 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Hybrydy in Warsaw, Poland on 2025-11-24</title>
+      <link>https://www.ticketmaster.pl/event/ekkstacy-tickets/753303822?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-24 at Hybrydy.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ekkstacy-tickets/753303822?language=en-us</guid>
+      <pubDate>Mon, 24 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Hives @ Depot Cardiff in Cardiff, Great Britain on 2025-11-24</title>
@@ -555,11 +590,46 @@
       <pubDate>Mon, 24 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ OCZKI in Warsaw, Poland on 2025-11-23</title>
+      <link>https://www.ticketmaster.pl/event/roya-support-newskin-tickets/963508164?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-23 at OCZKI.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/roya-support-newskin-tickets/963508164?language=en-us</guid>
+      <pubDate>Sun, 23 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Adrian Flux Waterfront in Norwich, Great Britain on 2025-11-23</title>
+      <link>https://www.universe.com/events/conan-tickets-WQ46VG?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-23 at The Adrian Flux Waterfront.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/conan-tickets-WQ46VG?ref=ticketmaster</guid>
+      <pubDate>Sun, 23 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ YES Basement in Manchester, Great Britain on 2025-11-23</title>
+      <link>https://www.universe.com/events/marseille-tickets-GJC9PT?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-23 at YES Basement.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/marseille-tickets-GJC9PT?ref=ticketmaster</guid>
+      <pubDate>Sun, 23 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nouvelle Vague @ Queen Margaret Union in Glasgow, Great Britain on 2025-11-23</title>
       <link>https://www.ticketweb.uk/event/nouvelle-vague-queen-margaret-union-tickets/14174873?REFERRAL_ID=tmfeed</link>
       <description>A concert by Nouvelle Vague is scheduled for 2025-11-23 at Queen Margaret Union.</description>
       <guid isPermaLink="false">https://www.ticketweb.uk/event/nouvelle-vague-queen-margaret-union-tickets/14174873?REFERRAL_ID=tmfeed</guid>
       <pubDate>Sun, 23 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Tama in Poznan, Poland on 2025-11-22</title>
+      <link>https://www.ticketmaster.pl/event/ark-victoria-tickets/1321414209?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-22 at Tama.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-victoria-tickets/1321414209?language=en-us</guid>
+      <pubDate>Sat, 22 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ IF Performance Hall Beşiktaş in İstanbul, Turkey on 2025-11-22</title>
+      <link>https://www.biletix.com/performance/4ST07/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-22 at IF Performance Hall Beşiktaş.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4ST07/001/TURKIYE/tr</guid>
+      <pubDate>Sat, 22 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Hives @ N/A in Amsterdam, Netherlands on 2025-11-22</title>
@@ -581,6 +651,27 @@
       <description>A concert by The Hives is scheduled for 2025-11-22 at N/A.</description>
       <guid isPermaLink="false">https://www.ticketmaster.nl/event/parking-permit-the-hives-tickets/404927506?language=en-us</guid>
       <pubDate>Sat, 22 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ OCZKI in Warsaw, Poland on 2025-11-21</title>
+      <link>https://www.ticketmaster.pl/event/ark-victoria-tickets/1669322846?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-21 at OCZKI.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-victoria-tickets/1669322846?language=en-us</guid>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub B17 in Poznan, Poland on 2025-11-21</title>
+      <link>https://www.ticketmaster.pl/event/cradle-of-filth-special-guest-suffocation-tickets/2096377101?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-21 at Klub B17.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/cradle-of-filth-special-guest-suffocation-tickets/2096377101?language=en-us</guid>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Ivory Blacks in Glasgow, Great Britain on 2025-11-21</title>
+      <link>https://www.universe.com/events/nfd-tickets-FTB8LH?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-11-21 at Ivory Blacks.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/nfd-tickets-FTB8LH?ref=ticketmaster</guid>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Heavy @ Ballroom (Dreamland Margate) in Margate, Great Britain on 2025-11-21</title>
@@ -665,97 +756,6 @@
       <description>A concert by Nouvelle Vague is scheduled for 2025-11-16 at The Drill.</description>
       <guid isPermaLink="false">https://www.ticketweb.uk/event/nouvelle-vague-the-drill-tickets/14173863?REFERRAL_ID=tmfeed</guid>
       <pubDate>Sun, 16 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Café V lese in Praha 10, Czech Republic on 2025-11-15</title>
-      <link>https://www.ticketmaster.cz/event/mild-orange--the-glow-tour-2025-tickets/1687486395?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-15 at Café V lese.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.cz/event/mild-orange--the-glow-tour-2025-tickets/1687486395?language=en-us</guid>
-      <pubDate>Sat, 15 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ 6:45 KK Ankara in Ankara, Turkey on 2025-11-15</title>
-      <link>https://www.biletix.com/performance/4HMAI/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-15 at 6:45 KK Ankara.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/4HMAI/001/TURKIYE/tr</guid>
-      <pubDate>Sat, 15 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nouvelle Vague @ The Adrian Flux Waterfront in Norwich, Great Britain on 2025-11-15</title>
-      <link>https://www.ticketweb.uk/event/nouvelle-vague-the-adrian-flux-waterfront-tickets/13942763?REFERRAL_ID=tmfeed</link>
-      <description>A concert by Nouvelle Vague is scheduled for 2025-11-15 at The Adrian Flux Waterfront.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/nouvelle-vague-the-adrian-flux-waterfront-tickets/13942763?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Sat, 15 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ OCZKI in Warsaw, Poland on 2025-11-14</title>
-      <link>https://www.ticketmaster.pl/event/ark-rebuke-tickets/365021907?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-14 at OCZKI.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-rebuke-tickets/365021907?language=en-us</guid>
-      <pubDate>Fri, 14 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ OCZKI in Warsaw, Poland on 2025-11-14</title>
-      <link>https://www.ticketmaster.pl/event/marc-scibilia-tickets/1521644929?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-14 at OCZKI.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/marc-scibilia-tickets/1521644929?language=en-us</guid>
-      <pubDate>Fri, 14 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Leas Cliff Hall in Folkestone, Great Britain on 2025-11-14</title>
-      <link>https://www.universe.com/events/skindred-tickets-JB91F3?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-14 at Leas Cliff Hall.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/skindred-tickets-JB91F3?ref=ticketmaster</guid>
-      <pubDate>Fri, 14 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Lotto Arena Antwerpen in Merksem (Antwerpen), Belgium on 2025-11-13</title>
-      <link>https://www.ticketmaster.be/event/marilyn-manson-tickets/569629906</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-13 at Lotto Arena Antwerpen.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.be/event/marilyn-manson-tickets/569629906</guid>
-      <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Lotto Arena Antwerpen in Merksem (Antwerpen), Belgium on 2025-11-12</title>
-      <link>https://www.ticketmaster.be/event/electric-callboy-tickets/1475679399</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-12 at Lotto Arena Antwerpen.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.be/event/electric-callboy-tickets/1475679399</guid>
-      <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nouvelle Vague @ Metronome Nottingham in Nottingham, Great Britain on 2025-11-12</title>
-      <link>https://www.ticketweb.uk/event/nouvelle-vague-metronome-nottingham-tickets/13691214?REFERRAL_ID=tmfeed</link>
-      <description>A concert by Nouvelle Vague is scheduled for 2025-11-12 at Metronome Nottingham.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/nouvelle-vague-metronome-nottingham-tickets/13691214?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Hala ORION in Wroclaw, Poland on 2025-11-09</title>
-      <link>https://www.ticketmaster.pl/event/uriah-heep-special-guest-april-wine-heavy-pettin-tickets/1633754558?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-09 at Hala ORION.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/uriah-heep-special-guest-april-wine-heavy-pettin-tickets/1633754558?language=en-us</guid>
-      <pubDate>Sun, 09 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Asylum Hull University Union in Hull, Great Britain on 2025-11-09</title>
-      <link>https://www.universe.com/events/wednesday-13-tickets-BZR3DP?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-09 at Asylum Hull University Union.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/wednesday-13-tickets-BZR3DP?ref=ticketmaster</guid>
-      <pubDate>Sun, 09 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ New Cross Inn in London, Great Britain on 2025-11-09</title>
-      <link>https://www.universe.com/events/deadguy-tickets-9B42KY?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-09 at New Cross Inn.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/deadguy-tickets-9B42KY?ref=ticketmaster</guid>
-      <pubDate>Sun, 09 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ IF Performance Hall Beşiktaş in İstanbul, Turkey on 2025-11-09</title>
-      <link>https://www.biletix.com/performance/4ST01/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-09 at IF Performance Hall Beşiktaş.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/4ST01/001/TURKIYE/tr</guid>
-      <pubDate>Sun, 09 Nov 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
