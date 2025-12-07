@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Nov 2025 09:15:57 +0000</lastBuildDate>
-    <item>
-      <title>Gorillaz @ N/A in Göteborg, Sweden on 2026-08-15</title>
-      <link>https://www.ticketmaster.se/event/way-out-west-august-13-15-2026-tickets/1854460538?language=en-us</link>
-      <description>A concert by Gorillaz is scheduled for 2026-08-15 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.se/event/way-out-west-august-13-15-2026-tickets/1854460538?language=en-us</guid>
-      <pubDate>Sat, 15 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Dec 2025 09:16:21 +0000</lastBuildDate>
     <item>
       <title>Gorillaz @ Parkorman in İstanbul, Turkey on 2026-07-16</title>
       <link>https://www.biletix.com/performance/5POAD/001/TURKIYE/tr</link>
@@ -114,13 +107,6 @@
       <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Florence and the machine @ Marlay Park in Dublin, Ireland on 2026-06-28</title>
-      <link>https://www.ticketmaster.ie/florence-the-machine-the-everybody-scream-dublin-28-06-2026/event/180063328E8CC35D</link>
-      <description>A concert by Florence and the machine is scheduled for 2026-06-28 at Marlay Park.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/florence-the-machine-the-everybody-scream-dublin-28-06-2026/event/180063328E8CC35D</guid>
-      <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Florence and the machine @ Thomond Park Stadium in Limerick City, Ireland on 2026-06-27</title>
       <link>https://www.ticketmaster.ie/florence-the-machine-the-everybody-scream-limerick-city-27-06-2026/event/18006338A40ED21D</link>
       <description>A concert by Florence and the machine is scheduled for 2026-06-27 at Thomond Park Stadium.</description>
@@ -205,6 +191,13 @@
       <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Kasabian @ Parkorman in İstanbul, Turkey on 2026-06-13</title>
+      <link>https://www.biletix.com/performance/5POAZ/001/TURKIYE/tr</link>
+      <description>A concert by Kasabian is scheduled for 2026-06-13 at Parkorman.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/5POAZ/001/TURKIYE/tr</guid>
+      <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dinosaur Pile Up @ Donington Park in Derby, Great Britain on 2026-06-12</title>
       <link>https://www.ticketmaster.co.uk/download-2026-weekend-arena-payment-plan-derby-12-06-2026/event/36006351BD807AC9</link>
       <description>A concert by Dinosaur Pile Up is scheduled for 2026-06-12 at Donington Park.</description>
@@ -245,6 +238,13 @@
       <description>A concert by Tame Impala is scheduled for 2026-05-13 at 3Arena.</description>
       <guid isPermaLink="false">https://www.ticketmaster.ie/tame-impala-dublin-13-05-2026/event/18006338A7CCD595</guid>
       <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tame Impala @ OVO Hydro in Glasgow, Great Britain on 2026-05-11</title>
+      <link>https://www.ticketmaster.co.uk/tame-impala-glasgow-11-05-2026/event/3600633D8EFB5D2D</link>
+      <description>A concert by Tame Impala is scheduled for 2026-05-11 at OVO Hydro.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/tame-impala-glasgow-11-05-2026/event/3600633D8EFB5D2D</guid>
+      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ OVO Hydro in Glasgow, Great Britain on 2026-05-11</title>
@@ -415,6 +415,13 @@
       <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Gorillaz @ OVO Hydro in Glasgow, Great Britain on 2026-03-24</title>
+      <link>https://www.ticketmaster.co.uk/gorillaz-glasgow-24-03-2026/event/36006329C1A125B6</link>
+      <description>A concert by Gorillaz is scheduled for 2026-03-24 at OVO Hydro.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-glasgow-24-03-2026/event/36006329C1A125B6</guid>
+      <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Gorillaz @ bp pulse LIVE in Birmingham, Great Britain on 2026-03-22</title>
       <link>https://www.ticketmaster.co.uk/gorillaz-birmingham-22-03-2026/event/230063299942099B</link>
       <description>A concert by Gorillaz is scheduled for 2026-03-22 at bp pulse LIVE.</description>
@@ -548,6 +555,13 @@
       <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Florence and the machine @ OVO Hydro in Glasgow, Great Britain on 2026-02-09</title>
+      <link>https://www.ticketmaster.co.uk/florence-the-machine-the-everybody-scream-glasgow-09-02-2026/event/3600631DD2F46C8A</link>
+      <description>A concert by Florence and the machine is scheduled for 2026-02-09 at OVO Hydro.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/florence-the-machine-the-everybody-scream-glasgow-09-02-2026/event/3600631DD2F46C8A</guid>
+      <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Florence and the machine @ bp pulse LIVE in Birmingham, Great Britain on 2026-02-08</title>
       <link>https://www.ticketmaster.co.uk/florence-the-machine-the-everybody-scream-birmingham-08-02-2026/event/2300631CCB2A0F17</link>
       <description>A concert by Florence and the machine is scheduled for 2026-02-08 at bp pulse LIVE.</description>
@@ -602,6 +616,62 @@
       <description>A concert by 1000mods is scheduled for 2025-12-15 at Bristol Beacon.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-bristol-15-12-2025/event/37006172F6DB4464</guid>
       <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub B90, Stocznia Gdańska in Gdansk, Poland on 2025-12-14</title>
+      <link>https://www.ticketmaster.pl/event/alestorm-tickets/978452457?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-14 at Klub B90, Stocznia Gdańska.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/alestorm-tickets/978452457?language=en-us</guid>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ 6:45 KK Ankara in Ankara, Turkey on 2025-12-14</title>
+      <link>https://www.biletix.com/performance/4HM89/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-14 at 6:45 KK Ankara.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4HM89/001/TURKIYE/tr</guid>
+      <pubDate>Sun, 14 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Centrum Koncertowe A2 in Wroclaw, Poland on 2025-12-13</title>
+      <link>https://www.ticketmaster.pl/event/canceled-ark-chris-avantgarde-tickets/247059600?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-13 at Centrum Koncertowe A2.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/canceled-ark-chris-avantgarde-tickets/247059600?language=en-us</guid>
+      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Walcownia in Katowice, Poland on 2025-12-13</title>
+      <link>https://www.ticketmaster.pl/event/canceled-kizo-tickets/853719472?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-13 at Walcownia.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/canceled-kizo-tickets/853719472?language=en-us</guid>
+      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Corporation in Sheffield, Great Britain on 2025-12-13</title>
+      <link>https://www.ticketweb.uk/event/pestilence-corporation-tickets/14542233?REFERRAL_ID=tmfeed</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-13 at Corporation.</description>
+      <guid isPermaLink="false">https://www.ticketweb.uk/event/pestilence-corporation-tickets/14542233?REFERRAL_ID=tmfeed</guid>
+      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Wytwórnia in Łódź , Poland on 2025-12-13</title>
+      <link>https://www.ticketmaster.pl/event/alestorm-tickets/421340997?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-13 at Klub Wytwórnia.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/alestorm-tickets/421340997?language=en-us</guid>
+      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ SoldOut Performance Hall in İzmir, Turkey on 2025-12-13</title>
+      <link>https://www.biletix.com/performance/4BLAG/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-13 at SoldOut Performance Hall.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4BLAG/001/TURKIYE/tr</guid>
+      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Zaklęte Rewiry in Wroclaw, Poland on 2025-12-13</title>
+      <link>https://www.ticketmaster.pl/event/chelsea-grin-support-signs-of-the-swarm-mugshot-crown-magnetar-tickets/1769850364?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-13 at Zaklęte Rewiry.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/chelsea-grin-support-signs-of-the-swarm-mugshot-crown-magnetar-tickets/1769850364?language=en-us</guid>
+      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Heavy @ Klub B90, Stocznia Gdańska in Gdansk, Poland on 2025-12-12</title>
@@ -686,69 +756,6 @@
       <description>A concert by The Heavy is scheduled for 2025-12-08 at The Fleece.</description>
       <guid isPermaLink="false">https://www.ticketweb.uk/event/pestilence-the-fleece-tickets/14542003?REFERRAL_ID=tmfeed</guid>
       <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2025-12-06</title>
-      <link>https://www.ticketmaster.pl/event/ark-gioli--assia-present-resurrection-tickets/493996103?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-06 at Klub Progresja.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-gioli--assia-present-resurrection-tickets/493996103?language=en-us</guid>
-      <pubDate>Sat, 06 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2025-12-06</title>
-      <link>https://www.ticketmaster.pl/event/kizo-tickets/521066955?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-06 at Klub Progresja.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/kizo-tickets/521066955?language=en-us</guid>
-      <pubDate>Sat, 06 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Pod Palmą in Rzeszów, Poland on 2025-12-05</title>
-      <link>https://www.ticketmaster.pl/event/kizo-tickets/147050261?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-05 at Pod Palmą.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/kizo-tickets/147050261?language=en-us</guid>
-      <pubDate>Fri, 05 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Studio in Krakow, Poland on 2025-12-04</title>
-      <link>https://www.ticketmaster.pl/event/kizo-tickets/770061472?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-04 at Klub Studio.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/kizo-tickets/770061472?language=en-us</guid>
-      <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Proxima in Warsaw, Poland on 2025-12-03</title>
-      <link>https://www.ticketmaster.pl/event/phil-campbell-and-the-bastard-sons-support-airstrike-tickets/1637415158?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-03 at Proxima.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/phil-campbell-and-the-bastard-sons-support-airstrike-tickets/1637415158?language=en-us</guid>
-      <pubDate>Wed, 03 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Scena Relax in Warsaw, Poland on 2025-12-03</title>
-      <link>https://www.ticketmaster.pl/event/andrea-vanzo-%7C-support-piotr-paduszynski-tickets/1862977154?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-03 at Scena Relax.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/andrea-vanzo-%7C-support-piotr-paduszynski-tickets/1862977154?language=en-us</guid>
-      <pubDate>Wed, 03 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub 2progi in Poznan, Poland on 2025-12-02</title>
-      <link>https://www.ticketmaster.pl/event/phil-campbell-and-the-bastard-sons-support-airstrike-tickets/1829149668?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-02 at Klub 2progi.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/phil-campbell-and-the-bastard-sons-support-airstrike-tickets/1829149668?language=en-us</guid>
-      <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Brudenell Social Club in Leeds, Great Britain on 2025-11-30</title>
-      <link>https://www.universe.com/events/evil-scarecrow-tickets-LQHR8J?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-11-30 at Brudenell Social Club.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/evil-scarecrow-tickets-LQHR8J?ref=ticketmaster</guid>
-      <pubDate>Sun, 30 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Monroes in Galway, Ireland on 2025-11-30</title>
-      <link>https://www.universe.com/events/tom-meighan-the-voice-of-kasabian-tickets-G5N3T2?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2025-11-30 at Monroes.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/tom-meighan-the-voice-of-kasabian-tickets-G5N3T2?ref=ticketmaster</guid>
-      <pubDate>Sun, 30 Nov 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
