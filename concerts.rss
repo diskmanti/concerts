@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Dec 2025 09:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 09:17:12 +0000</lastBuildDate>
     <item>
       <title>Gorillaz @ Parkorman in İstanbul, Turkey on 2026-07-16</title>
       <link>https://www.biletix.com/performance/5POAD/001/TURKIYE/tr</link>
@@ -280,6 +280,13 @@
       <description>A concert by Tame Impala is scheduled for 2026-05-05 at AFAS Dome.</description>
       <guid isPermaLink="false">https://www.ticketmaster.be/event/tame-impala-deadbeat-tour-tickets/507792560</guid>
       <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tame Impala @ Ziggo Dome Club in Amsterdam, Netherlands on 2026-05-04</title>
+      <link>https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-%7C-vinyl-room-package-tickets/1503362915?language=en-us</link>
+      <description>A concert by Tame Impala is scheduled for 2026-05-04 at Ziggo Dome Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-%7C-vinyl-room-package-tickets/1503362915?language=en-us</guid>
+      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ Ziggo Dome in Amsterdam, Netherlands on 2026-05-04</title>
@@ -583,11 +590,74 @@
       <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Voodoo Club in Warsaw, Poland on 2026-01-26</title>
+      <link>https://www.ticketmaster.pl/event/bell-witch--aerial-ruin-support-40watt-sun-tickets/1713618215?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-26 at Voodoo Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/bell-witch--aerial-ruin-support-40watt-sun-tickets/1713618215?language=en-us</guid>
+      <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Centrum Kultury ZAMEK in Poznan, Poland on 2026-01-24</title>
+      <link>https://www.ticketmaster.pl/event/claudio-constantini-fragile-solo-tour-2025-tickets/890778846?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-24 at Centrum Kultury ZAMEK.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/claudio-constantini-fragile-solo-tour-2025-tickets/890778846?language=en-us</guid>
+      <pubDate>Sat, 24 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Vorst Nationaal/Forest National in Forest (Brussels), Belgium on 2026-01-18</title>
+      <link>https://www.ticketmaster.be/event/epica--amaranthe-arcane-dimensions-tour-2026-tickets/1593873176</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-18 at Vorst Nationaal/Forest National.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.be/event/epica--amaranthe-arcane-dimensions-tour-2026-tickets/1593873176</guid>
+      <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ RTM Stage - Rotterdam Ahoy in Rotterdam, Netherlands on 2026-01-17</title>
+      <link>https://www.ticketmaster.nl/event/electric-callboy-world-tour-tickets/834844405?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-17 at RTM Stage - Rotterdam Ahoy.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/electric-callboy-world-tour-tickets/834844405?language=en-us</guid>
+      <pubDate>Sat, 17 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Brook in Southampton, Great Britain on 2026-01-14</title>
+      <link>https://www.universe.com/events/nanowar-of-steel-uuhai-tickets-RQTKGP?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-14 at The Brook.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/nanowar-of-steel-uuhai-tickets-RQTKGP?ref=ticketmaster</guid>
+      <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ New Cross Inn in London, Great Britain on 2026-01-14</title>
+      <link>https://www.universe.com/events/skinhawk-tickets-L0BND4?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-14 at New Cross Inn.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/skinhawk-tickets-L0BND4?ref=ticketmaster</guid>
+      <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kasabian @ Barrowland Ballroom in Glasgow, Great Britain on 2026-01-10</title>
       <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-9LZ8N0?ref=ticketmaster</link>
       <description>A concert by Kasabian is scheduled for 2026-01-10 at Barrowland Ballroom.</description>
       <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-9LZ8N0?ref=ticketmaster</guid>
       <pubDate>Sat, 10 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Brudenell Social Club in Leeds, Great Britain on 2025-12-30</title>
+      <link>https://www.universe.com/events/slade-uk-tickets-G1NRKC?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-30 at Brudenell Social Club.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/slade-uk-tickets-G1NRKC?ref=ticketmaster</guid>
+      <pubDate>Tue, 30 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ CKK Jordanki in Toruń, Poland on 2025-12-22</title>
+      <link>https://www.ticketmaster.pl/event/tarja-turunen-the-spirit-of-christmas-2025-tickets/967512885?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-22 at CKK Jordanki.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/tarja-turunen-the-spirit-of-christmas-2025-tickets/967512885?language=en-us</guid>
+      <pubDate>Mon, 22 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Katowice Miasto Ogrodów in Katowice, Poland on 2025-12-21</title>
+      <link>https://www.ticketmaster.pl/event/tarja-turunen-the-spirit-of-christmas-2025-tickets/627558234?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-21 at Katowice Miasto Ogrodów.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/tarja-turunen-the-spirit-of-christmas-2025-tickets/627558234?language=en-us</guid>
+      <pubDate>Sun, 21 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ Roundhouse in London, Great Britain on 2025-12-20</title>
@@ -597,6 +667,27 @@
       <pubDate>Sat, 20 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ EXPO XXI in Warsaw, Poland on 2025-12-19</title>
+      <link>https://www.ticketmaster.pl/event/ark-the-blaze-dj-set-tickets/263945297?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-19 at EXPO XXI.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-the-blaze-dj-set-tickets/263945297?language=en-us</guid>
+      <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub B90, Stocznia Gdańska in Gdansk, Poland on 2025-12-19</title>
+      <link>https://www.ticketmaster.pl/event/kizo-tickets/1976045262?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-19 at Klub B90, Stocznia Gdańska.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/kizo-tickets/1976045262?language=en-us</guid>
+      <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ SoldOut Performance Hall in İzmir, Turkey on 2025-12-19</title>
+      <link>https://www.biletix.com/performance/40XAX/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-19 at SoldOut Performance Hall.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/40XAX/001/TURKIYE/tr</guid>
+      <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>1000mods @ Manchester Academy in Manchester, Great Britain on 2025-12-19</title>
       <link>https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-manchester-19-12-2025/event/1F00616FAD831B47</link>
       <description>A concert by 1000mods is scheduled for 2025-12-19 at Manchester Academy.</description>
@@ -604,11 +695,53 @@
       <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Milyon Performance Hall Ankara in Ankara, Turkey on 2025-12-18</title>
+      <link>https://www.biletix.com/performance/40XAV/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-18 at Milyon Performance Hall Ankara.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/40XAV/001/TURKIYE/tr</guid>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ H15 in København V, Denmark on 2025-12-18</title>
+      <link>https://www.ticketmaster.dk/event/galoppen-x-clean-out-louis-x-ababy-tickets/1162431543?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-18 at H15.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.dk/event/galoppen-x-clean-out-louis-x-ababy-tickets/1162431543?language=en-us</guid>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Zorlu PSM - Turkcell Sahnesi in İstanbul, Turkey on 2025-12-17</title>
+      <link>https://www.biletix.com/performance/40XAS/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-17 at Zorlu PSM - Turkcell Sahnesi.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/40XAS/001/TURKIYE/tr</guid>
+      <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ New Cross Inn in London, Great Britain on 2025-12-17</title>
+      <link>https://www.universe.com/events/gross-misconduct-tickets-WY07KX?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-17 at New Cross Inn.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/gross-misconduct-tickets-WY07KX?ref=ticketmaster</guid>
+      <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>1000mods @ O2 Academy Birmingham in Birmingham, Great Britain on 2025-12-17</title>
       <link>https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-birmingham-17-12-2025/event/3E00616EF041291F</link>
       <description>A concert by 1000mods is scheduled for 2025-12-17 at O2 Academy Birmingham.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-birmingham-17-12-2025/event/3E00616EF041291F</guid>
       <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2025-12-16</title>
+      <link>https://www.universe.com/events/orange-goblin-tickets-82R74V?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-16 at Southampton 1865.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/orange-goblin-tickets-82R74V?ref=ticketmaster</guid>
+      <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Rebellion Manchester in Manchester, Great Britain on 2025-12-16</title>
+      <link>https://www.universe.com/events/swallow-the-sun-tickets-XH2YLQ?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2025-12-16 at Rebellion Manchester.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/swallow-the-sun-tickets-XH2YLQ?ref=ticketmaster</guid>
+      <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ Bristol Beacon in Bristol, Great Britain on 2025-12-15</title>
@@ -630,132 +763,6 @@
       <description>A concert by The Heavy is scheduled for 2025-12-14 at 6:45 KK Ankara.</description>
       <guid isPermaLink="false">https://www.biletix.com/performance/4HM89/001/TURKIYE/tr</guid>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Centrum Koncertowe A2 in Wroclaw, Poland on 2025-12-13</title>
-      <link>https://www.ticketmaster.pl/event/canceled-ark-chris-avantgarde-tickets/247059600?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-13 at Centrum Koncertowe A2.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/canceled-ark-chris-avantgarde-tickets/247059600?language=en-us</guid>
-      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Walcownia in Katowice, Poland on 2025-12-13</title>
-      <link>https://www.ticketmaster.pl/event/canceled-kizo-tickets/853719472?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-13 at Walcownia.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/canceled-kizo-tickets/853719472?language=en-us</guid>
-      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Corporation in Sheffield, Great Britain on 2025-12-13</title>
-      <link>https://www.ticketweb.uk/event/pestilence-corporation-tickets/14542233?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-13 at Corporation.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/pestilence-corporation-tickets/14542233?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Wytwórnia in Łódź , Poland on 2025-12-13</title>
-      <link>https://www.ticketmaster.pl/event/alestorm-tickets/421340997?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-13 at Klub Wytwórnia.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/alestorm-tickets/421340997?language=en-us</guid>
-      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ SoldOut Performance Hall in İzmir, Turkey on 2025-12-13</title>
-      <link>https://www.biletix.com/performance/4BLAG/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-13 at SoldOut Performance Hall.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/4BLAG/001/TURKIYE/tr</guid>
-      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Zaklęte Rewiry in Wroclaw, Poland on 2025-12-13</title>
-      <link>https://www.ticketmaster.pl/event/chelsea-grin-support-signs-of-the-swarm-mugshot-crown-magnetar-tickets/1769850364?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-13 at Zaklęte Rewiry.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/chelsea-grin-support-signs-of-the-swarm-mugshot-crown-magnetar-tickets/1769850364?language=en-us</guid>
-      <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub B90, Stocznia Gdańska in Gdansk, Poland on 2025-12-12</title>
-      <link>https://www.ticketmaster.pl/event/canceled-ark-chris-avantgarde-tickets/1334489565?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-12 at Klub B90, Stocznia Gdańska.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/canceled-ark-chris-avantgarde-tickets/1334489565?language=en-us</guid>
-      <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Queens Hall in Nuneaton, Great Britain on 2025-12-12</title>
-      <link>https://www.universe.com/events/absolva-british-metal-xmas-tour-tickets-QZXNK2?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-12 at Queens Hall.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/absolva-british-metal-xmas-tour-tickets-QZXNK2?ref=ticketmaster</guid>
-      <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Bannermans in Edinburgh, Great Britain on 2025-12-12</title>
-      <link>https://www.ticketweb.uk/event/pestilence-bannermans-bar-tickets/14542203?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-12 at Bannermans.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/pestilence-bannermans-bar-tickets/14542203?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Centrum Koncertowe A2 in Wroclaw, Poland on 2025-12-12</title>
-      <link>https://www.ticketmaster.pl/event/kizo-tickets/64184054?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-12 at Centrum Koncertowe A2.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/kizo-tickets/64184054?language=en-us</guid>
-      <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Blind İstanbul in İstanbul, Turkey on 2025-12-12</title>
-      <link>https://www.biletix.com/performance/4BLAF/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-12 at Blind İstanbul.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/4BLAF/001/TURKIYE/tr</guid>
-      <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Zaścianek in Krakow, Poland on 2025-12-11</title>
-      <link>https://www.ticketmaster.pl/event/integrity-%7C-support-burning-sky-vehement-tickets/1409323891?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-11 at Klub Zaścianek.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/integrity-%7C-support-burning-sky-vehement-tickets/1409323891?language=en-us</guid>
-      <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Grove in Newcastle upon Tyne, Great Britain on 2025-12-11</title>
-      <link>https://www.ticketweb.uk/event/pestilence-the-grove-tickets/14542273?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-11 at The Grove.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/pestilence-the-grove-tickets/14542273?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Ivory Blacks in Glasgow, Great Britain on 2025-12-10</title>
-      <link>https://www.ticketweb.uk/event/pestilence-ivory-blacks-tickets/14542263?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-10 at Ivory Blacks.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/pestilence-ivory-blacks-tickets/14542263?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Wed, 10 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ VooDoo Club - Stage 2 in Warsaw, Poland on 2025-12-10</title>
-      <link>https://www.ticketmaster.pl/event/sinister--pessimist--graceless-european-tour-2025-tickets/408374059?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-10 at VooDoo Club - Stage 2.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/sinister--pessimist--graceless-european-tour-2025-tickets/408374059?language=en-us</guid>
-      <pubDate>Wed, 10 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2025-12-09</title>
-      <link>https://www.ticketmaster.pl/event/zach-templar-%7C-support-cal-of-frau-nima-tickets/576212479?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-09 at Hydrozagadka.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/zach-templar-%7C-support-cal-of-frau-nima-tickets/576212479?language=en-us</guid>
-      <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Rebellion Manchester in Manchester, Great Britain on 2025-12-09</title>
-      <link>https://www.ticketweb.uk/event/pestilence-rebellion-club-tickets/14542033?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-09 at Rebellion Manchester.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/pestilence-rebellion-club-tickets/14542033?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Fleece in Bristol, Great Britain on 2025-12-08</title>
-      <link>https://www.ticketweb.uk/event/pestilence-the-fleece-tickets/14542003?REFERRAL_ID=tmfeed</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-08 at The Fleece.</description>
-      <guid isPermaLink="false">https://www.ticketweb.uk/event/pestilence-the-fleece-tickets/14542003?REFERRAL_ID=tmfeed</guid>
-      <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
