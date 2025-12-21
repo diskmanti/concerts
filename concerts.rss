@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Dec 2025 09:17:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 09:17:24 +0000</lastBuildDate>
     <item>
       <title>Gorillaz @ Parkorman in İstanbul, Turkey on 2026-07-16</title>
       <link>https://www.biletix.com/performance/5POAD/001/TURKIYE/tr</link>
@@ -107,11 +107,18 @@
       <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Florence and the machine @ Thomond Park Stadium in Limerick City, Ireland on 2026-06-27</title>
-      <link>https://www.ticketmaster.ie/florence-the-machine-the-everybody-scream-limerick-city-27-06-2026/event/18006338A40ED21D</link>
-      <description>A concert by Florence and the machine is scheduled for 2026-06-27 at Thomond Park Stadium.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/florence-the-machine-the-everybody-scream-limerick-city-27-06-2026/event/18006338A40ED21D</guid>
-      <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
+      <title>Kasabian @ Glasgow Green in Glasgow, Great Britain on 2026-06-20</title>
+      <link>https://www.ticketmaster.co.uk/trnsmt-2-day-vip-ticket-saturdaysunday-glasgow-20-06-2026/event/360063658F074ED4</link>
+      <description>A concert by Kasabian is scheduled for 2026-06-20 at Glasgow Green.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/trnsmt-2-day-vip-ticket-saturdaysunday-glasgow-20-06-2026/event/360063658F074ED4</guid>
+      <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kasabian @ Glasgow Green in Glasgow, Great Britain on 2026-06-20</title>
+      <link>https://www.ticketmaster.co.uk/trnsmt-2-day-ticket-saturdaysunday-glasgow-20-06-2026/event/36006365ACCE71D3</link>
+      <description>A concert by Kasabian is scheduled for 2026-06-20 at Glasgow Green.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/trnsmt-2-day-ticket-saturdaysunday-glasgow-20-06-2026/event/36006365ACCE71D3</guid>
+      <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ Glasgow Green in Glasgow, Great Britain on 2026-06-20</title>
@@ -132,20 +139,6 @@
       <link>https://www.ticketmaster.co.uk/trnsmt-saturday-vip-priority-ticket-kasabian-glasgow-20-06-2026/event/36006365DFEBA019</link>
       <description>A concert by Kasabian is scheduled for 2026-06-20 at Glasgow Green.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/trnsmt-saturday-vip-priority-ticket-kasabian-glasgow-20-06-2026/event/36006365DFEBA019</guid>
-      <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Glasgow Green in Glasgow, Great Britain on 2026-06-20</title>
-      <link>https://www.ticketmaster.co.uk/trnsmt-2-day-vip-ticket-saturdaysunday-glasgow-20-06-2026/event/360063658F074ED4</link>
-      <description>A concert by Kasabian is scheduled for 2026-06-20 at Glasgow Green.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/trnsmt-2-day-vip-ticket-saturdaysunday-glasgow-20-06-2026/event/360063658F074ED4</guid>
-      <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Glasgow Green in Glasgow, Great Britain on 2026-06-20</title>
-      <link>https://www.ticketmaster.co.uk/trnsmt-2-day-ticket-saturdaysunday-glasgow-20-06-2026/event/36006365ACCE71D3</link>
-      <description>A concert by Kasabian is scheduled for 2026-06-20 at Glasgow Green.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/trnsmt-2-day-ticket-saturdaysunday-glasgow-20-06-2026/event/36006365ACCE71D3</guid>
       <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -282,6 +275,13 @@
       <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Tame Impala @ N/A in Amsterdam, Netherlands on 2026-05-04</title>
+      <link>https://www.ticketmaster.nl/event/parking-permit-tame-impala-tickets/1782714722?language=en-us</link>
+      <description>A concert by Tame Impala is scheduled for 2026-05-04 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/parking-permit-tame-impala-tickets/1782714722?language=en-us</guid>
+      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Tame Impala @ Ziggo Dome Club in Amsterdam, Netherlands on 2026-05-04</title>
       <link>https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-%7C-vinyl-room-package-tickets/1503362915?language=en-us</link>
       <description>A concert by Tame Impala is scheduled for 2026-05-04 at Ziggo Dome Club.</description>
@@ -293,13 +293,6 @@
       <link>https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/1268221746?language=en-us</link>
       <description>A concert by Tame Impala is scheduled for 2026-05-04 at Ziggo Dome.</description>
       <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/1268221746?language=en-us</guid>
-      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ N/A in Amsterdam, Netherlands on 2026-05-04</title>
-      <link>https://www.ticketmaster.nl/event/parking-permit-tame-impala-tickets/1782714722?language=en-us</link>
-      <description>A concert by Tame Impala is scheduled for 2026-05-04 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/parking-permit-tame-impala-tickets/1782714722?language=en-us</guid>
       <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -485,6 +478,13 @@
       <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Florence and the machine @ Vinyl Room - Ziggo Dome in Amsterdam, Netherlands on 2026-02-25</title>
+      <link>https://www.ticketmaster.nl/event/florence--the-machine-vinyl-room-upgrade-exclusief-concertticket--tickets/1573814402?language=en-us</link>
+      <description>A concert by Florence and the machine is scheduled for 2026-02-25 at Vinyl Room - Ziggo Dome.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/florence--the-machine-vinyl-room-upgrade-exclusief-concertticket--tickets/1573814402?language=en-us</guid>
+      <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Florence and the machine @ AFAS Dome in Merksem (Antwerpen), Belgium on 2026-02-23</title>
       <link>https://www.ticketmaster.be/event/florence--the-machine-the-everybody-scream-tour-tickets/2069263374</link>
       <description>A concert by Florence and the machine is scheduled for 2026-02-23 at AFAS Dome.</description>
@@ -590,6 +590,76 @@
       <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-02-06</title>
+      <link>https://www.universe.com/events/bell-witch-aerial-ruin-stygian-bough-tour-tickets-W5KNR3?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-06 at The Cluny.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/bell-witch-aerial-ruin-stygian-bough-tour-tickets-W5KNR3?ref=ticketmaster</guid>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ DreadnoughtRock in  Bathgate, Great Britain on 2026-02-06</title>
+      <link>https://www.universe.com/events/metal-2-the-masses-bathgate-heat-tickets-T534DB?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-06 at DreadnoughtRock.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/metal-2-the-masses-bathgate-heat-tickets-T534DB?ref=ticketmaster</guid>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Mimar Sinan Kongre Merkezi in Antalya, Turkey on 2026-02-06</title>
+      <link>https://www.biletix.com/performance/4UCOK/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-06 at Mimar Sinan Kongre Merkezi.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4UCOK/001/TURKIYE/tr</guid>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Ulster Sports Club  in Belfast , Great Britain on 2026-02-04</title>
+      <link>https://www.ticketmaster.ie/heavy-lungs-x-bucket-belfast-04-02-2026/event/3800634892771B40</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-04 at Ulster Sports Club .</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ie/heavy-lungs-x-bucket-belfast-04-02-2026/event/3800634892771B40</guid>
+      <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Workmans Club in Dublin, Ireland on 2026-02-03</title>
+      <link>https://www.ticketmaster.ie/heavy-lungs-bucket-dublin-03-02-2026/event/1800634AE680FC91</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-03 at The Workmans Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ie/heavy-lungs-bucket-dublin-03-02-2026/event/1800634AE680FC91</guid>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2026-01-31</title>
+      <link>https://www.ticketmaster.pl/event/ark-x-enter-the-realm-weekender-gorgon-city--linska-booguta-tickets/1707530069?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-31 at Klub Progresja.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-x-enter-the-realm-weekender-gorgon-city--linska-booguta-tickets/1707530069?language=en-us</guid>
+      <pubDate>Sat, 31 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2026-01-30</title>
+      <link>https://www.ticketmaster.pl/event/ark-nora-en-pure-tickets/871645174?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-30 at Klub Progresja.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-nora-en-pure-tickets/871645174?language=en-us</guid>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub B90, Stocznia Gdańska in Gdansk, Poland on 2026-01-30</title>
+      <link>https://www.ticketmaster.pl/event/ark-x-enter-the-realm-weekender-gorgon-city--linska-booguta-tickets/1453372121?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-30 at Klub B90, Stocznia Gdańska.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-x-enter-the-realm-weekender-gorgon-city--linska-booguta-tickets/1453372121?language=en-us</guid>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Vorst Nationaal/Forest National in Forest (Brussels), Belgium on 2026-01-30</title>
+      <link>https://www.ticketmaster.be/event/deftones-tickets/339483927</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-30 at Vorst Nationaal/Forest National.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.be/event/deftones-tickets/339483927</guid>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Łącznik in Wroclaw, Poland on 2026-01-27</title>
+      <link>https://www.ticketmaster.pl/event/bell-witch--aerial-ruin-support-40watt-sun-tickets/982714250?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-27 at Klub Łącznik.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/bell-witch--aerial-ruin-support-40watt-sun-tickets/982714250?language=en-us</guid>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Heavy @ Voodoo Club in Warsaw, Poland on 2026-01-26</title>
       <link>https://www.ticketmaster.pl/event/bell-witch--aerial-ruin-support-40watt-sun-tickets/1713618215?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2026-01-26 at Voodoo Club.</description>
@@ -615,6 +685,13 @@
       <link>https://www.ticketmaster.nl/event/electric-callboy-world-tour-tickets/834844405?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2026-01-17 at RTM Stage - Rotterdam Ahoy.</description>
       <guid isPermaLink="false">https://www.ticketmaster.nl/event/electric-callboy-world-tour-tickets/834844405?language=en-us</guid>
+      <pubDate>Sat, 17 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Underworld in London, Great Britain on 2026-01-17</title>
+      <link>https://www.universe.com/events/aeternus-tickets-RX67TJ?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-17 at Underworld.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/aeternus-tickets-RX67TJ?ref=ticketmaster</guid>
       <pubDate>Sat, 17 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -658,111 +735,6 @@
       <description>A concert by The Heavy is scheduled for 2025-12-21 at Katowice Miasto Ogrodów.</description>
       <guid isPermaLink="false">https://www.ticketmaster.pl/event/tarja-turunen-the-spirit-of-christmas-2025-tickets/627558234?language=en-us</guid>
       <pubDate>Sun, 21 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1000mods @ Roundhouse in London, Great Britain on 2025-12-20</title>
-      <link>https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-london-20-12-2025/event/1F00616FBC4325C0</link>
-      <description>A concert by 1000mods is scheduled for 2025-12-20 at Roundhouse.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-london-20-12-2025/event/1F00616FBC4325C0</guid>
-      <pubDate>Sat, 20 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ EXPO XXI in Warsaw, Poland on 2025-12-19</title>
-      <link>https://www.ticketmaster.pl/event/ark-the-blaze-dj-set-tickets/263945297?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-19 at EXPO XXI.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-the-blaze-dj-set-tickets/263945297?language=en-us</guid>
-      <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub B90, Stocznia Gdańska in Gdansk, Poland on 2025-12-19</title>
-      <link>https://www.ticketmaster.pl/event/kizo-tickets/1976045262?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-19 at Klub B90, Stocznia Gdańska.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/kizo-tickets/1976045262?language=en-us</guid>
-      <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ SoldOut Performance Hall in İzmir, Turkey on 2025-12-19</title>
-      <link>https://www.biletix.com/performance/40XAX/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-19 at SoldOut Performance Hall.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/40XAX/001/TURKIYE/tr</guid>
-      <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1000mods @ Manchester Academy in Manchester, Great Britain on 2025-12-19</title>
-      <link>https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-manchester-19-12-2025/event/1F00616FAD831B47</link>
-      <description>A concert by 1000mods is scheduled for 2025-12-19 at Manchester Academy.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-manchester-19-12-2025/event/1F00616FAD831B47</guid>
-      <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Milyon Performance Hall Ankara in Ankara, Turkey on 2025-12-18</title>
-      <link>https://www.biletix.com/performance/40XAV/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-18 at Milyon Performance Hall Ankara.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/40XAV/001/TURKIYE/tr</guid>
-      <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ H15 in København V, Denmark on 2025-12-18</title>
-      <link>https://www.ticketmaster.dk/event/galoppen-x-clean-out-louis-x-ababy-tickets/1162431543?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-18 at H15.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.dk/event/galoppen-x-clean-out-louis-x-ababy-tickets/1162431543?language=en-us</guid>
-      <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Zorlu PSM - Turkcell Sahnesi in İstanbul, Turkey on 2025-12-17</title>
-      <link>https://www.biletix.com/performance/40XAS/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-17 at Zorlu PSM - Turkcell Sahnesi.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/40XAS/001/TURKIYE/tr</guid>
-      <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ New Cross Inn in London, Great Britain on 2025-12-17</title>
-      <link>https://www.universe.com/events/gross-misconduct-tickets-WY07KX?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-17 at New Cross Inn.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/gross-misconduct-tickets-WY07KX?ref=ticketmaster</guid>
-      <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1000mods @ O2 Academy Birmingham in Birmingham, Great Britain on 2025-12-17</title>
-      <link>https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-birmingham-17-12-2025/event/3E00616EF041291F</link>
-      <description>A concert by 1000mods is scheduled for 2025-12-17 at O2 Academy Birmingham.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-birmingham-17-12-2025/event/3E00616EF041291F</guid>
-      <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2025-12-16</title>
-      <link>https://www.universe.com/events/orange-goblin-tickets-82R74V?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-16 at Southampton 1865.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/orange-goblin-tickets-82R74V?ref=ticketmaster</guid>
-      <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Rebellion Manchester in Manchester, Great Britain on 2025-12-16</title>
-      <link>https://www.universe.com/events/swallow-the-sun-tickets-XH2YLQ?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-16 at Rebellion Manchester.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/swallow-the-sun-tickets-XH2YLQ?ref=ticketmaster</guid>
-      <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1000mods @ Bristol Beacon in Bristol, Great Britain on 2025-12-15</title>
-      <link>https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-bristol-15-12-2025/event/37006172F6DB4464</link>
-      <description>A concert by 1000mods is scheduled for 2025-12-15 at Bristol Beacon.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/clutch-fortune-tellers-make-a-killing-bristol-15-12-2025/event/37006172F6DB4464</guid>
-      <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub B90, Stocznia Gdańska in Gdansk, Poland on 2025-12-14</title>
-      <link>https://www.ticketmaster.pl/event/alestorm-tickets/978452457?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-14 at Klub B90, Stocznia Gdańska.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/alestorm-tickets/978452457?language=en-us</guid>
-      <pubDate>Sun, 14 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ 6:45 KK Ankara in Ankara, Turkey on 2025-12-14</title>
-      <link>https://www.biletix.com/performance/4HM89/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-14 at 6:45 KK Ankara.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/4HM89/001/TURKIYE/tr</guid>
-      <pubDate>Sun, 14 Dec 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
