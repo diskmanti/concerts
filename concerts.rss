@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Dec 2025 09:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 09:17:44 +0000</lastBuildDate>
     <item>
       <title>Gorillaz @ Parkorman in İstanbul, Turkey on 2026-07-16</title>
       <link>https://www.biletix.com/performance/5POAD/001/TURKIYE/tr</link>
@@ -590,6 +590,13 @@
       <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Kasbah Social Club in Limerick, Ireland on 2026-02-06</title>
+      <link>https://www.ticketmaster.ie/heavy-lungs-x-bucket-limerick-06-02-2026/event/1800634AEA864AED</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-06 at Kasbah Social Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ie/heavy-lungs-x-bucket-limerick-06-02-2026/event/1800634AEA864AED</guid>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-02-06</title>
       <link>https://www.universe.com/events/bell-witch-aerial-ruin-stygian-bough-tour-tickets-W5KNR3?ref=ticketmaster</link>
       <description>A concert by The Heavy is scheduled for 2026-02-06 at The Cluny.</description>
@@ -609,6 +616,13 @@
       <description>A concert by The Heavy is scheduled for 2026-02-06 at Mimar Sinan Kongre Merkezi.</description>
       <guid isPermaLink="false">https://www.biletix.com/performance/4UCOK/001/TURKIYE/tr</guid>
       <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-02-05</title>
+      <link>https://www.universe.com/events/skyclad-trold-denmark-tickets-3Z5S8Y?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-05 at The Cluny.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/skyclad-trold-denmark-tickets-3Z5S8Y?ref=ticketmaster</guid>
+      <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Heavy @ Ulster Sports Club  in Belfast , Great Britain on 2026-02-04</title>
@@ -721,20 +735,6 @@
       <description>A concert by The Heavy is scheduled for 2025-12-30 at Brudenell Social Club.</description>
       <guid isPermaLink="false">https://www.universe.com/events/slade-uk-tickets-G1NRKC?ref=ticketmaster</guid>
       <pubDate>Tue, 30 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ CKK Jordanki in Toruń, Poland on 2025-12-22</title>
-      <link>https://www.ticketmaster.pl/event/tarja-turunen-the-spirit-of-christmas-2025-tickets/967512885?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-22 at CKK Jordanki.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/tarja-turunen-the-spirit-of-christmas-2025-tickets/967512885?language=en-us</guid>
-      <pubDate>Mon, 22 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Katowice Miasto Ogrodów in Katowice, Poland on 2025-12-21</title>
-      <link>https://www.ticketmaster.pl/event/tarja-turunen-the-spirit-of-christmas-2025-tickets/627558234?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-21 at Katowice Miasto Ogrodów.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/tarja-turunen-the-spirit-of-christmas-2025-tickets/627558234?language=en-us</guid>
-      <pubDate>Sun, 21 Dec 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
