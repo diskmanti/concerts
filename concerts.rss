@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Dec 2025 09:17:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 09:16:52 +0000</lastBuildDate>
     <item>
       <title>Gorillaz @ Parkorman in İstanbul, Turkey on 2026-07-16</title>
       <link>https://www.biletix.com/performance/5POAD/001/TURKIYE/tr</link>
@@ -590,13 +590,6 @@
       <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ Kasbah Social Club in Limerick, Ireland on 2026-02-06</title>
-      <link>https://www.ticketmaster.ie/heavy-lungs-x-bucket-limerick-06-02-2026/event/1800634AEA864AED</link>
-      <description>A concert by The Heavy is scheduled for 2026-02-06 at Kasbah Social Club.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/heavy-lungs-x-bucket-limerick-06-02-2026/event/1800634AEA864AED</guid>
-      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-02-06</title>
       <link>https://www.universe.com/events/bell-witch-aerial-ruin-stygian-bough-tour-tickets-W5KNR3?ref=ticketmaster</link>
       <description>A concert by The Heavy is scheduled for 2026-02-06 at The Cluny.</description>
@@ -657,6 +650,13 @@
       <link>https://www.ticketmaster.pl/event/ark-x-enter-the-realm-weekender-gorgon-city--linska-booguta-tickets/1453372121?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2026-01-30 at Klub B90, Stocznia Gdańska.</description>
       <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-x-enter-the-realm-weekender-gorgon-city--linska-booguta-tickets/1453372121?language=en-us</guid>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Underground in Bradford, Great Britain on 2026-01-30</title>
+      <link>https://www.universe.com/events/ruination-festival-2026-tickets-J0L25D?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-30 at The Underground.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/ruination-festival-2026-tickets-J0L25D?ref=ticketmaster</guid>
       <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -723,18 +723,18 @@
       <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Live Las Ventas in Madrid, Spain on 2026-01-10</title>
+      <link>https://www.ticketmaster.es/event/saratoga-tickets/857583463?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-10 at Live Las Ventas.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.es/event/saratoga-tickets/857583463?language=en-us</guid>
+      <pubDate>Sat, 10 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kasabian @ Barrowland Ballroom in Glasgow, Great Britain on 2026-01-10</title>
       <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-9LZ8N0?ref=ticketmaster</link>
       <description>A concert by Kasabian is scheduled for 2026-01-10 at Barrowland Ballroom.</description>
       <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-9LZ8N0?ref=ticketmaster</guid>
       <pubDate>Sat, 10 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Brudenell Social Club in Leeds, Great Britain on 2025-12-30</title>
-      <link>https://www.universe.com/events/slade-uk-tickets-G1NRKC?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2025-12-30 at Brudenell Social Club.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/slade-uk-tickets-G1NRKC?ref=ticketmaster</guid>
-      <pubDate>Tue, 30 Dec 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
