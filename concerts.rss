@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Jan 2026 22:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 09:17:58 +0000</lastBuildDate>
     <item>
       <title>Kasabian @ Bramham Park in Leeds, Great Britain on 2026-08-27</title>
       <link>https://www.ticketmaster.co.uk/leeds-festival-2026-thursday-leeds-27-08-2026/event/3500636D9A0A600F</link>
@@ -21,13 +21,6 @@
       <description>A concert by Gorillaz is scheduled for 2026-07-14 at Parkorman.</description>
       <guid isPermaLink="false">https://www.biletix.com/performance/5POAH/001/TURKIYE/tr</guid>
       <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hives @ Festivalpark Werchter in Werchter, Belgium on 2026-07-05</title>
-      <link>https://www.ticketmaster.be/event/rock-werchter-2026-%7C-campingticket-the-hive-my-space-tickets/219629400</link>
-      <description>A concert by The Hives is scheduled for 2026-07-05 at Festivalpark Werchter.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.be/event/rock-werchter-2026-%7C-campingticket-the-hive-my-space-tickets/219629400</guid>
-      <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Hives @ Festivalpark Werchter in Werchter, Belgium on 2026-07-05</title>
@@ -45,16 +38,23 @@
     </item>
     <item>
       <title>The Hives @ Festivalpark Werchter in Werchter, Belgium on 2026-07-05</title>
-      <link>https://www.ticketmaster.be/event/rock-werchter-2026-%7C-breakfast-the-hive-tickets/1223046413</link>
+      <link>https://www.ticketmaster.be/event/rock-werchter-2026-%7C-campingticket-the-hive-tickets/1850650349</link>
       <description>A concert by The Hives is scheduled for 2026-07-05 at Festivalpark Werchter.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.be/event/rock-werchter-2026-%7C-breakfast-the-hive-tickets/1223046413</guid>
+      <guid isPermaLink="false">https://www.ticketmaster.be/event/rock-werchter-2026-%7C-campingticket-the-hive-tickets/1850650349</guid>
       <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Hives @ Festivalpark Werchter in Werchter, Belgium on 2026-07-05</title>
-      <link>https://www.ticketmaster.be/event/rock-werchter-2026-%7C-campingticket-the-hive-tickets/1850650349</link>
+      <link>https://www.ticketmaster.be/event/rock-werchter-2026-%7C-campingticket-the-hive-my-space-tickets/219629400</link>
       <description>A concert by The Hives is scheduled for 2026-07-05 at Festivalpark Werchter.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.be/event/rock-werchter-2026-%7C-campingticket-the-hive-tickets/1850650349</guid>
+      <guid isPermaLink="false">https://www.ticketmaster.be/event/rock-werchter-2026-%7C-campingticket-the-hive-my-space-tickets/219629400</guid>
+      <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ Festivalpark Werchter in Werchter, Belgium on 2026-07-05</title>
+      <link>https://www.ticketmaster.be/event/rock-werchter-2026-%7C-breakfast-the-hive-tickets/1223046413</link>
+      <description>A concert by The Hives is scheduled for 2026-07-05 at Festivalpark Werchter.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.be/event/rock-werchter-2026-%7C-breakfast-the-hive-tickets/1223046413</guid>
       <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -105,6 +105,13 @@
       <description>A concert by Kasabian is scheduled for 2026-07-02 at Festivalpark Werchter.</description>
       <guid isPermaLink="false">https://www.ticketmaster.be/event/rock-werchter-2026-%7C-thursday-terras-tickets/1021503399</guid>
       <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Florence and the machine @ Thomond Park Stadium in Limerick City, Ireland on 2026-06-27</title>
+      <link>https://www.ticketmaster.ie/florence-the-machine-the-everybody-scream-limerick-city-27-06-2026/event/18006338A40ED21D</link>
+      <description>A concert by Florence and the machine is scheduled for 2026-06-27 at Thomond Park Stadium.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ie/florence-the-machine-the-everybody-scream-limerick-city-27-06-2026/event/18006338A40ED21D</guid>
+      <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ Glasgow Green in Glasgow, Great Britain on 2026-06-20</title>
@@ -293,6 +300,13 @@
       <link>https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/1268221746?language=en-us</link>
       <description>A concert by Tame Impala is scheduled for 2026-05-04 at Ziggo Dome.</description>
       <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/1268221746?language=en-us</guid>
+      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tame Impala @ Vinyl Room - Ziggo Dome in Amsterdam, Netherlands on 2026-05-04</title>
+      <link>https://www.ticketmaster.nl/event/tame-impala-%7C-vinyl-room-upgrade-concertticket-niet-inbegrepen--tickets/1410173713?language=en-us</link>
+      <description>A concert by Tame Impala is scheduled for 2026-05-04 at Vinyl Room - Ziggo Dome.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-%7C-vinyl-room-upgrade-concertticket-niet-inbegrepen--tickets/1410173713?language=en-us</guid>
       <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -499,13 +513,6 @@
       <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Florence and the machine @ Co-op Live in Manchester, Great Britain on 2026-02-20</title>
-      <link>https://www.ticketmaster.co.uk/florence-the-machine-the-everybody-scream-manchester-20-02-2026/event/3700631CBC8116E9</link>
-      <description>A concert by Florence and the machine is scheduled for 2026-02-20 at Co-op Live.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/florence-the-machine-the-everybody-scream-manchester-20-02-2026/event/3700631CBC8116E9</guid>
-      <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Florence and the machine @ The O2 in London, Great Britain on 2026-02-17</title>
       <link>https://www.ticketmaster.co.uk/florence-the-machine-the-everybody-scream-london-17-02-2026/event/3500631CA3D2334A</link>
       <description>A concert by Florence and the machine is scheduled for 2026-02-17 at The O2.</description>
@@ -576,10 +583,24 @@
       <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Rebellion Manchester in Manchester, Great Britain on 2026-02-09</title>
+      <link>https://www.universe.com/events/bell-witch-aerial-ruin-stygian-bough-tickets-D6FQPN?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-09 at Rebellion Manchester.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/bell-witch-aerial-ruin-stygian-bough-tickets-D6FQPN?ref=ticketmaster</guid>
+      <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Florence and the machine @ bp pulse LIVE in Birmingham, Great Britain on 2026-02-08</title>
       <link>https://www.ticketmaster.co.uk/florence-the-machine-the-everybody-scream-birmingham-08-02-2026/event/2300631CCB2A0F17</link>
       <description>A concert by Florence and the machine is scheduled for 2026-02-08 at bp pulse LIVE.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/florence-the-machine-the-everybody-scream-birmingham-08-02-2026/event/2300631CCB2A0F17</guid>
+      <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ İstanbul Kongre Merkezi Harbiye Oditoryumu in İstanbul, Turkey on 2026-02-08</title>
+      <link>https://www.biletix.com/performance/4UCOJ/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-08 at İstanbul Kongre Merkezi Harbiye Oditoryumu.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4UCOJ/001/TURKIYE/tr</guid>
       <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -595,6 +616,132 @@
       <description>A concert by Florence and the machine is scheduled for 2026-02-06 at The SSE Arena, Belfast.</description>
       <guid isPermaLink="false">https://www.ticketmaster.ie/share-a-suite-florence-the-machine-belfast-06-02-2026/event/3800631AC10011D5</guid>
       <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Backstage at The Green Hotel in Kinross, Great Britain on 2026-02-06</title>
+      <link>https://www.universe.com/events/red-giant-tickets-ZGKBXS?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-06 at Backstage at The Green Hotel.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/red-giant-tickets-ZGKBXS?ref=ticketmaster</guid>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Kasbah Social Club in Limerick, Ireland on 2026-02-06</title>
+      <link>https://www.ticketmaster.ie/heavy-lungs-x-bucket-limerick-06-02-2026/event/1800634AEA864AED</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-06 at Kasbah Social Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ie/heavy-lungs-x-bucket-limerick-06-02-2026/event/1800634AEA864AED</guid>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-02-06</title>
+      <link>https://www.universe.com/events/bell-witch-aerial-ruin-stygian-bough-tour-tickets-W5KNR3?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-06 at The Cluny.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/bell-witch-aerial-ruin-stygian-bough-tour-tickets-W5KNR3?ref=ticketmaster</guid>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ DreadnoughtRock in  Bathgate, Great Britain on 2026-02-06</title>
+      <link>https://www.universe.com/events/metal-2-the-masses-bathgate-heat-tickets-T534DB?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-06 at DreadnoughtRock.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/metal-2-the-masses-bathgate-heat-tickets-T534DB?ref=ticketmaster</guid>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Mimar Sinan Kongre Merkezi in Antalya, Turkey on 2026-02-06</title>
+      <link>https://www.biletix.com/performance/4UCOK/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-06 at Mimar Sinan Kongre Merkezi.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4UCOK/001/TURKIYE/tr</guid>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-02-05</title>
+      <link>https://www.universe.com/events/skyclad-trold-denmark-tickets-3Z5S8Y?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-05 at The Cluny.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/skyclad-trold-denmark-tickets-3Z5S8Y?ref=ticketmaster</guid>
+      <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Ulster Sports Club  in Belfast , Great Britain on 2026-02-04</title>
+      <link>https://www.ticketmaster.ie/heavy-lungs-x-bucket-belfast-04-02-2026/event/3800634892771B40</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-04 at Ulster Sports Club .</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ie/heavy-lungs-x-bucket-belfast-04-02-2026/event/3800634892771B40</guid>
+      <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Workmans Club in Dublin, Ireland on 2026-02-03</title>
+      <link>https://www.ticketmaster.ie/heavy-lungs-bucket-dublin-03-02-2026/event/1800634AE680FC91</link>
+      <description>A concert by The Heavy is scheduled for 2026-02-03 at The Workmans Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ie/heavy-lungs-bucket-dublin-03-02-2026/event/1800634AE680FC91</guid>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2026-01-31</title>
+      <link>https://www.ticketmaster.pl/event/ark-x-enter-the-realm-weekender-gorgon-city--linska-booguta-tickets/1707530069?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-31 at Klub Progresja.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-x-enter-the-realm-weekender-gorgon-city--linska-booguta-tickets/1707530069?language=en-us</guid>
+      <pubDate>Sat, 31 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ New Cross Inn in London, Great Britain on 2026-01-31</title>
+      <link>https://www.universe.com/events/some-kind-of-metallica-tickets-MZFJY7?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-31 at New Cross Inn.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/some-kind-of-metallica-tickets-MZFJY7?ref=ticketmaster</guid>
+      <pubDate>Sat, 31 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2026-01-30</title>
+      <link>https://www.ticketmaster.pl/event/ark-nora-en-pure-tickets/871645174?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-30 at Klub Progresja.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-nora-en-pure-tickets/871645174?language=en-us</guid>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub B90, Stocznia Gdańska in Gdansk, Poland on 2026-01-30</title>
+      <link>https://www.ticketmaster.pl/event/ark-x-enter-the-realm-weekender-gorgon-city--linska-booguta-tickets/1453372121?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-30 at Klub B90, Stocznia Gdańska.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-x-enter-the-realm-weekender-gorgon-city--linska-booguta-tickets/1453372121?language=en-us</guid>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Underground in Bradford, Great Britain on 2026-01-30</title>
+      <link>https://www.universe.com/events/ruination-festival-2026-tickets-J0L25D?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-30 at The Underground.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/ruination-festival-2026-tickets-J0L25D?ref=ticketmaster</guid>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Vorst Nationaal/Forest National in Forest (Brussels), Belgium on 2026-01-30</title>
+      <link>https://www.ticketmaster.be/event/deftones-tickets/339483927</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-30 at Vorst Nationaal/Forest National.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.be/event/deftones-tickets/339483927</guid>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Łącznik in Wroclaw, Poland on 2026-01-27</title>
+      <link>https://www.ticketmaster.pl/event/bell-witch--aerial-ruin-support-40watt-sun-tickets/982714250?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-27 at Klub Łącznik.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/bell-witch--aerial-ruin-support-40watt-sun-tickets/982714250?language=en-us</guid>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Voodoo Club in Warsaw, Poland on 2026-01-26</title>
+      <link>https://www.ticketmaster.pl/event/bell-witch--aerial-ruin-support-40watt-sun-tickets/1713618215?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-26 at Voodoo Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/bell-witch--aerial-ruin-support-40watt-sun-tickets/1713618215?language=en-us</guid>
+      <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Centrum Kultury ZAMEK in Poznan, Poland on 2026-01-24</title>
+      <link>https://www.ticketmaster.pl/event/claudio-constantini-fragile-solo-tour-2025-tickets/890778846?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-24 at Centrum Kultury ZAMEK.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/claudio-constantini-fragile-solo-tour-2025-tickets/890778846?language=en-us</guid>
+      <pubDate>Sat, 24 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Vorst Nationaal/Forest National in Forest (Brussels), Belgium on 2026-01-18</title>
+      <link>https://www.ticketmaster.be/event/epica--amaranthe-arcane-dimensions-tour-2026-tickets/1593873176</link>
+      <description>A concert by The Heavy is scheduled for 2026-01-18 at Vorst Nationaal/Forest National.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.be/event/epica--amaranthe-arcane-dimensions-tour-2026-tickets/1593873176</guid>
+      <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
