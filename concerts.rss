@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Feb 2026 09:27:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 09:45:42 +0000</lastBuildDate>
     <item>
       <title>1000mods @ The Garage in London, Great Britain on 2026-11-29</title>
       <link>https://www.universe.com/events/1000mods-tickets-DSF5WG?ref=ticketmaster</link>
@@ -86,13 +86,6 @@
       <pubDate>Sun, 13 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kasabian @ Chalk, Brighton in Brighton, Great Britain on 2026-09-11</title>
-      <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-MS6X95?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2026-09-11 at Chalk, Brighton.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-MS6X95?ref=ticketmaster</guid>
-      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Black Keys @ Alcatraz in Milano, Italy on 2026-09-10</title>
       <link>https://www.ticketmaster.it/biglietti/the-black-keys-peaches-n-kream-milano-10-09-2026/event/9v333gp14wn1</link>
       <description>A concert by The Black Keys is scheduled for 2026-09-10 at Alcatraz.</description>
@@ -156,13 +149,6 @@
       <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kasabian @ Bramham Park in Leeds, Great Britain on 2026-08-27</title>
-      <link>https://www.ticketmaster.co.uk/leeds-festival-2026-thursday-leeds-27-08-2026/event/3500636D9A0A600F</link>
-      <description>A concert by Kasabian is scheduled for 2026-08-27 at Bramham Park.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/leeds-festival-2026-thursday-leeds-27-08-2026/event/3500636D9A0A600F</guid>
-      <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Florence and the machine @ Royal Highland Showgrounds in Edinburgh, Great Britain on 2026-08-24</title>
       <link>https://www.ticketmaster.co.uk/edinburgh-summer-sessions-florence-the-machine-edinburgh-24-08-2026/event/36006349E4D7BA19</link>
       <description>A concert by Florence and the machine is scheduled for 2026-08-24 at Royal Highland Showgrounds.</description>
@@ -182,6 +168,20 @@
       <description>A concert by Kasabian is scheduled for 2026-07-31 at KK's Steel Mill.</description>
       <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-5F9GXL?ref=ticketmaster</guid>
       <pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kasabian @ Mostra d'Oltremare in Napoli, Italy on 2026-07-24</title>
+      <link>https://www.ticketmaster.it/biglietti/noisy-naples-26-day-2-kasabian-planet-funk-napoli-24-07-2026/event/zl97k1123ypf</link>
+      <description>A concert by Kasabian is scheduled for 2026-07-24 at Mostra d'Oltremare.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.it/biglietti/noisy-naples-26-day-2-kasabian-planet-funk-napoli-24-07-2026/event/zl97k1123ypf</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kasabian @ Mostra d'Oltremare in Napoli, Italy on 2026-07-23</title>
+      <link>https://www.ticketmaster.it/biglietti/noisy-naples-2026-2-days-pass/event/hwyao2oupgbp</link>
+      <description>A concert by Kasabian is scheduled for 2026-07-23 at Mostra d'Oltremare.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.it/biglietti/noisy-naples-2026-2-days-pass/event/hwyao2oupgbp</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Gorillaz @ Parkorman in İstanbul, Turkey on 2026-07-14</title>
@@ -492,6 +492,13 @@
       <pubDate>Sat, 02 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Truckfighters @ Melkweg in Amsterdam, Netherlands on 2026-04-30</title>
+      <link>https://www.ticketmaster.nl/event/truckfighters-tickets/1502634436?language=en-us</link>
+      <description>A concert by Truckfighters is scheduled for 2026-04-30 at Melkweg.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/truckfighters-tickets/1502634436?language=en-us</guid>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Tame Impala @ Uber Arena in Berlin, Germany on 2026-04-29</title>
       <link>https://www.ticketmaster.de/event/tame-impala-%7C-box-seat-in-the-ticketmaster-suite-tickets/548473333?language=en-us</link>
       <description>A concert by Tame Impala is scheduled for 2026-04-29 at Uber Arena.</description>
@@ -674,6 +681,20 @@
       <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Voodoo Club in Warsaw, Poland on 2026-03-01</title>
+      <link>https://www.ticketmaster.pl/event/pearly-drops-%7C-support-harmony-tickets/1274812135?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-03-01 at Voodoo Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/pearly-drops-%7C-support-harmony-tickets/1274812135?language=en-us</guid>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Cart &amp; Horses in London, Great Britain on 2026-03-01</title>
+      <link>https://www.universe.com/events/maiden-free-featuring-raphael-mendes-tickets-T2439M?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-03-01 at Cart &amp; Horses.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/maiden-free-featuring-raphael-mendes-tickets-T2439M?ref=ticketmaster</guid>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Heavy @ Voodoo Club in Warsaw, Poland on 2026-02-28</title>
       <link>https://www.ticketmaster.pl/event/grails-support-expensive-shit-tickets/1088181215?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2026-02-28 at Voodoo Club.</description>
@@ -700,6 +721,13 @@
       <description>A concert by The Heavy is scheduled for 2026-02-26 at KOLA.</description>
       <guid isPermaLink="false">https://www.universe.com/events/crowbar-legions-of-doom-silverburn-tickets-M3HWL5?ref=ticketmaster</guid>
       <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Florence and the machine @ N/A in Amsterdam, Netherlands on 2026-02-25</title>
+      <link>https://www.ticketmaster.nl/event/parking-permit-florence--the-machine-tickets/967063185?language=en-us</link>
+      <description>A concert by Florence and the machine is scheduled for 2026-02-25 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/parking-permit-florence--the-machine-tickets/967063185?language=en-us</guid>
+      <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Florence and the machine @ Vinyl Room - Ziggo Dome in Amsterdam, Netherlands on 2026-02-25</title>
@@ -847,27 +875,6 @@
       <description>A concert by The Heavy is scheduled for 2026-02-17 at Newcastle University Student Union.</description>
       <guid isPermaLink="false">https://www.universe.com/events/crowbar-tickets-QZGHWJ?ref=ticketmaster</guid>
       <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Florence and the machine @ The O2 in London, Great Britain on 2026-02-16</title>
-      <link>https://www.ticketmaster.co.uk/florence-the-machine-the-everybody-scream-london-16-02-2026/event/3500631CA3D1333C</link>
-      <description>A concert by Florence and the machine is scheduled for 2026-02-16 at The O2.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/florence-the-machine-the-everybody-scream-london-16-02-2026/event/3500631CA3D1333C</guid>
-      <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Patterns in Brighton, Great Britain on 2026-02-15</title>
-      <link>https://www.universe.com/events/faetooth-tickets-7HCVSL?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-02-15 at Patterns.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/faetooth-tickets-7HCVSL?ref=ticketmaster</guid>
-      <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Kwadrat in Krakow, Poland on 2026-02-15</title>
-      <link>https://www.ticketmaster.pl/event/sylosis-tickets/212846742?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-02-15 at Klub Kwadrat.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/sylosis-tickets/212846742?language=en-us</guid>
-      <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
