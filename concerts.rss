@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Mar 2026 09:26:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 09:26:06 +0000</lastBuildDate>
     <item>
       <title>1000mods @ The Garage in London, Great Britain on 2026-11-29</title>
       <link>https://www.universe.com/events/1000mods-tickets-DSF5WG?ref=ticketmaster</link>
@@ -168,6 +168,13 @@
       <description>A concert by Florence and the machine is scheduled for 2026-08-28 at Bramham Park.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/leeds-festival-2026-friday-leeds-28-08-2026/event/3500634AB362822F</guid>
       <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kasabian @ Bramham Park in Leeds, Great Britain on 2026-08-27</title>
+      <link>https://www.ticketmaster.co.uk/leeds-festival-2026-thursday-leeds-27-08-2026/event/3500636D9A0A600F</link>
+      <description>A concert by Kasabian is scheduled for 2026-08-27 at Bramham Park.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/leeds-festival-2026-thursday-leeds-27-08-2026/event/3500636D9A0A600F</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Florence and the machine @ Royal Highland Showgrounds in Edinburgh, Great Britain on 2026-08-24</title>
@@ -681,6 +688,13 @@
       <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Eventim Apollo in London, Great Britain on 2026-03-24</title>
+      <link>https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-london-24-03-2026/event/3600635EA3DE7FF3</link>
+      <description>A concert by The Heavy is scheduled for 2026-03-24 at Eventim Apollo.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-london-24-03-2026/event/3600635EA3DE7FF3</guid>
+      <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Gorillaz @ OVO Hydro in Glasgow, Great Britain on 2026-03-24</title>
       <link>https://www.ticketmaster.co.uk/gorillaz-glasgow-24-03-2026/event/36006329B84C22F2</link>
       <description>A concert by Gorillaz is scheduled for 2026-03-24 at OVO Hydro.</description>
@@ -695,11 +709,53 @@
       <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ New Theatre Oxford in Oxford, Great Britain on 2026-03-23</title>
+      <link>https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-oxford-23-03-2026/event/3600635E9962761A</link>
+      <description>A concert by The Heavy is scheduled for 2026-03-23 at New Theatre Oxford.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-oxford-23-03-2026/event/3600635E9962761A</guid>
+      <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Studio in Krakow, Poland on 2026-03-22</title>
+      <link>https://www.ticketmaster.pl/event/lord-of-the-lost-tickets/1759231742?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-03-22 at Klub Studio.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/lord-of-the-lost-tickets/1759231742?language=en-us</guid>
+      <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2026-03-22</title>
+      <link>https://www.ticketmaster.pl/event/bodysnatcher-%7C-support-ingested-psycho-frame-big-ass-truck-tickets/1134138521?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-03-22 at Hydrozagadka.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/bodysnatcher-%7C-support-ingested-psycho-frame-big-ass-truck-tickets/1134138521?language=en-us</guid>
+      <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Southend Cliffs Pavilion in Southend-On-Sea, Great Britain on 2026-03-22</title>
+      <link>https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-southendonsea-22-03-2026/event/1F00635EC5817340</link>
+      <description>A concert by The Heavy is scheduled for 2026-03-22 at Southend Cliffs Pavilion.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-southendonsea-22-03-2026/event/1F00635EC5817340</guid>
+      <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Gorillaz @ bp pulse LIVE in Birmingham, Great Britain on 2026-03-22</title>
       <link>https://www.ticketmaster.co.uk/gorillaz-birmingham-22-03-2026/event/230063299942099B</link>
       <description>A concert by Gorillaz is scheduled for 2026-03-22 at bp pulse LIVE.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-birmingham-22-03-2026/event/230063299942099B</guid>
       <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Nick Rayns LCR, UEA in Norwich, Great Britain on 2026-03-21</title>
+      <link>https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-norwich-21-03-2026/event/1F00635EB9FE6E42</link>
+      <description>A concert by The Heavy is scheduled for 2026-03-21 at The Nick Rayns LCR, UEA.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-norwich-21-03-2026/event/1F00635EB9FE6E42</guid>
+      <pubDate>Sat, 21 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2026-03-21</title>
+      <link>https://www.ticketmaster.pl/event/lord-of-the-lost-tickets/1718598537?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-03-21 at Klub Progresja.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/lord-of-the-lost-tickets/1718598537?language=en-us</guid>
+      <pubDate>Sat, 21 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Gorillaz @ Co-op Live in Manchester, Great Britain on 2026-03-21</title>
@@ -714,6 +770,13 @@
       <description>A concert by Gorillaz is scheduled for 2026-03-20 at Co-op Live.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-manchester-20-03-2026/event/370063300103AB1B</guid>
       <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Fuel Rock Club in Cardiff, Great Britain on 2026-03-19</title>
+      <link>https://www.universe.com/events/blitzkrieg-tickets-NGDPBV?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-03-19 at Fuel Rock Club.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/blitzkrieg-tickets-NGDPBV?ref=ticketmaster</guid>
+      <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Heavy @ York Barbican in York, Great Britain on 2026-03-19</title>
@@ -805,90 +868,6 @@
       <description>A concert by Florence and the machine is scheduled for 2026-03-09 at Uber Arena.</description>
       <guid isPermaLink="false">https://www.ticketmaster.de/event/florence--the-machine-%7C-logen-seat-tickets/1355504821?language=en-us</guid>
       <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Florence and the machine @ TAURON Arena Kraków in Krakow, Poland on 2026-03-07</title>
-      <link>https://www.ticketmaster.pl/event/florence--the-machine-the-everybody-scream-tour-tickets/777479043?language=en-us</link>
-      <description>A concert by Florence and the machine is scheduled for 2026-03-07 at TAURON Arena Kraków.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/florence--the-machine-the-everybody-scream-tour-tickets/777479043?language=en-us</guid>
-      <pubDate>Sat, 07 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Stylus in Leeds, Great Britain on 2026-03-07</title>
-      <link>https://www.universe.com/events/bleed-from-within-tickets-XD5RZK?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-07 at Stylus.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/bleed-from-within-tickets-XD5RZK?ref=ticketmaster</guid>
-      <pubDate>Sat, 07 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2026-03-07</title>
-      <link>https://www.ticketmaster.pl/event/michael-schenker-group-support-grey-attack-power-state-tickets/327579832?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-07 at Klub Progresja.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/michael-schenker-group-support-grey-attack-power-state-tickets/327579832?language=en-us</guid>
-      <pubDate>Sat, 07 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Beach Ballroom in Aberdeen, Great Britain on 2026-03-07</title>
-      <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-5C9N7P?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2026-03-07 at Beach Ballroom.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-5C9N7P?ref=ticketmaster</guid>
-      <pubDate>Sat, 07 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Florence and the machine @ O2 Arena in Praha 9, Czech Republic on 2026-03-05</title>
-      <link>https://www.ticketmaster.cz/event/florence--the-machine--the-everybody-scream-tour-%7C-fast-track-tickets/787154574?language=en-us</link>
-      <description>A concert by Florence and the machine is scheduled for 2026-03-05 at O2 Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.cz/event/florence--the-machine--the-everybody-scream-tour-%7C-fast-track-tickets/787154574?language=en-us</guid>
-      <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Florence and the machine @ O2 Arena in Praha 9, Czech Republic on 2026-03-05</title>
-      <link>https://www.ticketmaster.cz/event/florence--the-machine--the-everybody-scream-tour-tickets/612258486?language=en-us</link>
-      <description>A concert by Florence and the machine is scheduled for 2026-03-05 at O2 Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.cz/event/florence--the-machine--the-everybody-scream-tour-tickets/612258486?language=en-us</guid>
-      <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Kino Kosmos in Szczecin, Poland on 2026-03-04</title>
-      <link>https://www.ticketmaster.pl/event/buzzcocks-tickets/1931103073?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-04 at Kino Kosmos.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/buzzcocks-tickets/1931103073?language=en-us</guid>
-      <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Proxima in Warsaw, Poland on 2026-03-02</title>
-      <link>https://www.ticketmaster.pl/event/buzzcocks-tickets/1399878071?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-02 at Proxima.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/buzzcocks-tickets/1399878071?language=en-us</guid>
-      <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2026-03-02</title>
-      <link>https://www.ticketmaster.pl/event/smith-kotzen-black-light-white-noise-tour-2026-tickets/460706297?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-02 at Klub Progresja.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/smith-kotzen-black-light-white-noise-tour-2026-tickets/460706297?language=en-us</guid>
-      <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Voodoo Club in Warsaw, Poland on 2026-03-01</title>
-      <link>https://www.ticketmaster.pl/event/pearly-drops-%7C-support-harmony-tickets/1274812135?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-01 at Voodoo Club.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/pearly-drops-%7C-support-harmony-tickets/1274812135?language=en-us</guid>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Cart &amp; Horses in London, Great Britain on 2026-03-01</title>
-      <link>https://www.universe.com/events/maiden-free-featuring-raphael-mendes-tickets-T2439M?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-01 at Cart &amp; Horses.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/maiden-free-featuring-raphael-mendes-tickets-T2439M?ref=ticketmaster</guid>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Kwadrat in Krakow, Poland on 2026-03-01</title>
-      <link>https://www.ticketmaster.pl/event/buzzcocks-tickets/659814473?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-01 at Klub Kwadrat.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/buzzcocks-tickets/659814473?language=en-us</guid>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
