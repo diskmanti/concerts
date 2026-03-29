@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 09:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 09:33:52 +0000</lastBuildDate>
     <item>
       <title>1000mods @ The Garage in London, Great Britain on 2026-11-29</title>
       <link>https://www.universe.com/events/1000mods-tickets-DSF5WG?ref=ticketmaster</link>
@@ -168,6 +168,13 @@
       <description>A concert by Florence and the machine is scheduled for 2026-08-28 at Bramham Park.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/leeds-festival-2026-friday-leeds-28-08-2026/event/3500634AB362822F</guid>
       <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kasabian @ Bramham Park in Leeds, Great Britain on 2026-08-27</title>
+      <link>https://www.ticketmaster.co.uk/leeds-festival-2026-thursday-leeds-27-08-2026/event/3500636D9A0A600F</link>
+      <description>A concert by Kasabian is scheduled for 2026-08-27 at Bramham Park.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/leeds-festival-2026-thursday-leeds-27-08-2026/event/3500636D9A0A600F</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Florence and the machine @ Royal Highland Showgrounds in Edinburgh, Great Britain on 2026-08-24</title>
@@ -479,13 +486,6 @@
     </item>
     <item>
       <title>Kasabian @ O2 City Hall Newcastle in Newcastle Upon Tyne, Great Britain on 2026-05-23</title>
-      <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-kasabian-v-kaiser-tickets-652MTN?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2026-05-23 at O2 City Hall Newcastle.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-kasabian-v-kaiser-tickets-652MTN?ref=ticketmaster</guid>
-      <pubDate>Sat, 23 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ O2 City Hall Newcastle in Newcastle Upon Tyne, Great Britain on 2026-05-23</title>
       <link>https://www.ticketmaster.co.uk/indiepalooza-tribute-killers-v-monkeys-v-newcastle-upon-tyne-23-05-2026/event/3E006336F2DA5FE6</link>
       <description>A concert by Kasabian is scheduled for 2026-05-23 at O2 City Hall Newcastle.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/indiepalooza-tribute-killers-v-monkeys-v-newcastle-upon-tyne-23-05-2026/event/3E006336F2DA5FE6</guid>
@@ -619,10 +619,80 @@
     </item>
     <item>
       <title>Tame Impala @ O2 Arena in Praha 9, Czech Republic on 2026-04-20</title>
-      <link>https://www.ticketmaster.cz/event/tame-impala-deadbeat-tour-tickets/559553096?language=en-us</link>
+      <link>https://www.ticketmaster.cz/event/tame-impala--deadbeat-tour--support-rip-magic-tickets/559553096?language=en-us</link>
       <description>A concert by Tame Impala is scheduled for 2026-04-20 at O2 Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.cz/event/tame-impala-deadbeat-tour-tickets/559553096?language=en-us</guid>
+      <guid isPermaLink="false">https://www.ticketmaster.cz/event/tame-impala--deadbeat-tour--support-rip-magic-tickets/559553096?language=en-us</guid>
       <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Nightrain in Bradford, Great Britain on 2026-04-15</title>
+      <link>https://www.universe.com/events/florence-black-the-pouring-rain-tour-tickets-GHV29W?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-04-15 at Nightrain.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/florence-black-the-pouring-rain-tour-tickets-GHV29W?ref=ticketmaster</guid>
+      <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Adrian Flux Waterfront in Norwich, Great Britain on 2026-04-14</title>
+      <link>https://www.universe.com/events/tyketto-tickets-4XR7W1?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-04-14 at The Adrian Flux Waterfront.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/tyketto-tickets-4XR7W1?ref=ticketmaster</guid>
+      <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Nightrain in Bradford, Great Britain on 2026-04-11</title>
+      <link>https://www.universe.com/events/the-big-four-metallica-megadeth-slayer-anthrax-tribute-tickets-NBPG8D?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-04-11 at Nightrain.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/the-big-four-metallica-megadeth-slayer-anthrax-tribute-tickets-NBPG8D?ref=ticketmaster</guid>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ New Cross Inn in London, Great Britain on 2026-04-10</title>
+      <link>https://www.universe.com/events/modern-era-fest-confessions-of-a-traitor-tickets-L02PN3?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-04-10 at New Cross Inn.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/modern-era-fest-confessions-of-a-traitor-tickets-L02PN3?ref=ticketmaster</guid>
+      <pubDate>Fri, 10 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ SoldOut Performance Hall in İzmir, Turkey on 2026-04-09</title>
+      <link>https://www.biletix.com/performance/5BLA2/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2026-04-09 at SoldOut Performance Hall.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/5BLA2/001/TURKIYE/tr</guid>
+      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2026-04-09</title>
+      <link>https://www.universe.com/events/exhumed-us-gruesome-us-tickets-Q9L6K1?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-04-09 at Southampton 1865.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/exhumed-us-gruesome-us-tickets-Q9L6K1?ref=ticketmaster</guid>
+      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ IF Performance Hall Beşiktaş in İstanbul, Turkey on 2026-04-08</title>
+      <link>https://www.biletix.com/performance/5BLA0/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2026-04-08 at IF Performance Hall Beşiktaş.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/5BLA0/001/TURKIYE/tr</guid>
+      <pubDate>Wed, 08 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ 6:45 KK Ankara in Ankara, Turkey on 2026-04-07</title>
+      <link>https://www.biletix.com/performance/5HM37/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2026-04-07 at 6:45 KK Ankara.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/5HM37/001/TURKIYE/tr</guid>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Rebellion Manchester in Manchester, Great Britain on 2026-04-07</title>
+      <link>https://www.universe.com/events/exhumed-gruesome-tickets-WYHKBR?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-04-07 at Rebellion Manchester.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/exhumed-gruesome-tickets-WYHKBR?ref=ticketmaster</guid>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Rockefeller in Oslo, Norway on 2026-04-05</title>
+      <link>https://www.ticketmaster.no/event/inferno-metal-festival-2026-sunday-ticket-tickets/925344880?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-04-05 at Rockefeller.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.no/event/inferno-metal-festival-2026-sunday-ticket-tickets/925344880?language=en-us</guid>
+      <pubDate>Sun, 05 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Heavy @ SLAY in Glasgow, Great Britain on 2026-04-04</title>
@@ -742,125 +812,6 @@
       <description>A concert by Gorillaz is scheduled for 2026-03-29 at M&amp;S Bank Arena Liverpool.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-liverpool-29-03-2026/event/37006329D8761F52</guid>
       <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Horn in St Albans, Great Britain on 2026-03-28</title>
-      <link>https://www.universe.com/events/the-blue-moon-red-shift-wobbledog-tickets-PK701S?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-28 at The Horn.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/the-blue-moon-red-shift-wobbledog-tickets-PK701S?ref=ticketmaster</guid>
-      <pubDate>Sat, 28 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Liverpool Philharmonic Hall in Liverpool, Great Britain on 2026-03-28</title>
-      <link>https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-liverpool-28-03-2026/event/1F00635E92D25049</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-28 at Liverpool Philharmonic Hall.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-liverpool-28-03-2026/event/1F00635E92D25049</guid>
-      <pubDate>Sat, 28 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Motorpoint Arena Nottingham in Nottingham, Great Britain on 2026-03-28</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-nottingham-28-03-2026/event/35006328B2058FD6</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-28 at Motorpoint Arena Nottingham.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-nottingham-28-03-2026/event/35006328B2058FD6</guid>
-      <pubDate>Sat, 28 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ University of Wolverhampton at The Wulfrun Hall in Wolverhampton, Great Britain on 2026-03-27</title>
-      <link>https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-wolverhampton-27-03-2026/event/1F00635EB05267CA</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-27 at University of Wolverhampton at The Wulfrun Hall.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-wolverhampton-27-03-2026/event/1F00635EB05267CA</guid>
-      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Utilita Arena Cardiff in Cardiff, Great Britain on 2026-03-27</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-cardiff-27-03-2026/event/36006325C74153DB</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-27 at Utilita Arena Cardiff.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-cardiff-27-03-2026/event/36006325C74153DB</guid>
-      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Bristol Beacon in Bristol, Great Britain on 2026-03-26</title>
-      <link>https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-bristol-26-03-2026/event/3700635EBD5EA3F5</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-26 at Bristol Beacon.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-bristol-26-03-2026/event/3700635EBD5EA3F5</guid>
-      <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Dead Wax in Birmingham, Great Britain on 2026-03-25</title>
-      <link>https://www.universe.com/events/madball-tickets-FP7CWY?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-25 at Dead Wax.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/madball-tickets-FP7CWY?ref=ticketmaster</guid>
-      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Leeds First Direct Bank Arena in Leeds, Great Britain on 2026-03-25</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-venue-premium-tickets-leeds-25-03-2026/event/1F00632C9C012284</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-25 at Leeds First Direct Bank Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-venue-premium-tickets-leeds-25-03-2026/event/1F00632C9C012284</guid>
-      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ Leeds First Direct Bank Arena in Leeds, Great Britain on 2026-03-25</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-leeds-25-03-2026/event/1F006328F40F256C</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-25 at Leeds First Direct Bank Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-leeds-25-03-2026/event/1F006328F40F256C</guid>
-      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Eventim Apollo in London, Great Britain on 2026-03-24</title>
-      <link>https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-london-24-03-2026/event/3600635EA3DE7FF3</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-24 at Eventim Apollo.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-london-24-03-2026/event/3600635EA3DE7FF3</guid>
-      <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ OVO Hydro in Glasgow, Great Britain on 2026-03-24</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-glasgow-24-03-2026/event/36006329B84C22F2</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-24 at OVO Hydro.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-glasgow-24-03-2026/event/36006329B84C22F2</guid>
-      <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ OVO Hydro in Glasgow, Great Britain on 2026-03-24</title>
-      <link>https://www.ticketmaster.co.uk/venue-premium-gorillaz-glasgow-24-03-2026/event/36006329C1A125B6</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-24 at OVO Hydro.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/venue-premium-gorillaz-glasgow-24-03-2026/event/36006329C1A125B6</guid>
-      <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ New Theatre Oxford in Oxford, Great Britain on 2026-03-23</title>
-      <link>https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-oxford-23-03-2026/event/3600635E9962761A</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-23 at New Theatre Oxford.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-oxford-23-03-2026/event/3600635E9962761A</guid>
-      <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Studio in Krakow, Poland on 2026-03-22</title>
-      <link>https://www.ticketmaster.pl/event/lord-of-the-lost-tickets/1759231742?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-22 at Klub Studio.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/lord-of-the-lost-tickets/1759231742?language=en-us</guid>
-      <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Southend Cliffs Pavilion in Southend-On-Sea, Great Britain on 2026-03-22</title>
-      <link>https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-southendonsea-22-03-2026/event/1F00635EC5817340</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-22 at Southend Cliffs Pavilion.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-brand-new-heavies-plus-special-southendonsea-22-03-2026/event/1F00635EC5817340</guid>
-      <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2026-03-22</title>
-      <link>https://www.ticketmaster.pl/event/bodysnatcher-%7C-support-ingested-psycho-frame-big-ass-truck-tickets/1134138521?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-03-22 at Hydrozagadka.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/bodysnatcher-%7C-support-ingested-psycho-frame-big-ass-truck-tickets/1134138521?language=en-us</guid>
-      <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz @ bp pulse LIVE in Birmingham, Great Britain on 2026-03-22</title>
-      <link>https://www.ticketmaster.co.uk/gorillaz-birmingham-22-03-2026/event/230063299942099B</link>
-      <description>A concert by Gorillaz is scheduled for 2026-03-22 at bp pulse LIVE.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-birmingham-22-03-2026/event/230063299942099B</guid>
-      <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
