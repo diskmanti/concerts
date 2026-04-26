@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 09:42:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 09:51:16 +0000</lastBuildDate>
     <item>
       <title>1000mods @ The Garage in London, Great Britain on 2026-11-29</title>
       <link>https://www.universe.com/events/1000mods-tickets-DSF5WG?ref=ticketmaster</link>
@@ -422,13 +422,6 @@
       <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nouvelle Vague @ Glendalough Estate in Wicklow, Ireland on 2026-06-14</title>
-      <link>https://www.ticketmaster.ie/beyond-the-pale-sunday-only-wicklow-14-06-2026/event/1800647950D5109F</link>
-      <description>A concert by Nouvelle Vague is scheduled for 2026-06-14 at Glendalough Estate.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/beyond-the-pale-sunday-only-wicklow-14-06-2026/event/1800647950D5109F</guid>
-      <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Kasabian @ Electric Ballroom Camden in London, Great Britain on 2026-06-13</title>
       <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-1QHY0J?ref=ticketmaster</link>
       <description>A concert by Kasabian is scheduled for 2026-06-13 at Electric Ballroom Camden.</description>
@@ -454,20 +447,6 @@
       <link>https://www.ticketmaster.co.uk/download-2026-weekend-arena-derby-12-06-2026/event/360062C6D5B9306F</link>
       <description>A concert by Dinosaur Pile Up is scheduled for 2026-06-12 at Donington Park.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/download-2026-weekend-arena-derby-12-06-2026/event/360062C6D5B9306F</guid>
-      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nouvelle Vague @ Glendalough Estate in Wicklow, Ireland on 2026-06-12</title>
-      <link>https://www.ticketmaster.ie/beyond-the-pale-campervan-caravan-add-wicklow-12-06-2026/event/1800636D9E8FD648</link>
-      <description>A concert by Nouvelle Vague is scheduled for 2026-06-12 at Glendalough Estate.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/beyond-the-pale-campervan-caravan-add-wicklow-12-06-2026/event/1800636D9E8FD648</guid>
-      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nouvelle Vague @ Glendalough Estate in Wicklow, Ireland on 2026-06-12</title>
-      <link>https://www.ticketmaster.ie/beyond-the-pale-round-tower-upgrade-wicklow-12-06-2026/event/18006379BDA754A6</link>
-      <description>A concert by Nouvelle Vague is scheduled for 2026-06-12 at Glendalough Estate.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/beyond-the-pale-round-tower-upgrade-wicklow-12-06-2026/event/18006379BDA754A6</guid>
       <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -513,6 +492,13 @@
       <pubDate>Sat, 30 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Turbinenhalle 1 in Oberhausen, Germany on 2026-05-29</title>
+      <link>https://www.ticketmaster.de/event/slam-dunk-germany-tickets/1174762885?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-05-29 at Turbinenhalle 1.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.de/event/slam-dunk-germany-tickets/1174762885?language=en-us</guid>
+      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Hives @ The Hive in Edinburgh, Great Britain on 2026-05-29</title>
       <link>https://www.ticketmaster.co.uk/cryptic-shift-edinburgh-29-05-2026/event/36006489AA564D43</link>
       <description>A concert by The Hives is scheduled for 2026-05-29 at The Hive.</description>
@@ -534,11 +520,60 @@
       <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ N/A in Frankfurt am Main, Germany on 2026-05-24</title>
+      <link>https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-2-day-ticket-22--24-may-2026--tickets/52796236?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-05-24 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-2-day-ticket-22--24-may-2026--tickets/52796236?language=en-us</guid>
+      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Pod Minogą in Poznan, Poland on 2026-05-24</title>
+      <link>https://www.ticketmaster.pl/event/nuovo-testamento-tickets/1193159436?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-05-24 at Pod Minogą.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/nuovo-testamento-tickets/1193159436?language=en-us</guid>
+      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ N/A in Frankfurt am Main, Germany on 2026-05-24</title>
+      <link>https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-1-day-ticket-24-may-2026--tickets/1240434458?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-05-24 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-1-day-ticket-24-may-2026--tickets/1240434458?language=en-us</guid>
+      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ N/A in Frankfurt am Main, Germany on 2026-05-22</title>
+      <link>https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-1-day-ticket-22-may-2026--tickets/1500876499?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-05-22 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-1-day-ticket-22-may-2026--tickets/1500876499?language=en-us</guid>
+      <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-05-18</title>
+      <link>https://www.universe.com/events/core-presents-blackwater-holylight-tickets-1VTM89?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-05-18 at The Cluny.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/core-presents-blackwater-holylight-tickets-1VTM89?ref=ticketmaster</guid>
+      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Paribu Art - Ana Sahne in İstanbul, Turkey on 2026-05-15</title>
+      <link>https://www.biletix.com/performance/4PRN8/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2026-05-15 at Paribu Art - Ana Sahne.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/4PRN8/001/TURKIYE/tr</guid>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kasabian @ Clapham Grand in London, Great Britain on 2026-05-15</title>
       <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-RYP46V?ref=ticketmaster</link>
       <description>A concert by Kasabian is scheduled for 2026-05-15 at Clapham Grand.</description>
       <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-RYP46V?ref=ticketmaster</guid>
       <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Castle Hotel in Manchester, Great Britain on 2026-05-13</title>
+      <link>https://www.universe.com/events/heavy-wild-tickets-NW4GPZ?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-05-13 at Castle Hotel.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/heavy-wild-tickets-NW4GPZ?ref=ticketmaster</guid>
+      <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ 3Arena in Dublin, Ireland on 2026-05-13</title>
@@ -749,76 +784,6 @@
       <description>A concert by Tame Impala is scheduled for 2026-04-26 at N/A.</description>
       <guid isPermaLink="false">https://www.ticketmaster.se/event/tame-impala-platinum-tickets-tickets/95494207?language=en-us</guid>
       <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Krakatoa in Aberdeen, Great Britain on 2026-04-25</title>
-      <link>https://www.universe.com/events/popestars-uk-tribute-to-ghost-tickets-PRJ7Y3?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-04-25 at Krakatoa.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/popestars-uk-tribute-to-ghost-tickets-PRJ7Y3?ref=ticketmaster</guid>
-      <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Chmury in Warsaw, Poland on 2026-04-25</title>
-      <link>https://www.ticketmaster.pl/event/the-virginmarys-support-for-example-john-tickets/661169494?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-04-25 at Chmury.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/the-virginmarys-support-for-example-john-tickets/661169494?language=en-us</guid>
-      <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Progresja in Warsaw, Poland on 2026-04-25</title>
-      <link>https://www.ticketmaster.pl/event/gogo-penguin-tickets/118031434?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-04-25 at Klub Progresja.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/gogo-penguin-tickets/118031434?language=en-us</guid>
-      <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2026-04-25</title>
-      <link>https://www.universe.com/events/red-hot-chilli-peppers-uk-alice-in-chains-uk-tickets-4VWRPM?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-04-25 at Southampton 1865.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/red-hot-chilli-peppers-uk-alice-in-chains-uk-tickets-4VWRPM?ref=ticketmaster</guid>
-      <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ N/A in København S, Denmark on 2026-04-25</title>
-      <link>https://www.ticketmaster.dk/event/vinyl-room-access--tame-impala-concert-ticket-not-included--tickets/907128919?language=en-us</link>
-      <description>A concert by Tame Impala is scheduled for 2026-04-25 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.dk/event/vinyl-room-access--tame-impala-concert-ticket-not-included--tickets/907128919?language=en-us</guid>
-      <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ RTM Stage - Rotterdam Ahoy in Rotterdam, Netherlands on 2026-04-24</title>
-      <link>https://www.ticketmaster.nl/event/joe-bonamassa-tickets/521820445?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-04-24 at RTM Stage - Rotterdam Ahoy.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/joe-bonamassa-tickets/521820445?language=en-us</guid>
-      <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Stary Maneż in Gdansk, Poland on 2026-04-24</title>
-      <link>https://www.ticketmaster.pl/event/gogo-penguin-tickets/2045818497?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-04-24 at Stary Maneż.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/gogo-penguin-tickets/2045818497?language=en-us</guid>
-      <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Music Hall, Dundee in Dundee, Great Britain on 2026-04-24</title>
-      <link>https://www.universe.com/events/popestars-a-tribute-to-ghost-tickets-ZVDYML?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-04-24 at Music Hall, Dundee.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/popestars-a-tribute-to-ghost-tickets-ZVDYML?ref=ticketmaster</guid>
-      <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Leeds Beckett Students' Union in Leeds, Great Britain on 2026-04-23</title>
-      <link>https://www.universe.com/events/skindred-accessible-tickets-tickets-BC64PV?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-04-23 at Leeds Beckett Students' Union.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/skindred-accessible-tickets-tickets-BC64PV?ref=ticketmaster</guid>
-      <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ O2 Arena in Praha 9, Czech Republic on 2026-04-20</title>
-      <link>https://www.ticketmaster.cz/event/tame-impala--deadbeat-tour--support-rip-magic-tickets/559553096?language=en-us</link>
-      <description>A concert by Tame Impala is scheduled for 2026-04-20 at O2 Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.cz/event/tame-impala--deadbeat-tour--support-rip-magic-tickets/559553096?language=en-us</guid>
-      <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
