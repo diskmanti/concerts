@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 09:51:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 10:00:51 +0000</lastBuildDate>
     <item>
       <title>1000mods @ The Garage in London, Great Britain on 2026-11-29</title>
       <link>https://www.universe.com/events/1000mods-tickets-DSF5WG?ref=ticketmaster</link>
@@ -70,6 +70,13 @@
       <description>A concert by 1000mods is scheduled for 2026-11-20 at Whelans.</description>
       <guid isPermaLink="false">https://www.ticketmaster.ie/1000mods-dublin-20-11-2026/event/1800644B7DC93195</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kasabian @ Leeds Beckett Students' Union in Leeds, Great Britain on 2026-10-02</title>
+      <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-VRQK2N?ref=ticketmaster</link>
+      <description>A concert by Kasabian is scheduled for 2026-10-02 at Leeds Beckett Students' Union.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-VRQK2N?ref=ticketmaster</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ O2 City Hall Newcastle in Newcastle Upon Tyne, Great Britain on 2026-09-19</title>
@@ -168,6 +175,13 @@
       <description>A concert by The Black Keys is scheduled for 2026-09-04 at N/A.</description>
       <guid isPermaLink="false">https://www.ticketmaster.nl/event/the-black-keys-peaches-n-kream-%7C-vip-packages-tickets/1853218905?language=en-us</guid>
       <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Black Keys @ British Airways ARC in London, Great Britain on 2026-09-02</title>
+      <link>https://www.ticketmaster.co.uk/the-black-keys-london-02-09-2026/event/370064A1A4896CA6</link>
+      <description>A concert by The Black Keys is scheduled for 2026-09-02 at British Airways ARC.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/the-black-keys-london-02-09-2026/event/370064A1A4896CA6</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Black Keys @ O2 Academy Brixton in London, Great Britain on 2026-09-01</title>
@@ -422,6 +436,13 @@
       <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nouvelle Vague @ Glendalough Estate in Wicklow, Ireland on 2026-06-14</title>
+      <link>https://www.ticketmaster.ie/beyond-the-pale-sunday-only-wicklow-14-06-2026/event/1800647950D5109F</link>
+      <description>A concert by Nouvelle Vague is scheduled for 2026-06-14 at Glendalough Estate.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ie/beyond-the-pale-sunday-only-wicklow-14-06-2026/event/1800647950D5109F</guid>
+      <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kasabian @ Electric Ballroom Camden in London, Great Britain on 2026-06-13</title>
       <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-1QHY0J?ref=ticketmaster</link>
       <description>A concert by Kasabian is scheduled for 2026-06-13 at Electric Ballroom Camden.</description>
@@ -450,6 +471,20 @@
       <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nouvelle Vague @ Glendalough Estate in Wicklow, Ireland on 2026-06-12</title>
+      <link>https://www.ticketmaster.ie/beyond-the-pale-campervan-caravan-add-wicklow-12-06-2026/event/1800636D9E8FD648</link>
+      <description>A concert by Nouvelle Vague is scheduled for 2026-06-12 at Glendalough Estate.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ie/beyond-the-pale-campervan-caravan-add-wicklow-12-06-2026/event/1800636D9E8FD648</guid>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nouvelle Vague @ Glendalough Estate in Wicklow, Ireland on 2026-06-12</title>
+      <link>https://www.ticketmaster.ie/beyond-the-pale-round-tower-upgrade-wicklow-12-06-2026/event/18006379BDA754A6</link>
+      <description>A concert by Nouvelle Vague is scheduled for 2026-06-12 at Glendalough Estate.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.ie/beyond-the-pale-round-tower-upgrade-wicklow-12-06-2026/event/18006379BDA754A6</guid>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dinosaur Pile Up @ Donington Park in Derby, Great Britain on 2026-06-10</title>
       <link>https://www.ticketmaster.co.uk/download-2026-campervancaravan-derby-10-06-2026/event/360062C6EBFC34FD</link>
       <description>A concert by Dinosaur Pile Up is scheduled for 2026-06-10 at Donington Park.</description>
@@ -469,6 +504,34 @@
       <description>A concert by Massive Attack is scheduled for 2026-06-08 at Vorst Nationaal/Forest National.</description>
       <guid isPermaLink="false">https://www.ticketmaster.be/event/massive-attack-tickets/1849584799</guid>
       <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ N/A in Sölvesborg, Sweden on 2026-06-06</title>
+      <link>https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-saturday-tickets/1720083809?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-06 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-saturday-tickets/1720083809?language=en-us</guid>
+      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ N/A in Sölvesborg, Sweden on 2026-06-05</title>
+      <link>https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-friday-tickets/1957628660?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-05 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-friday-tickets/1957628660?language=en-us</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ N/A in Sölvesborg, Sweden on 2026-06-04</title>
+      <link>https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-thursday-tickets/1756496734?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-04 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-thursday-tickets/1756496734?language=en-us</guid>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ N/A in Sölvesborg, Sweden on 2026-06-03</title>
+      <link>https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-wednesday-tickets/305781859?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-03 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-wednesday-tickets/305781859?language=en-us</guid>
+      <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Massive Attack @ N/A in København S, Denmark on 2026-06-01</title>
@@ -681,17 +744,10 @@
       <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tame Impala @ N/A in Amsterdam, Netherlands on 2026-05-04</title>
-      <link>https://www.ticketmaster.nl/event/parking-permit-tame-impala-tickets/1782714722?language=en-us</link>
-      <description>A concert by Tame Impala is scheduled for 2026-05-04 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/parking-permit-tame-impala-tickets/1782714722?language=en-us</guid>
-      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ Vinyl Room - Ziggo Dome in Amsterdam, Netherlands on 2026-05-04</title>
-      <link>https://www.ticketmaster.nl/event/tame-impala-%7C-vinyl-room-upgrade-excluding-concert-ticket--tickets/1410173713?language=en-us</link>
-      <description>A concert by Tame Impala is scheduled for 2026-05-04 at Vinyl Room - Ziggo Dome.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-%7C-vinyl-room-upgrade-excluding-concert-ticket--tickets/1410173713?language=en-us</guid>
+      <title>Tame Impala @ Ziggo Dome Club in Amsterdam, Netherlands on 2026-05-04</title>
+      <link>https://www.ticketmaster.nl/event/tame-impala-%7C-comfort-seats-tickets/877887924?language=en-us</link>
+      <description>A concert by Tame Impala is scheduled for 2026-05-04 at Ziggo Dome Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-%7C-comfort-seats-tickets/877887924?language=en-us</guid>
       <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -702,17 +758,24 @@
       <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Tame Impala @ Vinyl Room - Ziggo Dome in Amsterdam, Netherlands on 2026-05-04</title>
+      <link>https://www.ticketmaster.nl/event/tame-impala-%7C-vinyl-room-upgrade-excluding-concert-ticket--tickets/1410173713?language=en-us</link>
+      <description>A concert by Tame Impala is scheduled for 2026-05-04 at Vinyl Room - Ziggo Dome.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-%7C-vinyl-room-upgrade-excluding-concert-ticket--tickets/1410173713?language=en-us</guid>
+      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tame Impala @ N/A in Amsterdam, Netherlands on 2026-05-04</title>
+      <link>https://www.ticketmaster.nl/event/parking-permit-tame-impala-tickets/1782714722?language=en-us</link>
+      <description>A concert by Tame Impala is scheduled for 2026-05-04 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/parking-permit-tame-impala-tickets/1782714722?language=en-us</guid>
+      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Tame Impala @ Ziggo Dome in Amsterdam, Netherlands on 2026-05-04</title>
       <link>https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/1268221746?language=en-us</link>
       <description>A concert by Tame Impala is scheduled for 2026-05-04 at Ziggo Dome.</description>
       <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/1268221746?language=en-us</guid>
-      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ Ziggo Dome Club in Amsterdam, Netherlands on 2026-05-04</title>
-      <link>https://www.ticketmaster.nl/event/tame-impala-%7C-comfort-seats-tickets/877887924?language=en-us</link>
-      <description>A concert by Tame Impala is scheduled for 2026-05-04 at Ziggo Dome Club.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-%7C-comfort-seats-tickets/877887924?language=en-us</guid>
       <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -721,69 +784,6 @@
       <description>A concert by The Heavy is scheduled for 2026-05-03 at Cart &amp; Horses.</description>
       <guid isPermaLink="false">https://www.universe.com/events/devastator-struck-a-nerve-rattlesnakes-velozza-tickets-50SG8J?ref=ticketmaster</guid>
       <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Depot Cardiff in Cardiff, Great Britain on 2026-05-02</title>
-      <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-ZBT0L7?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2026-05-02 at Depot Cardiff.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-ZBT0L7?ref=ticketmaster</guid>
-      <pubDate>Sat, 02 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2026-05-01</title>
-      <link>https://www.universe.com/events/tygers-of-pan-tang-demon-tickets-2KDR4J?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-05-01 at Southampton 1865.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/tygers-of-pan-tang-demon-tickets-2KDR4J?ref=ticketmaster</guid>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Audio in Glasgow, Great Britain on 2026-05-01</title>
-      <link>https://www.universe.com/events/bonafide-tickets-CY7J46?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-05-01 at Audio.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/bonafide-tickets-CY7J46?ref=ticketmaster</guid>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Truckfighters @ Melkweg in Amsterdam, Netherlands on 2026-04-30</title>
-      <link>https://www.ticketmaster.nl/event/truckfighters-tickets/1502634436?language=en-us</link>
-      <description>A concert by Truckfighters is scheduled for 2026-04-30 at Melkweg.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/truckfighters-tickets/1502634436?language=en-us</guid>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ Uber Arena in Berlin, Germany on 2026-04-29</title>
-      <link>https://www.ticketmaster.de/event/tame-impala-%7C-box-seat-in-the-ticketmaster-suite-tickets/548473333?language=en-us</link>
-      <description>A concert by Tame Impala is scheduled for 2026-04-29 at Uber Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.de/event/tame-impala-%7C-box-seat-in-the-ticketmaster-suite-tickets/548473333?language=en-us</guid>
-      <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Underworld in London, Great Britain on 2026-04-28</title>
-      <link>https://www.universe.com/events/sanctuary-tickets-JDHVRK?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-04-28 at Underworld.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/sanctuary-tickets-JDHVRK?ref=ticketmaster</guid>
-      <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ Unity Arena in Fornebu, Norway on 2026-04-27</title>
-      <link>https://www.ticketmaster.no/event/tame-impala-deadbeat-tour-tickets/237838952?language=en-us</link>
-      <description>A concert by Tame Impala is scheduled for 2026-04-27 at Unity Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.no/event/tame-impala-deadbeat-tour-tickets/237838952?language=en-us</guid>
-      <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Zaklęte Rewiry in Wroclaw, Poland on 2026-04-26</title>
-      <link>https://www.ticketmaster.pl/event/gogo-penguin-tickets/912779580?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-04-26 at Zaklęte Rewiry.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/gogo-penguin-tickets/912779580?language=en-us</guid>
-      <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ N/A in Stockholm, Sweden on 2026-04-26</title>
-      <link>https://www.ticketmaster.se/event/tame-impala-platinum-tickets-tickets/95494207?language=en-us</link>
-      <description>A concert by Tame Impala is scheduled for 2026-04-26 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.se/event/tame-impala-platinum-tickets-tickets/95494207?language=en-us</guid>
-      <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
