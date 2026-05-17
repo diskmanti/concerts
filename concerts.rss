@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 10:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 10:20:08 +0000</lastBuildDate>
     <item>
       <title>Kasabian @ Scarborough Spa Theatre in Scarborough, Great Britain on 2027-05-20</title>
       <link>https://www.ticketmaster.co.uk/tom-meighan-the-original-voice-of-scarborough-20-05-2027/event/3500644CB2BA509A</link>
@@ -23,9 +23,9 @@
       <pubDate>Wed, 05 May 2027 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kasabian @ Revelation in Ashford , Great Britain on 2027-03-27</title>
+      <title>Kasabian @ Ashford Revelation in Ashford , Great Britain on 2027-03-27</title>
       <link>https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-tickets-2L5H9Y?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2027-03-27 at Revelation.</description>
+      <description>A concert by Kasabian is scheduled for 2027-03-27 at Ashford Revelation.</description>
       <guid isPermaLink="false">https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-tickets-2L5H9Y?ref=ticketmaster</guid>
       <pubDate>Sat, 27 Mar 2027 12:00:00 +0000</pubDate>
     </item>
@@ -464,11 +464,25 @@
       <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ SLAY in Glasgow, Great Britain on 2026-06-13</title>
+      <link>https://www.universe.com/events/voivod-midnight-tickets-09CQWD?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-13 at SLAY.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/voivod-midnight-tickets-09CQWD?ref=ticketmaster</guid>
+      <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kasabian @ Parkorman in İstanbul, Turkey on 2026-06-13</title>
       <link>https://www.biletix.com/performance/5POAZ/001/TURKIYE/tr</link>
       <description>A concert by Kasabian is scheduled for 2026-06-13 at Parkorman.</description>
       <guid isPermaLink="false">https://www.biletix.com/performance/5POAZ/001/TURKIYE/tr</guid>
       <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Pod Minogą in Poznan, Poland on 2026-06-12</title>
+      <link>https://www.ticketmaster.pl/event/gridiron-support-heavy-runner-tickets/400855082?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-12 at Pod Minogą.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/gridiron-support-heavy-runner-tickets/400855082?language=en-us</guid>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Heavy @ Rebellion Manchester in Manchester, Great Britain on 2026-06-12</title>
@@ -605,16 +619,16 @@
     </item>
     <item>
       <title>Massive Attack @ N/A in København S, Denmark on 2026-06-01</title>
-      <link>https://www.ticketmaster.dk/event/massive-attack-tickets/1180223623?language=en-us</link>
+      <link>https://www.ticketmaster.dk/event/vinyl-room-access-massive-attack-koncertbillet-ej-inkl--tickets/827627709?language=en-us</link>
       <description>A concert by Massive Attack is scheduled for 2026-06-01 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.dk/event/massive-attack-tickets/1180223623?language=en-us</guid>
+      <guid isPermaLink="false">https://www.ticketmaster.dk/event/vinyl-room-access-massive-attack-koncertbillet-ej-inkl--tickets/827627709?language=en-us</guid>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Massive Attack @ N/A in København S, Denmark on 2026-06-01</title>
-      <link>https://www.ticketmaster.dk/event/vinyl-room-access-massive-attack-koncertbillet-ej-inkl--tickets/827627709?language=en-us</link>
+      <link>https://www.ticketmaster.dk/event/massive-attack-tickets/1180223623?language=en-us</link>
       <description>A concert by Massive Attack is scheduled for 2026-06-01 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.dk/event/vinyl-room-access-massive-attack-koncertbillet-ej-inkl--tickets/827627709?language=en-us</guid>
+      <guid isPermaLink="false">https://www.ticketmaster.dk/event/massive-attack-tickets/1180223623?language=en-us</guid>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -679,41 +693,6 @@
       <description>A concert by The Heavy is scheduled for 2026-05-18 at The Cluny.</description>
       <guid isPermaLink="false">https://www.universe.com/events/core-presents-blackwater-holylight-tickets-1VTM89?ref=ticketmaster</guid>
       <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Paribu Art - Ana Sahne in İstanbul, Turkey on 2026-05-15</title>
-      <link>https://www.biletix.com/performance/4PRN8/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2026-05-15 at Paribu Art - Ana Sahne.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/4PRN8/001/TURKIYE/tr</guid>
-      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Castle Hotel in Manchester, Great Britain on 2026-05-13</title>
-      <link>https://www.universe.com/events/heavy-wild-tickets-NW4GPZ?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-05-13 at Castle Hotel.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/heavy-wild-tickets-NW4GPZ?ref=ticketmaster</guid>
-      <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ 3Arena in Dublin, Ireland on 2026-05-13</title>
-      <link>https://www.ticketmaster.ie/tame-impala-dublin-13-05-2026/event/18006338A7CCD595</link>
-      <description>A concert by Tame Impala is scheduled for 2026-05-13 at 3Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/tame-impala-dublin-13-05-2026/event/18006338A7CCD595</guid>
-      <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ OVO Hydro in Glasgow, Great Britain on 2026-05-11</title>
-      <link>https://www.ticketmaster.co.uk/venue-premium-tame-impala-glasgow-11-05-2026/event/3600633D8EFB5D2D</link>
-      <description>A concert by Tame Impala is scheduled for 2026-05-11 at OVO Hydro.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/venue-premium-tame-impala-glasgow-11-05-2026/event/3600633D8EFB5D2D</guid>
-      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tame Impala @ OVO Hydro in Glasgow, Great Britain on 2026-05-11</title>
-      <link>https://www.ticketmaster.co.uk/tame-impala-glasgow-11-05-2026/event/36006339A7158A53</link>
-      <description>A concert by Tame Impala is scheduled for 2026-05-11 at OVO Hydro.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/tame-impala-glasgow-11-05-2026/event/36006339A7158A53</guid>
-      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
