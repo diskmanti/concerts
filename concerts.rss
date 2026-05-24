@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 10:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 10:28:14 +0000</lastBuildDate>
     <item>
       <title>Kasabian @ Scarborough Spa Theatre in Scarborough, Great Britain on 2027-05-20</title>
       <link>https://www.ticketmaster.co.uk/tom-meighan-the-original-voice-of-scarborough-20-05-2027/event/3500644CB2BA509A</link>
@@ -28,6 +28,13 @@
       <description>A concert by Kasabian is scheduled for 2027-03-27 at Ashford Revelation.</description>
       <guid isPermaLink="false">https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-tickets-2L5H9Y?ref=ticketmaster</guid>
       <pubDate>Sat, 27 Mar 2027 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nouvelle Vague @ Saint Luke's in Glasgow, Great Britain on 2027-03-19</title>
+      <link>https://www.universe.com/events/agmp-presents-nouvelle-vague-tickets-XZ7WGJ?ref=ticketmaster</link>
+      <description>A concert by Nouvelle Vague is scheduled for 2027-03-19 at Saint Luke's.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/agmp-presents-nouvelle-vague-tickets-XZ7WGJ?ref=ticketmaster</guid>
+      <pubDate>Fri, 19 Mar 2027 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ Beach Ballroom in Aberdeen, Great Britain on 2027-02-20</title>
@@ -450,6 +457,20 @@
       <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2026-06-14</title>
+      <link>https://www.universe.com/events/we-came-as-romans-tickets-6JNCMX?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-14 at Southampton 1865.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/we-came-as-romans-tickets-6JNCMX?ref=ticketmaster</guid>
+      <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Cheese and Grain in Frome, Great Britain on 2026-06-14</title>
+      <link>https://www.universe.com/events/drowning-pool-snot-tickets-Z4B9LD?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-14 at Cheese and Grain.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/drowning-pool-snot-tickets-Z4B9LD?ref=ticketmaster</guid>
+      <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dinosaur Pile Up @ Donington Park in Derby, Great Britain on 2026-06-14</title>
       <link>https://www.ticketmaster.co.uk/download-2026-sunday-arena-only-derby-14-06-2026/event/3600642FBCCC41B4</link>
       <description>A concert by Dinosaur Pile Up is scheduled for 2026-06-14 at Donington Park.</description>
@@ -679,20 +700,6 @@
       <description>A concert by The Heavy is scheduled for 2026-05-24 at N/A.</description>
       <guid isPermaLink="false">https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-1-day-ticket-24-may-2026--tickets/1240434458?language=en-us</guid>
       <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ N/A in Frankfurt am Main, Germany on 2026-05-22</title>
-      <link>https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-1-day-ticket-22-may-2026--tickets/1500876499?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-05-22 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-1-day-ticket-22-may-2026--tickets/1500876499?language=en-us</guid>
-      <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-05-18</title>
-      <link>https://www.universe.com/events/core-presents-blackwater-holylight-tickets-1VTM89?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-05-18 at The Cluny.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/core-presents-blackwater-holylight-tickets-1VTM89?ref=ticketmaster</guid>
-      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
