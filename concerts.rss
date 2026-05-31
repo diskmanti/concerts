@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 10:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 10:54:40 +0000</lastBuildDate>
     <item>
       <title>Kasabian @ Scarborough Spa Theatre in Scarborough, Great Britain on 2027-05-20</title>
       <link>https://www.ticketmaster.co.uk/tom-meighan-the-original-voice-of-scarborough-20-05-2027/event/3500644CB2BA509A</link>
@@ -450,6 +450,34 @@
       <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ De La Warr Pavilion in Bexhill on Sea, Great Britain on 2026-06-18</title>
+      <link>https://www.universe.com/events/drowning-pool-spineshank-tickets-W21THL?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-18 at De La Warr Pavilion.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/drowning-pool-spineshank-tickets-W21THL?ref=ticketmaster</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ High Lodge, Thetford Forest in Thetford, Great Britain on 2026-06-18</title>
+      <link>https://www.ticketmaster.co.uk/nile-rodgers-chic-thetford-thetford-18-06-2026/event/37006373FAC893B2</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-18 at High Lodge, Thetford Forest.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/nile-rodgers-chic-thetford-thetford-18-06-2026/event/37006373FAC893B2</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ G Live Guildford in Guildford, Great Britain on 2026-06-17</title>
+      <link>https://www.universe.com/events/drowning-pool-spineshank-tickets-72LH8M?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-17 at G Live Guildford.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/drowning-pool-spineshank-tickets-72LH8M?ref=ticketmaster</guid>
+      <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Tramshed in Cardiff, Great Britain on 2026-06-16</title>
+      <link>https://www.universe.com/events/drowning-pool-spineshank-tickets-2LWGYD?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-16 at Tramshed.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/drowning-pool-spineshank-tickets-2LWGYD?ref=ticketmaster</guid>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kasabian @ Fairview Park in Dublin, Ireland on 2026-06-16</title>
       <link>https://www.ticketmaster.ie/kasabian-dublin-16-06-2026/event/18006435C6F3D3E7</link>
       <description>A concert by Kasabian is scheduled for 2026-06-16 at Fairview Park.</description>
@@ -651,55 +679,6 @@
       <description>A concert by Massive Attack is scheduled for 2026-06-01 at N/A.</description>
       <guid isPermaLink="false">https://www.ticketmaster.dk/event/massive-attack-tickets/1180223623?language=en-us</guid>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Turbinenhalle 1 in Oberhausen, Germany on 2026-05-29</title>
-      <link>https://www.ticketmaster.de/event/slam-dunk-germany-tickets/1174762885?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-05-29 at Turbinenhalle 1.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.de/event/slam-dunk-germany-tickets/1174762885?language=en-us</guid>
-      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hives @ The Hive in Edinburgh, Great Britain on 2026-05-29</title>
-      <link>https://www.ticketmaster.co.uk/cryptic-shift-edinburgh-29-05-2026/event/36006489AA564D43</link>
-      <description>A concert by The Hives is scheduled for 2026-05-29 at The Hive.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/cryptic-shift-edinburgh-29-05-2026/event/36006489AA564D43</guid>
-      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Attack @ Veikkaus Arena in Helsinki, Finland on 2026-05-27</title>
-      <link>https://www.ticketmaster.fi/event/massive-attack-live-2026-%7C-legazy-seat-ticket-tickets/636561993?language=en-us</link>
-      <description>A concert by Massive Attack is scheduled for 2026-05-27 at Veikkaus Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.fi/event/massive-attack-live-2026-%7C-legazy-seat-ticket-tickets/636561993?language=en-us</guid>
-      <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Attack @ Veikkaus Arena in Helsinki, Finland on 2026-05-27</title>
-      <link>https://www.ticketmaster.fi/event/massive-attack-live-2026-%7C-premium-suite-ticket-tickets/1595186912?language=en-us</link>
-      <description>A concert by Massive Attack is scheduled for 2026-05-27 at Veikkaus Arena.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.fi/event/massive-attack-live-2026-%7C-premium-suite-ticket-tickets/1595186912?language=en-us</guid>
-      <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ N/A in Frankfurt am Main, Germany on 2026-05-24</title>
-      <link>https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-2-day-ticket-22--24-may-2026--tickets/52796236?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-05-24 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-2-day-ticket-22--24-may-2026--tickets/52796236?language=en-us</guid>
-      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Pod Minogą in Poznan, Poland on 2026-05-24</title>
-      <link>https://www.ticketmaster.pl/event/nuovo-testamento-tickets/1193159436?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-05-24 at Pod Minogą.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/nuovo-testamento-tickets/1193159436?language=en-us</guid>
-      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ N/A in Frankfurt am Main, Germany on 2026-05-24</title>
-      <link>https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-1-day-ticket-24-may-2026--tickets/1240434458?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-05-24 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.de/event/metallica--m72-world-tour-%7C-1-day-ticket-24-may-2026--tickets/1240434458?language=en-us</guid>
-      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
