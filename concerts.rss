@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 10:54:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 11:06:26 +0000</lastBuildDate>
+    <item>
+      <title>Kasabian @ Epic Studios in Norwich , Great Britain on 2027-05-28</title>
+      <link>https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-2027-tickets-M1WN5V?ref=ticketmaster</link>
+      <description>A concert by Kasabian is scheduled for 2027-05-28 at Epic Studios.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-2027-tickets-M1WN5V?ref=ticketmaster</guid>
+      <pubDate>Fri, 28 May 2027 12:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kasabian @ Scarborough Spa Theatre in Scarborough, Great Britain on 2027-05-20</title>
       <link>https://www.ticketmaster.co.uk/tom-meighan-the-original-voice-of-scarborough-20-05-2027/event/3500644CB2BA509A</link>
@@ -31,9 +38,9 @@
     </item>
     <item>
       <title>Nouvelle Vague @ Saint Luke's in Glasgow, Great Britain on 2027-03-19</title>
-      <link>https://www.universe.com/events/agmp-presents-nouvelle-vague-tickets-XZ7WGJ?ref=ticketmaster</link>
+      <link>https://www.universe.com/events/agmp-presents-nouvelle-vague-a-date-with-depeche-mode-tickets-XZ7WGJ?ref=ticketmaster</link>
       <description>A concert by Nouvelle Vague is scheduled for 2027-03-19 at Saint Luke's.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/agmp-presents-nouvelle-vague-tickets-XZ7WGJ?ref=ticketmaster</guid>
+      <guid isPermaLink="false">https://www.universe.com/events/agmp-presents-nouvelle-vague-a-date-with-depeche-mode-tickets-XZ7WGJ?ref=ticketmaster</guid>
       <pubDate>Fri, 19 Mar 2027 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -42,13 +49,6 @@
       <description>A concert by Kasabian is scheduled for 2027-02-20 at Beach Ballroom.</description>
       <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-916YDJ?ref=ticketmaster</guid>
       <pubDate>Sat, 20 Feb 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Asylum Hull University Union in Hull, Great Britain on 2026-12-19</title>
-      <link>https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-902NSM?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2026-12-19 at Asylum Hull University Union.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/tribute-festival-killers-v-fender-v-monkeys-v-oasis-v-kasabian-v-kaiser-tickets-902NSM?ref=ticketmaster</guid>
-      <pubDate>Sat, 19 Dec 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ Foundry, Sheffield in Sheffield, Great Britain on 2026-12-12</title>
@@ -289,11 +289,25 @@
       <pubDate>Sat, 15 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>1000mods @ Klub Liverpool in Wroclaw, Poland on 2026-08-05</title>
+      <link>https://www.ticketmaster.pl/event/1000mods-tickets/1287870262?language=en-us</link>
+      <description>A concert by 1000mods is scheduled for 2026-08-05 at Klub Liverpool.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/1000mods-tickets/1287870262?language=en-us</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>1000mods @ Tama in Poznan, Poland on 2026-08-04</title>
       <link>https://www.ticketmaster.pl/event/fu-manchu-%7C-support-1000mods-red-scalp-tickets/671116790?language=en-us</link>
       <description>A concert by 1000mods is scheduled for 2026-08-04 at Tama.</description>
       <guid isPermaLink="false">https://www.ticketmaster.pl/event/fu-manchu-%7C-support-1000mods-red-scalp-tickets/671116790?language=en-us</guid>
       <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1000mods @ Zauberberg in Passau, Germany on 2026-07-26</title>
+      <link>https://www.universe.com/events/1000mods-tickets-QYXBRT?ref=ticketmaster</link>
+      <description>A concert by 1000mods is scheduled for 2026-07-26 at Zauberberg.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/1000mods-tickets-QYXBRT?ref=ticketmaster</guid>
+      <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ Mostra d'Oltremare in Napoli, Italy on 2026-07-24</title>
@@ -321,6 +335,13 @@
       <link>https://www.ticketmaster.be/event/rock-werchter-2026-%7C-campingticket-the-hive-my-space-tickets/219629400</link>
       <description>A concert by The Hives is scheduled for 2026-07-05 at Festivalpark Werchter.</description>
       <guid isPermaLink="false">https://www.ticketmaster.be/event/rock-werchter-2026-%7C-campingticket-the-hive-my-space-tickets/219629400</guid>
+      <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hives @ Festivalpark Werchter in Werchter, Belgium on 2026-07-05</title>
+      <link>https://www.ticketmaster.be/event/rock-werchter-2026-%7C-breakfast-the-hive-mobilhome-tickets/148834361</link>
+      <description>A concert by The Hives is scheduled for 2026-07-05 at Festivalpark Werchter.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.be/event/rock-werchter-2026-%7C-breakfast-the-hive-mobilhome-tickets/148834361</guid>
       <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -422,6 +443,34 @@
       <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Barrowland Ballroom in Glasgow, Great Britain on 2026-06-25</title>
+      <link>https://www.ticketmaster.co.uk/sierra-ferrell-heavy-petal-tour-glasgow-25-06-2026/event/3600643CDB437CAF</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-25 at Barrowland Ballroom.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.co.uk/sierra-ferrell-heavy-petal-tour-glasgow-25-06-2026/event/3600643CDB437CAF</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Zorlu PSM - Turkcell Sahnesi in İstanbul, Turkey on 2026-06-25</title>
+      <link>https://www.biletix.com/performance/5X008/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-25 at Zorlu PSM - Turkcell Sahnesi.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/5X008/001/TURKIYE/tr</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Manchester Club Academy in Manchester, Great Britain on 2026-06-22</title>
+      <link>https://www.universe.com/events/queensryche-tickets-X2J5FY?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-22 at Manchester Club Academy.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/queensryche-tickets-X2J5FY?ref=ticketmaster</guid>
+      <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub B17 in Poznan, Poland on 2026-06-22</title>
+      <link>https://www.ticketmaster.pl/event/a-day-to-remember-%7C-support-madball-dying-wish-tickets/1553020322?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-22 at Klub B17.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/a-day-to-remember-%7C-support-madball-dying-wish-tickets/1553020322?language=en-us</guid>
+      <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kasabian @ Glasgow Green in Glasgow, Great Britain on 2026-06-20</title>
       <link>https://www.ticketmaster.co.uk/kasabian-trnsmt-paypal-presents-vip-sat-glasgow-20-06-2026/event/360063659CE56348</link>
       <description>A concert by Kasabian is scheduled for 2026-06-20 at Glasgow Green.</description>
@@ -448,6 +497,20 @@
       <description>A concert by Gorillaz is scheduled for 2026-06-20 at Tottenham Hotspur Stadium.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/gorillaz-london-20-06-2026/event/35006329CB103BDE</guid>
       <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Megaland in Landgraaf, Netherlands on 2026-06-19</title>
+      <link>https://www.ticketmaster.nl/event/pinkpop-2026-%7C-friday-tickets/1510048451?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-19 at Megaland.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/pinkpop-2026-%7C-friday-tickets/1510048451?language=en-us</guid>
+      <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Brudenell Social Club in Leeds, Great Britain on 2026-06-18</title>
+      <link>https://www.universe.com/events/faetooth-tickets-MV504N?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-18 at Brudenell Social Club.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/faetooth-tickets-MV504N?ref=ticketmaster</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Heavy @ De La Warr Pavilion in Bexhill on Sea, Great Britain on 2026-06-18</title>
@@ -576,13 +639,6 @@
       <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ Vinyl Room - Ziggo Dome in Amsterdam, Netherlands on 2026-06-10</title>
-      <link>https://www.ticketmaster.nl/event/iron-maiden-%7C-vinyl-room-upgrade-excluding-concert-ticket--tickets/889881333?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-10 at Vinyl Room - Ziggo Dome.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/iron-maiden-%7C-vinyl-room-upgrade-excluding-concert-ticket--tickets/889881333?language=en-us</guid>
-      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Heavy @ Ziggo Dome Club in Amsterdam, Netherlands on 2026-06-10</title>
       <link>https://www.ticketmaster.nl/event/iron-maiden-run-for-your-live-world-tour-2026-%7C-vinyl-room-package-tickets/211687706?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2026-06-10 at Ziggo Dome Club.</description>
@@ -630,55 +686,6 @@
       <description>A concert by Massive Attack is scheduled for 2026-06-08 at Vorst Nationaal/Forest National.</description>
       <guid isPermaLink="false">https://www.ticketmaster.be/event/massive-attack-tickets/1849584799</guid>
       <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Cluny 2 in Newcastle upon Tyne, NE1 2PQ, Great Britain on 2026-06-06</title>
-      <link>https://www.universe.com/events/kingmaker-tickets-69FZ5V?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-06 at Cluny 2.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/kingmaker-tickets-69FZ5V?ref=ticketmaster</guid>
-      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ N/A in Sölvesborg, Sweden on 2026-06-06</title>
-      <link>https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-saturday-tickets/1720083809?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-06 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-saturday-tickets/1720083809?language=en-us</guid>
-      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ N/A in Sölvesborg, Sweden on 2026-06-05</title>
-      <link>https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-friday-tickets/1957628660?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-05 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-friday-tickets/1957628660?language=en-us</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ N/A in Sölvesborg, Sweden on 2026-06-04</title>
-      <link>https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-thursday-tickets/1756496734?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-04 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-thursday-tickets/1756496734?language=en-us</guid>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ N/A in Sölvesborg, Sweden on 2026-06-03</title>
-      <link>https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-wednesday-tickets/305781859?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-03 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.se/event/sweden-rock-festival-2026-1-day-ticket-wednesday-tickets/305781859?language=en-us</guid>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Attack @ N/A in København S, Denmark on 2026-06-01</title>
-      <link>https://www.ticketmaster.dk/event/vinyl-room-access-massive-attack-koncertbillet-ej-inkl--tickets/827627709?language=en-us</link>
-      <description>A concert by Massive Attack is scheduled for 2026-06-01 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.dk/event/vinyl-room-access-massive-attack-koncertbillet-ej-inkl--tickets/827627709?language=en-us</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Attack @ N/A in København S, Denmark on 2026-06-01</title>
-      <link>https://www.ticketmaster.dk/event/massive-attack-tickets/1180223623?language=en-us</link>
-      <description>A concert by Massive Attack is scheduled for 2026-06-01 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.dk/event/massive-attack-tickets/1180223623?language=en-us</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
