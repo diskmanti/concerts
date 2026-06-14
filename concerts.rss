@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 11:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 11:27:17 +0000</lastBuildDate>
     <item>
       <title>Kasabian @ Epic Studios in Norwich , Great Britain on 2027-05-28</title>
       <link>https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-2027-tickets-M1WN5V?ref=ticketmaster</link>
@@ -42,6 +42,34 @@
       <description>A concert by Nouvelle Vague is scheduled for 2027-03-19 at Saint Luke's.</description>
       <guid isPermaLink="false">https://www.universe.com/events/agmp-presents-nouvelle-vague-a-date-with-depeche-mode-tickets-XZ7WGJ?ref=ticketmaster</guid>
       <pubDate>Fri, 19 Mar 2027 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nouvelle Vague @ Metronome in Nottingham, Great Britain on 2027-03-17</title>
+      <link>https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-FLSP7G?ref=ticketmaster</link>
+      <description>A concert by Nouvelle Vague is scheduled for 2027-03-17 at Metronome.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-FLSP7G?ref=ticketmaster</guid>
+      <pubDate>Wed, 17 Mar 2027 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nouvelle Vague @ Trinity in Bristol, Great Britain on 2027-03-14</title>
+      <link>https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-GB6CN1?ref=ticketmaster</link>
+      <description>A concert by Nouvelle Vague is scheduled for 2027-03-14 at Trinity.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-GB6CN1?ref=ticketmaster</guid>
+      <pubDate>Sun, 14 Mar 2027 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nouvelle Vague @ Band On The Wall. in Manchester, Great Britain on 2027-03-06</title>
+      <link>https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-K6DHYV?ref=ticketmaster</link>
+      <description>A concert by Nouvelle Vague is scheduled for 2027-03-06 at Band On The Wall..</description>
+      <guid isPermaLink="false">https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-K6DHYV?ref=ticketmaster</guid>
+      <pubDate>Sat, 06 Mar 2027 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nouvelle Vague @ KOKO in London, Great Britain on 2027-03-05</title>
+      <link>https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-C53WGD?ref=ticketmaster</link>
+      <description>A concert by Nouvelle Vague is scheduled for 2027-03-05 at KOKO.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-C53WGD?ref=ticketmaster</guid>
+      <pubDate>Fri, 05 Mar 2027 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ Beach Ballroom in Aberdeen, Great Britain on 2027-02-20</title>
@@ -304,9 +332,9 @@
     </item>
     <item>
       <title>1000mods @ Zauberberg in Passau, Germany on 2026-07-26</title>
-      <link>https://www.universe.com/events/1000mods-tickets-QYXBRT?ref=ticketmaster</link>
+      <link>https://www.universe.com/events/1000mods-the-delayed-live-in-passau-tickets-QYXBRT?ref=ticketmaster</link>
       <description>A concert by 1000mods is scheduled for 2026-07-26 at Zauberberg.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/1000mods-tickets-QYXBRT?ref=ticketmaster</guid>
+      <guid isPermaLink="false">https://www.universe.com/events/1000mods-the-delayed-live-in-passau-tickets-QYXBRT?ref=ticketmaster</guid>
       <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -429,10 +457,38 @@
       <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Project House in Leeds, Great Britain on 2026-07-01</title>
+      <link>https://www.universe.com/events/sunn-o-tickets-02GMQR?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-07-01 at Project House.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/sunn-o-tickets-02GMQR?ref=ticketmaster</guid>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Corn Exchange, Brighton in Brighton, Great Britain on 2026-06-29</title>
+      <link>https://www.universe.com/events/sunn-o-tickets-KZ36Q5?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-29 at Corn Exchange, Brighton.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/sunn-o-tickets-KZ36Q5?ref=ticketmaster</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Electric Bristol in Bristol, Great Britain on 2026-06-29</title>
+      <link>https://www.universe.com/events/knocked-loose-tickets-NWF4ZP?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-29 at Electric Bristol.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/knocked-loose-tickets-NWF4ZP?ref=ticketmaster</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Florence and the machine @ Marlay Park in Dublin, Ireland on 2026-06-28</title>
       <link>https://www.ticketmaster.ie/florence-the-machine-the-everybody-scream-dublin-28-06-2026/event/180063328E8CC35D</link>
       <description>A concert by Florence and the machine is scheduled for 2026-06-28 at Marlay Park.</description>
       <guid isPermaLink="false">https://www.ticketmaster.ie/florence-the-machine-the-everybody-scream-dublin-28-06-2026/event/180063328E8CC35D</guid>
+      <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ La Cripta Club in Cusano Milanino (Milano), Italy on 2026-06-28</title>
+      <link>https://www.ticketmaster.it/biglietti/escape-the-fate-cusano-milanino-milano-28-06-2026/event/fqbns7nqd66c</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-28 at La Cripta Club.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.it/biglietti/escape-the-fate-cusano-milanino-milano-28-06-2026/event/fqbns7nqd66c</guid>
       <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -441,6 +497,34 @@
       <description>A concert by Florence and the machine is scheduled for 2026-06-27 at Thomond Park Stadium.</description>
       <guid isPermaLink="false">https://www.ticketmaster.ie/florence-the-machine-the-everybody-scream-limerick-city-27-06-2026/event/18006338A40ED21D</guid>
       <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Frog &amp; Fiddle in Cheltenham , Great Britain on 2026-06-26</title>
+      <link>https://www.universe.com/events/everywhere-at-once-metal-2-the-masses-2026-cheltenham-grand-final-tickets-LGXSN0?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-26 at The Frog &amp; Fiddle.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/everywhere-at-once-metal-2-the-masses-2026-cheltenham-grand-final-tickets-LGXSN0?ref=ticketmaster</guid>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-06-26</title>
+      <link>https://www.universe.com/events/wretch-tickets-0SQVG7?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-26 at The Cluny.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/wretch-tickets-0SQVG7?ref=ticketmaster</guid>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-06-26</title>
+      <link>https://www.universe.com/events/everywhere-at-once-wretch-tickets-6NPXVB?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-26 at The Cluny.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/everywhere-at-once-wretch-tickets-6NPXVB?ref=ticketmaster</guid>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ The Castle in Luton, Great Britain on 2026-06-26</title>
+      <link>https://www.universe.com/events/everywhere-at-once-heavy-lungs-tickets-DJYFN8?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-06-26 at The Castle.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/everywhere-at-once-heavy-lungs-tickets-DJYFN8?ref=ticketmaster</guid>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Heavy @ Barrowland Ballroom in Glasgow, Great Britain on 2026-06-25</title>
@@ -576,34 +660,6 @@
       <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ SLAY in Glasgow, Great Britain on 2026-06-13</title>
-      <link>https://www.universe.com/events/voivod-midnight-tickets-09CQWD?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-13 at SLAY.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/voivod-midnight-tickets-09CQWD?ref=ticketmaster</guid>
-      <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Parkorman in İstanbul, Turkey on 2026-06-13</title>
-      <link>https://www.biletix.com/performance/5POAZ/001/TURKIYE/tr</link>
-      <description>A concert by Kasabian is scheduled for 2026-06-13 at Parkorman.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/5POAZ/001/TURKIYE/tr</guid>
-      <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Pod Minogą in Poznan, Poland on 2026-06-12</title>
-      <link>https://www.ticketmaster.pl/event/gridiron-support-heavy-runner-tickets/400855082?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-12 at Pod Minogą.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/gridiron-support-heavy-runner-tickets/400855082?language=en-us</guid>
-      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Rebellion Manchester in Manchester, Great Britain on 2026-06-12</title>
-      <link>https://www.universe.com/events/voivod-midnight-tickets-6RP95F?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-12 at Rebellion Manchester.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/voivod-midnight-tickets-6RP95F?ref=ticketmaster</guid>
-      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dinosaur Pile Up @ Donington Park in Derby, Great Britain on 2026-06-12</title>
       <link>https://www.ticketmaster.co.uk/download-2026-weekend-arena-payment-plan-derby-12-06-2026/event/36006351BD807AC9</link>
       <description>A concert by Dinosaur Pile Up is scheduled for 2026-06-12 at Donington Park.</description>
@@ -632,60 +688,11 @@
       <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ Hybrydy in Warsaw, Poland on 2026-06-11</title>
-      <link>https://www.ticketmaster.pl/event/malevolence-boundaries-gridiron-heavy-runner-tickets/247202094?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-11 at Hybrydy.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/malevolence-boundaries-gridiron-heavy-runner-tickets/247202094?language=en-us</guid>
-      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Ziggo Dome Club in Amsterdam, Netherlands on 2026-06-10</title>
-      <link>https://www.ticketmaster.nl/event/iron-maiden-run-for-your-live-world-tour-2026-%7C-vinyl-room-package-tickets/211687706?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-10 at Ziggo Dome Club.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/iron-maiden-run-for-your-live-world-tour-2026-%7C-vinyl-room-package-tickets/211687706?language=en-us</guid>
-      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dinosaur Pile Up @ Donington Park in Derby, Great Britain on 2026-06-10</title>
       <link>https://www.ticketmaster.co.uk/download-2026-campervancaravan-derby-10-06-2026/event/360062C6EBFC34FD</link>
       <description>A concert by Dinosaur Pile Up is scheduled for 2026-06-10 at Donington Park.</description>
       <guid isPermaLink="false">https://www.ticketmaster.co.uk/download-2026-campervancaravan-derby-10-06-2026/event/360062C6EBFC34FD</guid>
       <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Cart &amp; Horses in London, Great Britain on 2026-06-09</title>
-      <link>https://www.universe.com/events/50-not-wasted-years-at-cart-horses-a-heavy-metal-truants-benefit-tickets-RSLX56?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-09 at Cart &amp; Horses.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/50-not-wasted-years-at-cart-horses-a-heavy-metal-truants-benefit-tickets-RSLX56?ref=ticketmaster</guid>
-      <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2026-06-09</title>
-      <link>https://www.universe.com/events/voivod-midnight-tickets-PCQF6S?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-09 at Southampton 1865.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/voivod-midnight-tickets-PCQF6S?ref=ticketmaster</guid>
-      <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dune Rats @ Green Door Store in Brighton, Great Britain on 2026-06-09</title>
-      <link>https://www.universe.com/events/dune-rats-tickets-8KF7JN?ref=ticketmaster</link>
-      <description>A concert by Dune Rats is scheduled for 2026-06-09 at Green Door Store.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/dune-rats-tickets-8KF7JN?ref=ticketmaster</guid>
-      <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Circolo Magnolia in Segrate (Milano), Italy on 2026-06-08</title>
-      <link>https://www.ticketmaster.it/biglietti/black-veil-brides-the-funeral-portrait-segrate-08-06-2026/event/qrbc7101h8nr</link>
-      <description>A concert by The Heavy is scheduled for 2026-06-08 at Circolo Magnolia.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.it/biglietti/black-veil-brides-the-funeral-portrait-segrate-08-06-2026/event/qrbc7101h8nr</guid>
-      <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Attack @ Vorst Nationaal/Forest National in Forest (Brussels), Belgium on 2026-06-08</title>
-      <link>https://www.ticketmaster.be/event/massive-attack-tickets/1849584799</link>
-      <description>A concert by Massive Attack is scheduled for 2026-06-08 at Vorst Nationaal/Forest National.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.be/event/massive-attack-tickets/1849584799</guid>
-      <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
