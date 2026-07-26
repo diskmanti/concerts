@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 10:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 10:41:37 +0000</lastBuildDate>
     <item>
       <title>Kasabian @ Epic Studios in Norwich , Great Britain on 2027-05-28</title>
       <link>https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-2027-tickets-M1WN5V?ref=ticketmaster</link>
@@ -380,6 +380,62 @@
       <pubDate>Sat, 15 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Chmury in Warsaw, Poland on 2026-08-14</title>
+      <link>https://www.ticketmaster.pl/event/the-virginmarys-support-for-example-john-tickets/661169494?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-14 at Chmury.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/the-virginmarys-support-for-example-john-tickets/661169494?language=en-us</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Borde Hill Garden in West Sussex, Great Britain on 2026-08-13</title>
+      <link>https://www.universe.com/events/nile-rodgers-chic-borde-hill-summer-series-tickets-GLX2DN?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-13 at Borde Hill Garden.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/nile-rodgers-chic-borde-hill-summer-series-tickets-GLX2DN?ref=ticketmaster</guid>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub 2progi in Poznan, Poland on 2026-08-10</title>
+      <link>https://www.ticketmaster.pl/event/geordie-greep-tickets/1690274219?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-10 at Klub 2progi.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/geordie-greep-tickets/1690274219?language=en-us</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Festplatz „An der Lehmenkaute“ in Schwalmstadt-Treysa, Germany on 2026-08-09</title>
+      <link>https://www.universe.com/events/in-extremo-live-in-treysa-tickets-514FSZ?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-09 at Festplatz „An der Lehmenkaute“.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/in-extremo-live-in-treysa-tickets-514FSZ?ref=ticketmaster</guid>
+      <pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub 2progi in Poznan, Poland on 2026-08-09</title>
+      <link>https://www.ticketmaster.pl/event/this-will-destroy-you-tickets/1998182415?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-09 at Klub 2progi.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/this-will-destroy-you-tickets/1998182415?language=en-us</guid>
+      <pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Chinnerys in Southend-On-Sea, Great Britain on 2026-08-06</title>
+      <link>https://www.universe.com/events/wednesday-13-tickets-RYVNKM?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-06 at Chinnerys.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/wednesday-13-tickets-RYVNKM?ref=ticketmaster</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2026-08-05</title>
+      <link>https://www.universe.com/events/biohazard-tickets-SCT5YJ?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-05 at Southampton 1865.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/biohazard-tickets-SCT5YJ?ref=ticketmaster</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Thekla in Bristol, Great Britain on 2026-08-05</title>
+      <link>https://www.universe.com/events/life-of-agony-tickets-0LFWV6?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-05 at Thekla.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/life-of-agony-tickets-0LFWV6?ref=ticketmaster</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>1000mods @ Klub Liverpool in Wroclaw, Poland on 2026-08-05</title>
       <link>https://www.ticketmaster.pl/event/1000mods-support-astral-nomad-tickets/1287870262?language=en-us</link>
       <description>A concert by 1000mods is scheduled for 2026-08-05 at Klub Liverpool.</description>
@@ -387,11 +443,39 @@
       <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Sub89 in Reading, Great Britain on 2026-08-04</title>
+      <link>https://www.universe.com/events/life-of-agony-tickets-DX8VL9?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-04 at Sub89.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/life-of-agony-tickets-DX8VL9?ref=ticketmaster</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Audio in Glasgow, Great Britain on 2026-08-04</title>
+      <link>https://www.universe.com/events/vio-lence-cutthroat-tickets-2LJ9GV?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-04 at Audio.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/vio-lence-cutthroat-tickets-2LJ9GV?ref=ticketmaster</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>1000mods @ Tama in Poznan, Poland on 2026-08-04</title>
       <link>https://www.ticketmaster.pl/event/fu-manchu-%7C-support-1000mods-red-scalp-tickets/671116790?language=en-us</link>
       <description>A concert by 1000mods is scheduled for 2026-08-04 at Tama.</description>
       <guid isPermaLink="false">https://www.ticketmaster.pl/event/fu-manchu-%7C-support-1000mods-red-scalp-tickets/671116790?language=en-us</guid>
       <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Chalk, Brighton in Brighton, Great Britain on 2026-08-03</title>
+      <link>https://www.universe.com/events/animals-as-leaders-tickets-8BJDYN?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-03 at Chalk, Brighton.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/animals-as-leaders-tickets-8BJDYN?ref=ticketmaster</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Chinnerys in Southend-On-Sea, Great Britain on 2026-08-02</title>
+      <link>https://www.universe.com/events/life-of-agony-tickets-K36WPC?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-08-02 at Chinnerys.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/life-of-agony-tickets-K36WPC?ref=ticketmaster</guid>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nouvelle Vague @ Tarla Alaçatı in İzmir, Turkey on 2026-08-01</title>
@@ -402,9 +486,9 @@
     </item>
     <item>
       <title>The Heavy @ Zaklęte Rewiry in Wroclaw, Poland on 2026-07-31</title>
-      <link>https://www.ticketmaster.pl/event/crowbar-tickets/412763015?language=en-us</link>
+      <link>https://www.ticketmaster.pl/event/cancelled-crowbar-tickets/412763015?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2026-07-31 at Zaklęte Rewiry.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/crowbar-tickets/412763015?language=en-us</guid>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/cancelled-crowbar-tickets/412763015?language=en-us</guid>
       <pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -436,17 +520,17 @@
       <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Heavy @ Klub Drizzly Grizzly in Gdansk, Poland on 2026-07-27</title>
-      <link>https://www.ticketmaster.pl/event/voivod-%7C-support-salo-tickets/351409868?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-27 at Klub Drizzly Grizzly.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/voivod-%7C-support-salo-tickets/351409868?language=en-us</guid>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Heavy @ Klub Scenografia in Łódź , Poland on 2026-07-27</title>
       <link>https://www.ticketmaster.pl/event/phil-campbells-bastard-sons-tickets/1704715783?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2026-07-27 at Klub Scenografia.</description>
       <guid isPermaLink="false">https://www.ticketmaster.pl/event/phil-campbells-bastard-sons-tickets/1704715783?language=en-us</guid>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Klub Drizzly Grizzly in Gdansk, Poland on 2026-07-27</title>
+      <link>https://www.ticketmaster.pl/event/voivod-%7C-support-salo-tickets/351409868?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-07-27 at Klub Drizzly Grizzly.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/voivod-%7C-support-salo-tickets/351409868?language=en-us</guid>
       <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -462,97 +546,6 @@
       <description>A concert by 1000mods is scheduled for 2026-07-26 at Zauberberg.</description>
       <guid isPermaLink="false">https://www.universe.com/events/1000mods-the-delayed-live-in-passau-tickets-QYXBRT?ref=ticketmaster</guid>
       <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Kuusisaari in Oulu, Finland on 2026-07-25</title>
-      <link>https://www.ticketmaster.fi/event/qstock-2-day-ticket-tickets/406978331?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-25 at Kuusisaari.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.fi/event/qstock-2-day-ticket-tickets/406978331?language=en-us</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ King Tuts Wah Wah Hut in Glasgow, Great Britain on 2026-07-25</title>
-      <link>https://www.universe.com/events/king-tuts-summer-nights-presents-heavy-heads-tickets-G96WJ7?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-25 at King Tuts Wah Wah Hut.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/king-tuts-summer-nights-presents-heavy-heads-tickets-G96WJ7?ref=ticketmaster</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2026-07-25</title>
-      <link>https://www.universe.com/events/evil-scarecrow-tickets-C8BKTS?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-25 at Southampton 1865.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/evil-scarecrow-tickets-C8BKTS?ref=ticketmaster</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Audio in Glasgow, Great Britain on 2026-07-25</title>
-      <link>https://www.universe.com/events/arnocorps-tickets-JNKS4C?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-25 at Audio.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/arnocorps-tickets-JNKS4C?ref=ticketmaster</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Sebright Arms in London, Great Britain on 2026-07-25</title>
-      <link>https://www.universe.com/events/ninebar-tickets-5D03NP?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-25 at Sebright Arms.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/ninebar-tickets-5D03NP?ref=ticketmaster</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Maximum Uniq Open Air in İstanbul, Turkey on 2026-07-25</title>
-      <link>https://www.biletix.com/performance/5ST04/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-25 at Maximum Uniq Open Air.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/5ST04/001/TURKIYE/tr</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Maximum Uniq Open Air in İstanbul, Turkey on 2026-07-25</title>
-      <link>https://www.biletix.com/performance/5ST03/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-25 at Maximum Uniq Open Air.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/5ST03/001/TURKIYE/tr</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Cluny in Newcastle Upon Tyne, Great Britain on 2026-07-24</title>
-      <link>https://www.universe.com/events/arnocorps-tickets-7JZN6B?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-24 at The Cluny.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/arnocorps-tickets-7JZN6B?ref=ticketmaster</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Mostra d'Oltremare in Napoli, Italy on 2026-07-24</title>
-      <link>https://www.ticketmaster.it/biglietti/noisy-naples-26-day-2-kasabian-planet-funk-napoli-24-07-2026/event/zl97k1123ypf</link>
-      <description>A concert by Kasabian is scheduled for 2026-07-24 at Mostra d'Oltremare.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.it/biglietti/noisy-naples-26-day-2-kasabian-planet-funk-napoli-24-07-2026/event/zl97k1123ypf</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Niebo in Warsaw, Poland on 2026-07-22</title>
-      <link>https://www.ticketmaster.pl/event/violet-chachki-special-guests-ciotka-offka-martwa-euphoria-tickets/1924871208?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-22 at Niebo.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/violet-chachki-special-guests-ciotka-offka-martwa-euphoria-tickets/1924871208?language=en-us</guid>
-      <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Zorlu PSM - Turkcell Sahnesi in İstanbul, Turkey on 2026-07-19</title>
-      <link>https://www.biletix.com/performance/5X010/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-19 at Zorlu PSM - Turkcell Sahnesi.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/5X010/001/TURKIYE/tr</guid>
-      <pubDate>Sun, 19 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Life Park in İstanbul, Turkey on 2026-07-19</title>
-      <link>https://www.biletix.com/performance/5X018/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-19 at Life Park.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/5X018/001/TURKIYE/tr</guid>
-      <pubDate>Sun, 19 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Mote Park in Maidstone, Great Britain on 2026-07-17</title>
-      <link>https://www.universe.com/events/maid-of-stone-festival-2026-tickets-YSX7W3?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-07-17 at Mote Park.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/maid-of-stone-festival-2026-tickets-YSX7W3?ref=ticketmaster</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
