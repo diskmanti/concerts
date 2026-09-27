@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 13:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:31:56 +0000</lastBuildDate>
     <item>
       <title>Tame Impala @ Rotterdam Ahoy in Rotterdam, Netherlands on 2027-06-09</title>
       <link>https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/482904264?language=en-us</link>
@@ -178,6 +178,13 @@
     </item>
     <item>
       <title>Cage The Elephant @ N/A in Amsterdam, Netherlands on 2027-02-15</title>
+      <link>https://www.ticketmaster.nl/event/parking-permit-cage-the-elephant-tickets/992290406?language=en-us</link>
+      <description>A concert by Cage The Elephant is scheduled for 2027-02-15 at N/A.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.nl/event/parking-permit-cage-the-elephant-tickets/992290406?language=en-us</guid>
+      <pubDate>Mon, 15 Feb 2027 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cage The Elephant @ N/A in Amsterdam, Netherlands on 2027-02-15</title>
       <link>https://www.ticketmaster.nl/event/cage-the-elephant-dying-in-reverse-tour-tickets/752721309?language=en-us</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-02-15 at N/A.</description>
       <guid isPermaLink="false">https://www.ticketmaster.nl/event/cage-the-elephant-dying-in-reverse-tour-tickets/752721309?language=en-us</guid>
@@ -199,9 +206,9 @@
     </item>
     <item>
       <title>Nouvelle Vague @ Proxima in Warsaw, Poland on 2027-01-30</title>
-      <link>https://www.ticketmaster.pl/event/soundesign-roger-eno-daniel-bloom-i-gaba-kulka-tickets/1341566580?language=en-us</link>
+      <link>https://www.ticketmaster.pl/event/nouvelle-vague-a-date-with-depeche-mode-hedone-tickets/1341566580?language=en-us</link>
       <description>A concert by Nouvelle Vague is scheduled for 2027-01-30 at Proxima.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/soundesign-roger-eno-daniel-bloom-i-gaba-kulka-tickets/1341566580?language=en-us</guid>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/nouvelle-vague-a-date-with-depeche-mode-hedone-tickets/1341566580?language=en-us</guid>
       <pubDate>Sat, 30 Jan 2027 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -352,6 +359,27 @@
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Heavy @ Milyon Performance Hall Ankara in Ankara, Turkey on 2026-10-09</title>
+      <link>https://www.biletix.com/performance/5X028/001/TURKIYE/tr</link>
+      <description>A concert by The Heavy is scheduled for 2026-10-09 at Milyon Performance Hall Ankara.</description>
+      <guid isPermaLink="false">https://www.biletix.com/performance/5X028/001/TURKIYE/tr</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ Hydrozagadka in Warsaw, Poland on 2026-10-09</title>
+      <link>https://www.ticketmaster.pl/event/dub-pistols-tickets/1581229462?language=en-us</link>
+      <description>A concert by The Heavy is scheduled for 2026-10-09 at Hydrozagadka.</description>
+      <guid isPermaLink="false">https://www.ticketmaster.pl/event/dub-pistols-tickets/1581229462?language=en-us</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heavy @ SLAY in Glasgow, Great Britain on 2026-10-09</title>
+      <link>https://www.universe.com/events/tenside-aurorawave-sugar-spine-tickets-LB43VC?ref=ticketmaster</link>
+      <description>A concert by The Heavy is scheduled for 2026-10-09 at SLAY.</description>
+      <guid isPermaLink="false">https://www.universe.com/events/tenside-aurorawave-sugar-spine-tickets-LB43VC?ref=ticketmaster</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2026-10-09</title>
       <link>https://www.universe.com/events/fear-factory-tickets-GQ4X50?ref=ticketmaster</link>
       <description>A concert by The Heavy is scheduled for 2026-10-09 at Southampton 1865.</description>
@@ -391,13 +419,6 @@
       <link>https://www.ticketmaster.pl/event/king-woman-support-cockstar-the-sex-messiah-tickets/96716260?language=en-us</link>
       <description>A concert by The Heavy is scheduled for 2026-10-05 at Hydrozagadka.</description>
       <guid isPermaLink="false">https://www.ticketmaster.pl/event/king-woman-support-cockstar-the-sex-messiah-tickets/96716260?language=en-us</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Underworld in London, Great Britain on 2026-10-05</title>
-      <link>https://www.universe.com/events/uli-jon-roth-tickets-D371KM?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-05 at Underworld.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/uli-jon-roth-tickets-D371KM?ref=ticketmaster</guid>
       <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -476,20 +497,6 @@
       <description>A concert by The Heavy is scheduled for 2026-09-27 at Voodoo Club.</description>
       <guid isPermaLink="false">https://www.ticketmaster.pl/event/birds-in-row-tickets/618084030?language=en-us</guid>
       <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Cluny 2 in Newcastle upon Tyne, NE1 2PQ, Great Britain on 2026-09-21</title>
-      <link>https://www.universe.com/events/genitorturers-makes-my-blood-dance-tickets-2WFGC7?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-09-21 at Cluny 2.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/genitorturers-makes-my-blood-dance-tickets-2WFGC7?ref=ticketmaster</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Southampton 1865 in Southampton, Great Britain on 2026-09-20</title>
-      <link>https://www.universe.com/events/a-skylit-drive-vampires-everywhere-postponed-tickets-1KNV28?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-09-20 at Southampton 1865.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/a-skylit-drive-vampires-everywhere-postponed-tickets-1KNV28?ref=ticketmaster</guid>
-      <pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
