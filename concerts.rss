@@ -2,529 +2,284 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>European Concerts for Followed Artists</title>
-    <link>https://github.com/YOUR_USERNAME/YOUR_REPO</link>
+    <link>https://github.com/diskmanti/concerts</link>
     <description>Upcoming European concerts for artists followed in my list.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:16:45 +0000</lastBuildDate>
     <item>
       <title>Tame Impala @ Rotterdam Ahoy in Rotterdam, Netherlands on 2027-06-09</title>
       <link>https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/482904264?language=en-us</link>
       <description>A concert by Tame Impala is scheduled for 2027-06-09 at Rotterdam Ahoy.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/482904264?language=en-us</guid>
-      <pubDate>Wed, 09 Jun 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:Z698xZbpZ1k3e07a0</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ Rotterdam Ahoy in Rotterdam, Netherlands on 2027-06-08</title>
       <link>https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/670738928?language=en-us</link>
       <description>A concert by Tame Impala is scheduled for 2027-06-08 at Rotterdam Ahoy.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/670738928?language=en-us</guid>
-      <pubDate>Tue, 08 Jun 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:Z698xZbpZ1k_Yjz0I</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ Rotterdam Ahoy in Rotterdam, Netherlands on 2027-06-07</title>
       <link>https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/956263480?language=en-us</link>
       <description>A concert by Tame Impala is scheduled for 2027-06-07 at Rotterdam Ahoy.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/tame-impala-deadbeat-tour-tickets/956263480?language=en-us</guid>
-      <pubDate>Mon, 07 Jun 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:Z698xZbpZ1kPpaN3Z</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ The O2 in London, Great Britain on 2027-06-03</title>
       <link>https://www.ticketmaster.co.uk/tame-impala-deadbeat-euuk-tour-2027-london-03-06-2027/event/35006518F4D387DA</link>
       <description>A concert by Tame Impala is scheduled for 2027-06-03 at The O2.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/tame-impala-deadbeat-euuk-tour-2027-london-03-06-2027/event/35006518F4D387DA</guid>
-      <pubDate>Thu, 03 Jun 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:1AgZkfbGkdVVzLQ</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ The O2 in London, Great Britain on 2027-06-02</title>
       <link>https://www.ticketmaster.co.uk/tame-impala-deadbeat-euuk-tour-2027-london-02-06-2027/event/3500651526A30A1B</link>
       <description>A concert by Tame Impala is scheduled for 2027-06-02 at The O2.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/tame-impala-deadbeat-euuk-tour-2027-london-02-06-2027/event/3500651526A30A1B</guid>
-      <pubDate>Wed, 02 Jun 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:16dfZ_ofJG7IYIh</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ The O2 in London, Great Britain on 2027-06-01</title>
       <link>https://www.ticketmaster.co.uk/tame-impala-deadbeat-euuk-tour-2027-london-01-06-2027/event/3500651525FD098F</link>
       <description>A concert by Tame Impala is scheduled for 2027-06-01 at The O2.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/tame-impala-deadbeat-euuk-tour-2027-london-01-06-2027/event/3500651525FD098F</guid>
-      <pubDate>Tue, 01 Jun 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:16dfZ_ofPG7T8J2</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ Co-op Live in Manchester, Great Britain on 2027-05-29</title>
       <link>https://www.ticketmaster.co.uk/tame-impala-deadbeat-euuk-tour-2027-manchester-29-05-2027/event/37006519DE84F9ED</link>
       <description>A concert by Tame Impala is scheduled for 2027-05-29 at Co-op Live.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/tame-impala-deadbeat-euuk-tour-2027-manchester-29-05-2027/event/37006519DE84F9ED</guid>
-      <pubDate>Sat, 29 May 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Epic Studios in Norwich , Great Britain on 2027-05-28</title>
-      <link>https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-2027-tickets-M1WN5V?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2027-05-28 at Epic Studios.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-2027-tickets-M1WN5V?ref=ticketmaster</guid>
-      <pubDate>Fri, 28 May 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:1AMZkf_Gkdr-2Ec</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tame Impala @ Co-op Live in Manchester, Great Britain on 2027-05-28</title>
       <link>https://www.ticketmaster.co.uk/tame-impala-deadbeat-euuk-tour-2027-manchester-28-05-2027/event/37006515B7C2A40D</link>
       <description>A concert by Tame Impala is scheduled for 2027-05-28 at Co-op Live.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/tame-impala-deadbeat-euuk-tour-2027-manchester-28-05-2027/event/37006515B7C2A40D</guid>
-      <pubDate>Fri, 28 May 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Scarborough Spa Theatre in Scarborough, Great Britain on 2027-05-20</title>
-      <link>https://www.ticketmaster.co.uk/tom-meighan-the-original-voice-of-scarborough-20-05-2027/event/3500644CB2BA509A</link>
-      <description>A concert by Kasabian is scheduled for 2027-05-20 at Scarborough Spa Theatre.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/tom-meighan-the-original-voice-of-scarborough-20-05-2027/event/3500644CB2BA509A</guid>
-      <pubDate>Thu, 20 May 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Platform in Morecambe, Great Britain on 2027-05-05</title>
-      <link>https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-tickets-YKJQG3?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2027-05-05 at Platform.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-tickets-YKJQG3?ref=ticketmaster</guid>
-      <pubDate>Wed, 05 May 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dinosaur Pile Up @ Chalk, Brighton in Brighton, Great Britain on 2027-04-16</title>
-      <link>https://www.universe.com/events/dinosaur-pile-up-tickets-MC701K?ref=ticketmaster</link>
-      <description>A concert by Dinosaur Pile Up is scheduled for 2027-04-16 at Chalk, Brighton.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/dinosaur-pile-up-tickets-MC701K?ref=ticketmaster</guid>
-      <pubDate>Fri, 16 Apr 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dinosaur Pile Up @ Tramshed in Cardiff, Great Britain on 2027-04-14</title>
-      <link>https://www.universe.com/events/dinosaur-pile-up-tickets-DZLWYP?ref=ticketmaster</link>
-      <description>A concert by Dinosaur Pile Up is scheduled for 2027-04-14 at Tramshed.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/dinosaur-pile-up-tickets-DZLWYP?ref=ticketmaster</guid>
-      <pubDate>Wed, 14 Apr 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dinosaur Pile Up @ The Palais in Nottingham, Great Britain on 2027-04-01</title>
-      <link>https://www.ticketmaster.co.uk/dinosaur-pileup-nottingham-01-04-2027/event/3700653CF57A5D17</link>
-      <description>A concert by Dinosaur Pile Up is scheduled for 2027-04-01 at The Palais.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/dinosaur-pileup-nottingham-01-04-2027/event/3700653CF57A5D17</guid>
-      <pubDate>Thu, 01 Apr 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Ashford Revelation in Ashford , Great Britain on 2027-03-27</title>
-      <link>https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-tickets-2L5H9Y?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2027-03-27 at Ashford Revelation.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/tom-meighan-the-original-voice-of-kasabian-tickets-2L5H9Y?ref=ticketmaster</guid>
-      <pubDate>Sat, 27 Mar 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dinosaur Pile Up @ O2 Academy2 Sheffield in Sheffield, Great Britain on 2027-03-25</title>
-      <link>https://www.ticketmaster.co.uk/dinosaur-pileup-sheffield-25-03-2027/event/3E00652B425D0911</link>
-      <description>A concert by Dinosaur Pile Up is scheduled for 2027-03-25 at O2 Academy2 Sheffield.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/dinosaur-pileup-sheffield-25-03-2027/event/3E00652B425D0911</guid>
-      <pubDate>Thu, 25 Mar 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:1AMZkf4GkeMYn8u</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nouvelle Vague @ Saint Luke's in Glasgow, Great Britain on 2027-03-19</title>
       <link>https://www.universe.com/events/agmp-presents-nouvelle-vague-a-date-with-depeche-mode-tickets-XZ7WGJ?ref=ticketmaster</link>
       <description>A concert by Nouvelle Vague is scheduled for 2027-03-19 at Saint Luke's.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/agmp-presents-nouvelle-vague-a-date-with-depeche-mode-tickets-XZ7WGJ?ref=ticketmaster</guid>
-      <pubDate>Fri, 19 Mar 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18QO6u3N7MjZZy3bwg</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nouvelle Vague @ Metronome in Nottingham, Great Britain on 2027-03-17</title>
       <link>https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-FLSP7G?ref=ticketmaster</link>
       <description>A concert by Nouvelle Vague is scheduled for 2027-03-17 at Metronome.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-FLSP7G?ref=ticketmaster</guid>
-      <pubDate>Wed, 17 Mar 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18QxQj8QuJ5OvdY0ox</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nouvelle Vague @ Trinity in Bristol, Great Britain on 2027-03-14</title>
       <link>https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-GB6CN1?ref=ticketmaster</link>
       <description>A concert by Nouvelle Vague is scheduled for 2027-03-14 at Trinity.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-GB6CN1?ref=ticketmaster</guid>
-      <pubDate>Sun, 14 Mar 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18QxQQB7oTAOZ0fS_E</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nouvelle Vague @ Band On The Wall. in Manchester, Great Britain on 2027-03-06</title>
       <link>https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-K6DHYV?ref=ticketmaster</link>
       <description>A concert by Nouvelle Vague is scheduled for 2027-03-06 at Band On The Wall..</description>
-      <guid isPermaLink="false">https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-K6DHYV?ref=ticketmaster</guid>
-      <pubDate>Sat, 06 Mar 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18QxQ9XOFaGOZ0s4pF</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nouvelle Vague @ KOKO in London, Great Britain on 2027-03-05</title>
       <link>https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-C53WGD?ref=ticketmaster</link>
       <description>A concert by Nouvelle Vague is scheduled for 2027-03-05 at KOKO.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/nouvelle-vague-a-date-with-depeche-mode-tickets-C53WGD?ref=ticketmaster</guid>
-      <pubDate>Fri, 05 Mar 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18QxQ4gZpQJZv1-xRk</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cage The Elephant @ Alexandra Palace in London, Great Britain on 2027-03-01</title>
       <link>https://www.ticketmaster.co.uk/cage-the-elephant-london-01-03-2027/event/1F00652787E0116B</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-03-01 at Alexandra Palace.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/cage-the-elephant-london-01-03-2027/event/1F00652787E0116B</guid>
-      <pubDate>Mon, 01 Mar 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:G5vHZ_3r6zvAl</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cage The Elephant @ O2 Victoria Warehouse Manchester in Manchester, Great Britain on 2027-02-28</title>
       <link>https://www.ticketmaster.co.uk/cage-the-elephant-manchester-28-02-2027/event/3E00652484571491</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-02-28 at O2 Victoria Warehouse Manchester.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/cage-the-elephant-manchester-28-02-2027/event/3E00652484571491</guid>
-      <pubDate>Sun, 28 Feb 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:G5dzZ_3374s3o</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cage The Elephant @ O2 Academy Birmingham in Birmingham, Great Britain on 2027-02-26</title>
       <link>https://www.ticketmaster.co.uk/cage-the-elephant-birmingham-26-02-2027/event/3E006521A47D34DB</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-02-26 at O2 Academy Birmingham.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/cage-the-elephant-birmingham-26-02-2027/event/3E006521A47D34DB</guid>
-      <pubDate>Fri, 26 Feb 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:G5dzZ_3k0LKKh</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cage The Elephant @ O2 Academy Glasgow in Glasgow, Great Britain on 2027-02-25</title>
       <link>https://www.ticketmaster.co.uk/cage-the-elephant-glasgow-25-02-2027/event/3E006521AA13394A</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-02-25 at O2 Academy Glasgow.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/cage-the-elephant-glasgow-25-02-2027/event/3E006521AA13394A</guid>
-      <pubDate>Thu, 25 Feb 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:G5dzZ_3kn7SP1</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cage The Elephant @ O2 Academy Leeds in Leeds, Great Britain on 2027-02-23</title>
       <link>https://www.ticketmaster.co.uk/cage-the-elephant-leeds-23-02-2027/event/3E006522E4E16BE1</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-02-23 at O2 Academy Leeds.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/cage-the-elephant-leeds-23-02-2027/event/3E006522E4E16BE1</guid>
-      <pubDate>Tue, 23 Feb 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:G5dzZ_350zpR-</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cage The Elephant @ Depot Cardiff in Cardiff, Great Britain on 2027-02-22</title>
       <link>https://www.ticketmaster.co.uk/cage-the-elephant-cardiff-22-02-2027/event/3600652788BE2090</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-02-22 at Depot Cardiff.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/cage-the-elephant-cardiff-22-02-2027/event/3600652788BE2090</guid>
-      <pubDate>Mon, 22 Feb 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:16dbZ_3rFG7Rxe8</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cage The Elephant @ Fabrique in Milano, Italy on 2027-02-17</title>
       <link>https://www.ticketmaster.it/biglietti/cage-the-elephant-milano-17-02-2027/event/m448dcu1e9pk</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-02-17 at Fabrique.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.it/biglietti/cage-the-elephant-milano-17-02-2027/event/m448dcu1e9pk</guid>
-      <pubDate>Wed, 17 Feb 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cage The Elephant @ N/A in Amsterdam, Netherlands on 2027-02-15</title>
-      <link>https://www.ticketmaster.nl/event/parking-permit-cage-the-elephant-tickets/992290406?language=en-us</link>
-      <description>A concert by Cage The Elephant is scheduled for 2027-02-15 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/parking-permit-cage-the-elephant-tickets/992290406?language=en-us</guid>
-      <pubDate>Mon, 15 Feb 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:ZG9rmIYnyZdFvd</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cage The Elephant @ N/A in Amsterdam, Netherlands on 2027-02-15</title>
       <link>https://www.ticketmaster.nl/event/cage-the-elephant-dying-in-reverse-tour-tickets/752721309?language=en-us</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-02-15 at N/A.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/cage-the-elephant-dying-in-reverse-tour-tickets/752721309?language=en-us</guid>
-      <pubDate>Mon, 15 Feb 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:Z698xZbpZ1kq3j-Ga</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cage The Elephant @ AFAS Live Loge in Amsterdam, Netherlands on 2027-02-15</title>
       <link>https://www.ticketmaster.nl/event/cage-the-elephant-%7C-premium-seats-tickets/1414005074?language=en-us</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-02-15 at AFAS Live Loge.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.nl/event/cage-the-elephant-%7C-premium-seats-tickets/1414005074?language=en-us</guid>
-      <pubDate>Mon, 15 Feb 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:Z698xZbpZ16v8fZAvV</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cage The Elephant @ Klub Studio in Krakow, Poland on 2027-02-09</title>
       <link>https://www.ticketmaster.pl/event/cage-the-elephant-dying-in-reverse-tour-tickets/1356567682?language=en-us</link>
       <description>A concert by Cage The Elephant is scheduled for 2027-02-09 at Klub Studio.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/cage-the-elephant-dying-in-reverse-tour-tickets/1356567682?language=en-us</guid>
-      <pubDate>Tue, 09 Feb 2027 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:Z698xZQpZ16vup4EQe</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nouvelle Vague @ Proxima in Warsaw, Poland on 2027-01-30</title>
       <link>https://www.ticketmaster.pl/event/nouvelle-vague-a-date-with-depeche-mode-hedone-tickets/1341566580?language=en-us</link>
       <description>A concert by Nouvelle Vague is scheduled for 2027-01-30 at Proxima.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/nouvelle-vague-a-date-with-depeche-mode-hedone-tickets/1341566580?language=en-us</guid>
-      <pubDate>Sat, 30 Jan 2027 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hives @ The Hive in Waterford , Ireland on 2026-12-19</title>
-      <link>https://www.ticketmaster.ie/boomtown-rats-waterford-19-12-2026/event/180064FF9D751820</link>
-      <description>A concert by The Hives is scheduled for 2026-12-19 at The Hive.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/boomtown-rats-waterford-19-12-2026/event/180064FF9D751820</guid>
-      <pubDate>Sat, 19 Dec 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:Z698xZQpZ16vuv4JpZ</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ Co-op Live in Manchester, Great Britain on 2026-12-19</title>
       <link>https://www.ticketmaster.co.uk/kasabian-nothing-better-than-this-tour-manchester-19-12-2026/event/370064E883581743</link>
       <description>A concert by Kasabian is scheduled for 2026-12-19 at Co-op Live.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/kasabian-nothing-better-than-this-tour-manchester-19-12-2026/event/370064E883581743</guid>
-      <pubDate>Sat, 19 Dec 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hives @ The Hive in Waterford , Ireland on 2026-12-18</title>
-      <link>https://www.ticketmaster.ie/the-high-kings-waterford-18-12-2026/event/180064D6D80E0EC1</link>
-      <description>A concert by The Hives is scheduled for 2026-12-18 at The Hive.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/the-high-kings-waterford-18-12-2026/event/180064D6D80E0EC1</guid>
-      <pubDate>Fri, 18 Dec 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:17uYv0G6Cxdpvqd</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ The O2 in London, Great Britain on 2026-12-18</title>
       <link>https://www.ticketmaster.co.uk/kasabian-nothing-better-than-this-tour-london-18-12-2026/event/350064E8DF12DFC8</link>
       <description>A concert by Kasabian is scheduled for 2026-12-18 at The O2.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/kasabian-nothing-better-than-this-tour-london-18-12-2026/event/350064E8DF12DFC8</guid>
-      <pubDate>Fri, 18 Dec 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:17u8v0G6CNL7cTF</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ Utilita Arena Cardiff in Cardiff, Great Britain on 2026-12-16</title>
       <link>https://www.ticketmaster.co.uk/kasabian-nothing-better-than-this-tour-cardiff-16-12-2026/event/360064E6E611441B</link>
       <description>A concert by Kasabian is scheduled for 2026-12-16 at Utilita Arena Cardiff.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/kasabian-nothing-better-than-this-tour-cardiff-16-12-2026/event/360064E6E611441B</guid>
-      <pubDate>Wed, 16 Dec 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:17uOv0G6ChJ7f8h</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ OVO Hydro in Glasgow, Great Britain on 2026-12-13</title>
       <link>https://www.ticketmaster.co.uk/kasabian-nothing-better-than-this-tour-glasgow-13-12-2026/event/360064E7E1D74D01</link>
       <description>A concert by Kasabian is scheduled for 2026-12-13 at OVO Hydro.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/kasabian-nothing-better-than-this-tour-glasgow-13-12-2026/event/360064E7E1D74D01</guid>
-      <pubDate>Sun, 13 Dec 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:17uOv0G6CL-gVVv</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ OVO Hydro in Glasgow, Great Britain on 2026-12-13</title>
       <link>https://www.ticketmaster.co.uk/venue-premium-kasabian-glasgow-13-12-2026/event/360064E99099224E</link>
       <description>A concert by Kasabian is scheduled for 2026-12-13 at OVO Hydro.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/venue-premium-kasabian-glasgow-13-12-2026/event/360064E99099224E</guid>
-      <pubDate>Sun, 13 Dec 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Foundry, Sheffield in Sheffield, Great Britain on 2026-12-12</title>
-      <link>https://www.universe.com/events/indiepalooza-killers-v-monkeys-v-fender-v-oasis-v-kasabian-v-kaiser-tickets-5S91Z7?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2026-12-12 at Foundry, Sheffield.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/indiepalooza-killers-v-monkeys-v-fender-v-oasis-v-kasabian-v-kaiser-tickets-5S91Z7?ref=ticketmaster</guid>
-      <pubDate>Sat, 12 Dec 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:17uOv0G6CJ8J3aC</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kasabian @ Utilita Arena Birmingham in Birmingham, Great Britain on 2026-12-11</title>
       <link>https://www.ticketmaster.co.uk/kasabian-nothing-better-than-this-tour-birmingham-11-12-2026/event/230064E9CCE05906</link>
       <description>A concert by Kasabian is scheduled for 2026-12-11 at Utilita Arena Birmingham.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.co.uk/kasabian-nothing-better-than-this-tour-birmingham-11-12-2026/event/230064E9CCE05906</guid>
-      <pubDate>Fri, 11 Dec 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dinosaur Pile Up @ Arci Tom in Mantova, Italy on 2026-12-05</title>
-      <link>https://www.ticketmaster.it/biglietti/dinosaur-pile-up-mantova-05-12-2026/event/dajozfrumu6z</link>
-      <description>A concert by Dinosaur Pile Up is scheduled for 2026-12-05 at Arci Tom.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.it/biglietti/dinosaur-pile-up-mantova-05-12-2026/event/dajozfrumu6z</guid>
-      <pubDate>Sat, 05 Dec 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dinosaur Pile Up @ SPAZIO COMBO - SUONERIA in Settimo Torinese, Italy on 2026-12-04</title>
-      <link>https://www.ticketmaster.it/biglietti/dinosaur-pile-up-settimo-torinese-04-12-2026/event/d0fmx8ewgnao</link>
-      <description>A concert by Dinosaur Pile Up is scheduled for 2026-12-04 at SPAZIO COMBO - SUONERIA.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.it/biglietti/dinosaur-pile-up-settimo-torinese-04-12-2026/event/d0fmx8ewgnao</guid>
-      <pubDate>Fri, 04 Dec 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:17FYv0G6CEGzA0k</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ The Garage in London, Great Britain on 2026-11-29</title>
       <link>https://www.universe.com/events/1000mods-tickets-DSF5WG?ref=ticketmaster</link>
       <description>A concert by 1000mods is scheduled for 2026-11-29 at The Garage.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/1000mods-tickets-DSF5WG?ref=ticketmaster</guid>
-      <pubDate>Sun, 29 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18Q9NPm3dBk8ZlE-Hy</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ Thekla in Bristol, Great Britain on 2026-11-28</title>
       <link>https://www.universe.com/events/1000mods-tickets-MTYF4C?ref=ticketmaster</link>
       <description>A concert by 1000mods is scheduled for 2026-11-28 at Thekla.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/1000mods-tickets-MTYF4C?ref=ticketmaster</guid>
-      <pubDate>Sat, 28 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18Q9NrM5l3V8ZywbKE</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ Nottingham Rescue Rooms in Nottingham, Great Britain on 2026-11-27</title>
       <link>https://www.universe.com/events/1000mods-tickets-SNL5ZJ?ref=ticketmaster</link>
       <description>A concert by 1000mods is scheduled for 2026-11-27 at Nottingham Rescue Rooms.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/1000mods-tickets-SNL5ZJ?ref=ticketmaster</guid>
-      <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18Q9N-rkhZX8ZloM9r</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ Brudenell Social Club in Leeds, Great Britain on 2026-11-26</title>
       <link>https://www.universe.com/events/1000mods-tickets-PH1GKR?ref=ticketmaster</link>
       <description>A concert by 1000mods is scheduled for 2026-11-26 at Brudenell Social Club.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/1000mods-tickets-PH1GKR?ref=ticketmaster</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18Q9NNdJhZX8ZloM0v</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ SLAY in Glasgow, Great Britain on 2026-11-25</title>
       <link>https://www.universe.com/events/1000mods-tickets-FKMLH0?ref=ticketmaster</link>
       <description>A concert by 1000mods is scheduled for 2026-11-25 at SLAY.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/1000mods-tickets-FKMLH0?ref=ticketmaster</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18Q9Nn3PPe1YZwxoxh</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ Rebellion Manchester in Manchester, Great Britain on 2026-11-24</title>
       <link>https://www.universe.com/events/1000mods-tickets-VFBKC3?ref=ticketmaster</link>
       <description>A concert by 1000mods is scheduled for 2026-11-24 at Rebellion Manchester.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/1000mods-tickets-VFBKC3?ref=ticketmaster</guid>
-      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:LvZ18Q9NIFDvDKYZwNJZv</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ Dolans Warehouse in Limerick City, Ireland on 2026-11-22</title>
       <link>https://www.ticketmaster.ie/1000mods-limerick-city-22-11-2026/event/18006453AE66C63B</link>
       <description>A concert by 1000mods is scheduled for 2026-11-22 at Dolans Warehouse.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/1000mods-limerick-city-22-11-2026/event/18006453AE66C63B</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:1AbZkoKGkem_ibD</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ Voodoo in Belfast, Great Britain on 2026-11-21</title>
       <link>https://www.ticketmaster.ie/1000mods-belfast-21-11-2026/event/3800644AD8091FEE</link>
       <description>A concert by 1000mods is scheduled for 2026-11-21 at Voodoo.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/1000mods-belfast-21-11-2026/event/3800644AD8091FEE</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tm:1AdOZ_7GklbeoTm</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1000mods @ Whelans in Dublin, Ireland on 2026-11-20</title>
       <link>https://www.ticketmaster.ie/1000mods-dublin-20-11-2026/event/1800644B7DC93195</link>
       <description>A concert by 1000mods is scheduled for 2026-11-20 at Whelans.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.ie/1000mods-dublin-20-11-2026/event/1800644B7DC93195</guid>
-      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kasabian @ Southampton 1865 in Southampton, Great Britain on 2026-11-06</title>
-      <link>https://www.universe.com/events/indiepalooza-tribute-killers-v-monkeys-v-fender-v-oasis-v-kasabian-tickets-XMWLYH?ref=ticketmaster</link>
-      <description>A concert by Kasabian is scheduled for 2026-11-06 at Southampton 1865.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/indiepalooza-tribute-killers-v-monkeys-v-fender-v-oasis-v-kasabian-tickets-XMWLYH?ref=ticketmaster</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Centrum Teatru Muzyki i Tańca in Kutno, Poland on 2026-10-17</title>
-      <link>https://www.ticketmaster.pl/event/zenek-grabowski--cronica-%7C-z-pradem-rzeki-pyna-tylko-zdeche-ryby-tickets/252873364?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-17 at Centrum Teatru Muzyki i Tańca.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/zenek-grabowski--cronica-%7C-z-pradem-rzeki-pyna-tylko-zdeche-ryby-tickets/252873364?language=en-us</guid>
-      <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Kino Kosmos in Szczecin, Poland on 2026-10-17</title>
-      <link>https://www.ticketmaster.pl/event/skacz-jak-kucyk-tour-tickets/253421604?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-17 at Kino Kosmos.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/skacz-jak-kucyk-tour-tickets/253421604?language=en-us</guid>
-      <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Architektoniki Club Live Stage in Athens, Greece on 2026-10-17</title>
-      <link>https://www.ticketmaster.gr/swallow-the-sun_sp_2141472.html</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-17 at Architektoniki Club Live Stage.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.gr/swallow-the-sun_sp_2141472.html</guid>
-      <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Progresja in Warsaw, Poland on 2026-10-16</title>
-      <link>https://www.ticketmaster.pl/event/ark-hi-lo-tickets/60753105?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-16 at Progresja.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/ark-hi-lo-tickets/60753105?language=en-us</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Crescent in York, Great Britain on 2026-10-16</title>
-      <link>https://www.universe.com/events/big-band-of-boom-heavy-beat-brass-band-tickets-HCKNWV?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-16 at The Crescent.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/big-band-of-boom-heavy-beat-brass-band-tickets-HCKNWV?ref=ticketmaster</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ KOLA in Portsmouth, Great Britain on 2026-10-16</title>
-      <link>https://www.universe.com/events/khemmis-celestial-sanctuary-tickets-QGF6B1?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-16 at KOLA.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/khemmis-celestial-sanctuary-tickets-QGF6B1?ref=ticketmaster</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Brighton Concorde 2 in Brighton, Great Britain on 2026-10-16</title>
-      <link>https://www.universe.com/events/boris-pink-20th-anniversary-uk-tour-tickets-LYK0BT?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-16 at Brighton Concorde 2.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/boris-pink-20th-anniversary-uk-tour-tickets-LYK0BT?ref=ticketmaster</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Foundry in Torquay, Great Britain on 2026-10-16</title>
-      <link>https://www.universe.com/events/kris-barras-band-tickets-H352FV?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-16 at The Foundry.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/kris-barras-band-tickets-H352FV?ref=ticketmaster</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ KK's Steel Mill in Wolverhampton, Great Britain on 2026-10-15</title>
-      <link>https://www.universe.com/events/kris-barras-band-monsters-we-made-uk-tour-tickets-SBZ9G2?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-15 at KK's Steel Mill.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/kris-barras-band-monsters-we-made-uk-tour-tickets-SBZ9G2?ref=ticketmaster</guid>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Electric Brixton in London, Great Britain on 2026-10-15</title>
-      <link>https://www.universe.com/events/boris-pink-20th-anniversary-uk-tour-tickets-QVF5S1?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-15 at Electric Brixton.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/boris-pink-20th-anniversary-uk-tour-tickets-QVF5S1?ref=ticketmaster</guid>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Zaklęte Rewiry in Wroclaw, Poland on 2026-10-14</title>
-      <link>https://www.ticketmaster.pl/event/richard-bona-quintet-tickets/1405070328?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-14 at Zaklęte Rewiry.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/richard-bona-quintet-tickets/1405070328?language=en-us</guid>
+      <guid isPermaLink="false">tm:1AvOZ_7GkcWwKk4</guid>
       <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ XOYO Birmingham in Birmingham, Great Britain on 2026-10-14</title>
-      <link>https://www.universe.com/events/guilt-trip-tickets-476ZN8?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-14 at XOYO Birmingham.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/guilt-trip-tickets-476ZN8?ref=ticketmaster</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Blind İstanbul in İstanbul, Turkey on 2026-10-13</title>
-      <link>https://www.biletix.com/performance/5X017/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-13 at Blind İstanbul.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/5X017/001/TURKIYE/tr</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ The Garage in London, Great Britain on 2026-10-13</title>
-      <link>https://www.universe.com/events/kris-barras-band-tickets-1JQPMB?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-13 at The Garage.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/kris-barras-band-tickets-1JQPMB?ref=ticketmaster</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Klub Kwadrat in Krakow, Poland on 2026-10-13</title>
-      <link>https://www.ticketmaster.pl/event/richard-bona-quintet-tickets/1134958145?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-13 at Klub Kwadrat.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/richard-bona-quintet-tickets/1134958145?language=en-us</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Tama in Poznan, Poland on 2026-10-12</title>
-      <link>https://www.ticketmaster.pl/event/richard-bona-quintet-tickets/701379360?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-12 at Tama.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/richard-bona-quintet-tickets/701379360?language=en-us</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Zorlu PSM - Turkcell Sahnesi in İstanbul, Turkey on 2026-10-11</title>
-      <link>https://www.biletix.com/performance/5X030/001/TURKIYE/tr</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-11 at Zorlu PSM - Turkcell Sahnesi.</description>
-      <guid isPermaLink="false">https://www.biletix.com/performance/5X030/001/TURKIYE/tr</guid>
-      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ SLAY in Glasgow, Great Britain on 2026-10-11</title>
-      <link>https://www.universe.com/events/humanitys-last-breath-vildhjarta-enterprise-earth-karmanjakah-tickets-WFK30Q?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-11 at SLAY.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/humanitys-last-breath-vildhjarta-enterprise-earth-karmanjakah-tickets-WFK30Q?ref=ticketmaster</guid>
-      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ MASH in Cambridge , Great Britain on 2026-10-11</title>
-      <link>https://www.universe.com/events/kris-barras-band-tickets-F75QNJ?ref=ticketmaster</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-11 at MASH.</description>
-      <guid isPermaLink="false">https://www.universe.com/events/kris-barras-band-tickets-F75QNJ?ref=ticketmaster</guid>
-      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Heavy @ Stary Klasztor in Wroclaw, Poland on 2026-10-11</title>
-      <link>https://www.ticketmaster.pl/event/zenek-grabowski--cronica-%7C-z-pradem-rzeki-pyna-tylko-zdeche-ryby-tickets/1911096955?language=en-us</link>
-      <description>A concert by The Heavy is scheduled for 2026-10-11 at Stary Klasztor.</description>
-      <guid isPermaLink="false">https://www.ticketmaster.pl/event/zenek-grabowski--cronica-%7C-z-pradem-rzeki-pyna-tylko-zdeche-ryby-tickets/1911096955?language=en-us</guid>
-      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
