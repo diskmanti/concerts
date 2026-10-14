@@ -21,7 +21,7 @@ EUROPEAN_COUNTRIES = {
     "AL": "Albania", "AD": "Andorra", "AM": "Armenia", "AT": "Austria", "BY": "Belarus",
     "BE": "Belgium", "BA": "Bosnia and Herzegovina", "BG": "Bulgaria", "CH": "Switzerland",
     "CY": "Cyprus", "CZ": "Czech Republic", "DE": "Germany", "DK": "Denmark", "EE": "Estonia",
-    "ES": "Spain", "FO": "Faroe Islands", "FI": "Finland", "FR": "France", "GB": "United Kingdom",
+    "ES": "Spain", "FO": "Faroe Islands", "FI": "Finland", "FR": "France",
     "GE": "Georgia", "GI": "Gibraltar", "GR": "Greece", "HR": "Croatia", "HU": "Hungary",
     "IE": "Ireland", "IS": "Iceland", "IT": "Italy", "LI": "Liechtenstein", "LT": "Lithuania",
     "LU": "Luxembourg", "LV": "Latvia", "MC": "Monaco", "MD": "Moldova", "ME": "Montenegro",
@@ -30,7 +30,7 @@ EUROPEAN_COUNTRIES = {
     "SI": "Slovenia", "SK": "Slovakia", "SM": "San Marino", "TR": "Turkey", "UA": "Ukraine",
     "VA": "Vatican City",
 }
-EUROPEAN_COUNTRY_NAMES = set(EUROPEAN_COUNTRIES.values()) | {"Czechia", "UK", "Türkiye"}
+EUROPEAN_COUNTRY_NAMES = set(EUROPEAN_COUNTRIES.values()) | {"Czechia", "Türkiye"}
 
 
 def ticketmaster_get(endpoint, params):
